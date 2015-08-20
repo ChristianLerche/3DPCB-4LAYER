@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = 31-03-2015 06:19:22
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 20-08-2015 18:38:05
 
 BeginCmp
 TimeStamp = /524ADFCF;
@@ -71,6 +71,13 @@ IdModule  = c_tant_A;
 EndCmp
 
 BeginCmp
+TimeStamp = /55D61144;
+Reference = C11;
+ValeurCmp = 100uF;
+IdModule  = c_elec_5x5.8;
+EndCmp
+
+BeginCmp
 TimeStamp = /524C17DC;
 Reference = C12;
 ValeurCmp = 100n;
@@ -122,6 +129,13 @@ EndCmp
 BeginCmp
 TimeStamp = /5502848E;
 Reference = C19;
+ValeurCmp = 100n;
+IdModule  = Lerche_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D62D53;
+Reference = C20;
 ValeurCmp = 100n;
 IdModule  = Lerche_C0603;
 EndCmp
@@ -276,7 +290,7 @@ EndCmp
 BeginCmp
 TimeStamp = /524E8190;
 Reference = C43;
-ValeurCmp = 100uF;
+ValeurCmp = 47uF;
 IdModule  = c_elec_5x5.8;
 EndCmp
 
@@ -298,13 +312,6 @@ BeginCmp
 TimeStamp = /524E857C;
 Reference = C46;
 ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5260E283;
-Reference = C47;
-ValeurCmp = 3.3nF;
 IdModule  = Lerche_C0603;
 EndCmp
 
@@ -526,6 +533,13 @@ IdModule  = Lerche_SOD323;
 EndCmp
 
 BeginCmp
+TimeStamp = /55374081;
+Reference = D10;
+ValeurCmp = DIODE;
+IdModule  = Lerche_SOD323;
+EndCmp
+
+BeginCmp
 TimeStamp = /538A1943;
 Reference = IC1;
 ValeurCmp = DRV8825;
@@ -558,6 +572,13 @@ TimeStamp = /53E4EB0A;
 Reference = IC5;
 ValeurCmp = DRV8825;
 IdModule  = Lerche_TSSOP28_EP;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D6086C;
+Reference = IC6;
+ValeurCmp = MP9943;
+IdModule  = ;
 EndCmp
 
 BeginCmp
@@ -745,7 +766,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5260BF3A;
 Reference = L2;
-ValeurCmp = INDUCTOR;
+ValeurCmp = 10uH;
 IdModule  = Lerche_IHLP-1212BZ-11_Inductor;
 EndCmp
 
@@ -1086,10 +1107,45 @@ IdModule  = Lerche_R0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /55D62441;
+Reference = R35;
+ValeurCmp = 1M;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D62FF8;
+Reference = R36;
+ValeurCmp = 20R;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /524B2E46;
 Reference = R37;
 ValeurCmp = 0R1;
 IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D63E21;
+Reference = R38;
+ValeurCmp = 51k;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D63E32;
+Reference = R39;
+ValeurCmp = 13k;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D63E2C;
+Reference = R40;
+ValeurCmp = 41k2;
+IdModule  = Lerche_R0603;
 EndCmp
 
 BeginCmp
@@ -1300,13 +1356,6 @@ TimeStamp = /5259155C;
 Reference = U17;
 ValeurCmp = TC4427;
 IdModule  = so-8;
-EndCmp
-
-BeginCmp
-TimeStamp = /5260BF2B;
-Reference = U20;
-ValeurCmp = TPS6213X;
-IdModule  = Lerche_QFN16-EP;
 EndCmp
 
 BeginCmp

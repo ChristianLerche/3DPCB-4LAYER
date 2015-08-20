@@ -1,10 +1,5 @@
-update=20-08-2015 18:24:37
-last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+update=20-08-2015 18:36:12
+last_client=cvpcb
 [general]
 version=1
 [pcbnew]
@@ -27,7 +22,6 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.250000000000
 [pcbnew/libraries]
-LibDir=../../KiCAD Library
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -44,9 +38,10 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-LibName17=lerchetech
-LibName18=modules/w_logo
-LibName19=modules/w_conn_screw
+LibName17=modules/w_logo
+LibName18=modules/w_conn_screw
+LibName19=lerchetech
+LibDir=../KiCAD Library
 [eeschema]
 version=1
 LibDir=../KiCAD Library
@@ -87,3 +82,8 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=lerchetech
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
