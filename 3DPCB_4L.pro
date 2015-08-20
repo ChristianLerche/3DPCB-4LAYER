@@ -1,4 +1,4 @@
-update=30-08-2014 09:51:13
+update=20-08-2015 18:24:37
 last_client=eeschema
 [cvpcb]
 version=1
@@ -49,7 +49,7 @@ LibName18=modules/w_logo
 LibName19=modules/w_conn_screw
 [eeschema]
 version=1
-LibDir=../../KiCAD Library
+LibDir=../KiCAD Library
 NetFmtName=
 RptD_X=0
 RptD_Y=100
