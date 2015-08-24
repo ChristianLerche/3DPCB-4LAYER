@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 20-08-2015 18:38:05
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 24-08-2015 05:08:16
 
 BeginCmp
 TimeStamp = /524ADFCF;
@@ -74,7 +74,7 @@ BeginCmp
 TimeStamp = /55D61144;
 Reference = C11;
 ValeurCmp = 100uF;
-IdModule  = c_elec_5x5.8;
+IdModule  = C1V7;
 EndCmp
 
 BeginCmp
@@ -158,28 +158,28 @@ BeginCmp
 TimeStamp = /524B8C9F;
 Reference = C24;
 ValeurCmp = 100uF;
-IdModule  = c_elec_5x5.8;
+IdModule  = C1V7;
 EndCmp
 
 BeginCmp
 TimeStamp = /524B8CAC;
 Reference = C25;
 ValeurCmp = 100uF;
-IdModule  = c_elec_5x5.8;
+IdModule  = C1V7;
 EndCmp
 
 BeginCmp
 TimeStamp = /524B8CB2;
 Reference = C26;
 ValeurCmp = 100uF;
-IdModule  = c_elec_5x5.8;
+IdModule  = C1V7;
 EndCmp
 
 BeginCmp
 TimeStamp = /524B8CB8;
 Reference = C27;
 ValeurCmp = 100uF;
-IdModule  = c_elec_5x5.8;
+IdModule  = C1V7;
 EndCmp
 
 BeginCmp
@@ -316,20 +316,6 @@ IdModule  = Lerche_C0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E26D76;
-Reference = C48;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /52E26D7C;
-Reference = C49;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
 TimeStamp = /52695CF1;
 Reference = C50;
 ValeurCmp = 100n;
@@ -360,55 +346,6 @@ EndCmp
 BeginCmp
 TimeStamp = /538A873D;
 Reference = C54;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /52E26D6A;
-Reference = C55;
-ValeurCmp = 10uF;
-IdModule  = c_tant_A;
-EndCmp
-
-BeginCmp
-TimeStamp = /533626B1;
-Reference = C56;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /53362983;
-Reference = C57;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /533629A1;
-Reference = C58;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /53362929;
-Reference = C59;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5336298F;
-Reference = C60;
-ValeurCmp = 100n;
-IdModule  = Lerche_C0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /533629C1;
-Reference = C61;
 ValeurCmp = 100n;
 IdModule  = Lerche_C0603;
 EndCmp
@@ -452,7 +389,7 @@ BeginCmp
 TimeStamp = /53E62C06;
 Reference = C70;
 ValeurCmp = 100uF;
-IdModule  = c_elec_5x5.8;
+IdModule  = C1V7;
 EndCmp
 
 BeginCmp
@@ -533,13 +470,6 @@ IdModule  = Lerche_SOD323;
 EndCmp
 
 BeginCmp
-TimeStamp = /55374081;
-Reference = D10;
-ValeurCmp = DIODE;
-IdModule  = Lerche_SOD323;
-EndCmp
-
-BeginCmp
 TimeStamp = /538A1943;
 Reference = IC1;
 ValeurCmp = DRV8825;
@@ -578,14 +508,7 @@ BeginCmp
 TimeStamp = /55D6086C;
 Reference = IC6;
 ValeurCmp = MP9943;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52E29080;
-Reference = J1;
-ValeurCmp = SOLDER_JUMPER_3P;
-IdModule  = Lerche_Solder_Jumper_3P;
+IdModule  = Lerche_MP9943;
 EndCmp
 
 BeginCmp
@@ -739,7 +662,7 @@ BeginCmp
 TimeStamp = /5253846A;
 Reference = K7;
 ValeurCmp = CONN_3;
-IdModule  = Lerche_3P_2.54mm;
+IdModule  = Lerche_3P_1.27MM;
 EndCmp
 
 BeginCmp
@@ -766,7 +689,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5260BF3A;
 Reference = L2;
-ValeurCmp = 10uH;
+ValeurCmp = IHLP1212-10uH;
 IdModule  = Lerche_IHLP-1212BZ-11_Inductor;
 EndCmp
 
@@ -785,24 +708,10 @@ IdModule  = Lerche_8P_2.54mm;
 EndCmp
 
 BeginCmp
-TimeStamp = /524C09F3;
+TimeStamp = /55DA95AB;
 Reference = P2;
-ValeurCmp = CONN_2;
-IdModule  = Lerche_2P_2.54mm_Large;
-EndCmp
-
-BeginCmp
-TimeStamp = /524C0A00;
-Reference = P3;
-ValeurCmp = CONN_2;
-IdModule  = Lerche_2P_2.54mm_Large;
-EndCmp
-
-BeginCmp
-TimeStamp = /524C0A2E;
-Reference = P4;
-ValeurCmp = CONN_2;
-IdModule  = Lerche_2P_2.54mm_Large;
+ValeurCmp = CONN_8;
+IdModule  = Lerche_8P_CONN_3,5mm;
 EndCmp
 
 BeginCmp
@@ -841,17 +750,10 @@ IdModule  = PIN_ARRAY_4x1;
 EndCmp
 
 BeginCmp
-TimeStamp = /527BAFE9;
-Reference = P10;
-ValeurCmp = CONN_2;
-IdModule  = Lerche_2P_2.54mm_Large;
-EndCmp
-
-BeginCmp
 TimeStamp = /5368F485;
 Reference = P11;
 ValeurCmp = CONN_3X2;
-IdModule  = Lerche_6P_1.6mm_2ROW;
+IdModule  = pin_array_3x2;
 EndCmp
 
 BeginCmp
@@ -962,28 +864,21 @@ EndCmp
 BeginCmp
 TimeStamp = /524BFF34;
 Reference = R14;
-ValeurCmp = 4K7;
+ValeurCmp = 9k;
 IdModule  = Lerche_R0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /524BFF2E;
 Reference = R15;
-ValeurCmp = 4K7;
+ValeurCmp = 9k;
 IdModule  = Lerche_R0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /524C0A1F;
 Reference = R16;
-ValeurCmp = 4K7;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /533626BE;
-Reference = R17;
-ValeurCmp = 1k;
+ValeurCmp = 9k;
 IdModule  = Lerche_R0603;
 EndCmp
 
@@ -1004,7 +899,7 @@ EndCmp
 BeginCmp
 TimeStamp = /527BAFDA;
 Reference = R20;
-ValeurCmp = 4K7;
+ValeurCmp = 9k;
 IdModule  = Lerche_R0603;
 EndCmp
 
@@ -1034,20 +929,6 @@ TimeStamp = /538A85FB;
 Reference = R24;
 ValeurCmp = 0R1;
 IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5336294F;
-Reference = R25;
-ValeurCmp = 1k;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /533629A7;
-Reference = R26;
-ValeurCmp = 1k;
-IdModule  = Lerche_R0603;
 EndCmp
 
 BeginCmp
@@ -1089,7 +970,7 @@ BeginCmp
 TimeStamp = /53E4EAD3;
 Reference = R32;
 ValeurCmp = 0R1;
-IdModule  = Lerche_R1206;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
@@ -1184,72 +1065,37 @@ IdModule  = Lerche_R0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /533626A2;
-Reference = R46;
-ValeurCmp = 5k6;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /53362943;
-Reference = R47;
-ValeurCmp = 5k6;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5336299B;
-Reference = R48;
-ValeurCmp = 5k6;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5336292F;
-Reference = R49;
-ValeurCmp = 1k;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5336296F;
-Reference = R50;
-ValeurCmp = 1k;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /533629C7;
-Reference = R51;
-ValeurCmp = 1k;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /53362923;
-Reference = R52;
-ValeurCmp = 5k6;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /53362963;
-Reference = R53;
-ValeurCmp = 5k6;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /533629BB;
-Reference = R54;
-ValeurCmp = 5k6;
-IdModule  = Lerche_R0603;
-EndCmp
-
-BeginCmp
 TimeStamp = /5343EF38;
 Reference = R55;
 ValeurCmp = 5k8;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D86BBC;
+Reference = R56;
+ValeurCmp = 3k;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D87633;
+Reference = R57;
+ValeurCmp = 3k;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D8763F;
+Reference = R58;
+ValeurCmp = 3k;
+IdModule  = Lerche_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D87639;
+Reference = R59;
+ValeurCmp = 3k;
 IdModule  = Lerche_R0603;
 EndCmp
 
@@ -1284,7 +1130,7 @@ EndCmp
 BeginCmp
 TimeStamp = /524BF956;
 Reference = U5;
-ValeurCmp = MOS_NFET;
+ValeurCmp = IRFH7932;
 IdModule  = Lerche_PQFN_5x6B;
 EndCmp
 
@@ -1298,14 +1144,14 @@ EndCmp
 BeginCmp
 TimeStamp = /524BFC45;
 Reference = U7;
-ValeurCmp = MOS_NFET;
+ValeurCmp = IRFH7932;
 IdModule  = Lerche_PQFN_5x6B;
 EndCmp
 
 BeginCmp
 TimeStamp = /524C0A12;
 Reference = U8;
-ValeurCmp = MOS_NFET;
+ValeurCmp = IRFH7932;
 IdModule  = Lerche_PQFN_5x6B;
 EndCmp
 
@@ -1319,7 +1165,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53E61024;
 Reference = U11;
-ValeurCmp = TC4427;
+ValeurCmp = IX4427;
 IdModule  = so-8;
 EndCmp
 
@@ -1354,7 +1200,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5259155C;
 Reference = U17;
-ValeurCmp = TC4427;
+ValeurCmp = IX4427;
 IdModule  = so-8;
 EndCmp
 
@@ -1382,7 +1228,7 @@ EndCmp
 BeginCmp
 TimeStamp = /527BAFCD;
 Reference = U24;
-ValeurCmp = MOS_NFET;
+ValeurCmp = IRFH7932;
 IdModule  = Lerche_PQFN_5x6B;
 EndCmp
 
@@ -1391,13 +1237,6 @@ TimeStamp = /52E6823D;
 Reference = U25;
 ValeurCmp = CONN_4_LERCHE;
 IdModule  = PIN_ARRAY_4x1;
-EndCmp
-
-BeginCmp
-TimeStamp = /52E26D5D;
-Reference = VREG1;
-ValeurCmp = AMS1117;
-IdModule  = Lerche_SOT-223;
 EndCmp
 
 EndListe
