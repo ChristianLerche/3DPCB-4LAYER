@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14-09-2015 18:28:24
+Cmp-Mod V01 Created by PcbNew date = 04-09-2015 05:36:56
 
 BeginCmp
 TimeStamp = /524ADFCF;
@@ -470,34 +470,6 @@ IdModule  = Lerche_SOD323;
 EndCmp
 
 BeginCmp
-TimeStamp = /55F69685;
-Reference = FID1;
-ValeurCmp = FIDUCIAL;
-IdModule  = Lerche_Fiducial;
-EndCmp
-
-BeginCmp
-TimeStamp = /55F69692;
-Reference = FID2;
-ValeurCmp = FIDUCIAL;
-IdModule  = Lerche_Fiducial;
-EndCmp
-
-BeginCmp
-TimeStamp = /55F69698;
-Reference = FID3;
-ValeurCmp = FIDUCIAL;
-IdModule  = Lerche_Fiducial;
-EndCmp
-
-BeginCmp
-TimeStamp = /55F6969E;
-Reference = FID4;
-ValeurCmp = FIDUCIAL;
-IdModule  = Lerche_Fiducial;
-EndCmp
-
-BeginCmp
 TimeStamp = /538A1943;
 Reference = IC1;
 ValeurCmp = DRV8825;
@@ -942,7 +914,7 @@ BeginCmp
 TimeStamp = /538A868D;
 Reference = R22;
 ValeurCmp = 0R1;
-IdModule  = Lerche_R1206;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
@@ -984,7 +956,7 @@ BeginCmp
 TimeStamp = /538A872B;
 Reference = R30;
 ValeurCmp = 0R1;
-IdModule  = Lerche_R1206;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
@@ -1005,7 +977,7 @@ BeginCmp
 TimeStamp = /524B2E40;
 Reference = R33;
 ValeurCmp = 0R1;
-IdModule  = Lerche_R1206;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
@@ -1033,7 +1005,7 @@ BeginCmp
 TimeStamp = /524B2E46;
 Reference = R37;
 ValeurCmp = 0R1;
-IdModule  = Lerche_R1206;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
