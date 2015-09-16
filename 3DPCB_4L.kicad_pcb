@@ -27048,4 +27048,34 @@
       )
     )
   )
+  (zone (net 0) (net_name "") (layer B.Mask) (tstamp 55F98E2E) (hatch edge 0.508)
+    (connect_pads (clearance 0.2))
+    (min_thickness 0.254)
+    (fill (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 210.2 193.6) (xy 201.4 193.6) (xy 201.4 190.4) (xy 210.2 190.4)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 210.073 193.473) (xy 201.527 193.473) (xy 201.527 190.527) (xy 210.073 190.527) (xy 210.073 193.473)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 55F98FF8) (hatch edge 0.508)
+    (connect_pads (clearance 0.2))
+    (min_thickness 0.254)
+    (fill (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 210.2 193.6) (xy 201.4 193.6) (xy 201.4 190.4) (xy 210.2 190.4)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 210.073 193.473) (xy 201.527 193.473) (xy 201.527 190.527) (xy 210.073 190.527) (xy 210.073 193.473)
+      )
+    )
+  )
 )
