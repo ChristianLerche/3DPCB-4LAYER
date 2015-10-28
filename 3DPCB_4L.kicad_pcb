@@ -3,7 +3,7 @@
   (general
     (links 1051)
     (no_connects 0)
-    (area 124.091727 131.3332 237.651491 200.0178)
+    (area 124.091727 131.3332 237.651491 199.527401)
     (thickness 1.6)
     (drawings 125)
     (tracks 1473)
@@ -14,15 +14,15 @@
 
   (page A3)
   (layers
-    (15 F.Cu mixed hide)
+    (15 F.Cu mixed)
     (2 Inner2.Cu power hide)
     (1 Inner1.Cu power hide)
-    (0 B.Cu mixed hide)
+    (0 B.Cu mixed)
     (16 B.Adhes user)
     (17 F.Adhes user)
     (18 B.Paste user)
     (19 F.Paste user)
-    (20 B.SilkS user hide)
+    (20 B.SilkS user)
     (21 F.SilkS user)
     (22 B.Mask user)
     (23 F.Mask user)
@@ -83,7 +83,7 @@
     (pad_drill 0)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 130 195.5)
-    (visible_elements 7FFF7CF7)
+    (visible_elements 7FFF7FFF)
     (pcbplotparams
       (layerselection 284196871)
       (usegerberextensions true)
@@ -465,7 +465,7 @@
   )
 
   (module Logo_silk_WEEE_8x10mm (layer B.Cu) (tedit 5172ECC4) (tstamp 5250ADA9)
-    (at 143.3 182.8)
+    (at 140.7 187.6)
     (descr "WEEE logo, 8x10mm")
     (attr smd)
     (fp_text reference "" (at 0 0) (layer B.SilkS) hide
