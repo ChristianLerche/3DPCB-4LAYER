@@ -1,0 +1,2686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/Ejer/Google Drev/3DPCB/3DPCB_C_4L/3DPCB_C_4L/3DPCB_4L.sch</source>
+    <date>09-10-2016 10:21:17</date>
+    <tool>Eeschema 4.0.2-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>3DPCB</title>
+        <company>LercheTech</company>
+        <rev>C</rev>
+        <date>15 sep 2015</date>
+        <source>3DPCB_4L.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="CONN1">
+      <value>USB_MINI</value>
+      <libsource lib="3DPCB_4L-cache" part="USB_MINI"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5201087D</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>SPST_MOMENTARY</value>
+      <libsource lib="3DPCB_4L-cache" part="SPST_MOMENTARY"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>520119D9</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>LPC1768_TQFP100</value>
+      <libsource lib="3DPCB_4L-cache" part="LPC1768_TQFP100"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC054</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>100pF</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC0CF</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC30E</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>DIODESCH</value>
+      <libsource lib="3DPCB_4L-cache" part="DIODESCH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC414</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>33R</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC60B</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>33R</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC611</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>18p</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC6FE</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>18p</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC704</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>INDUCTOR</value>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AC987</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524ACD38</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AD2DD</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524AD38F</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524ADFCF</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>BSS84</value>
+      <libsource lib="3DPCB_4L-cache" part="BSS84"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B1CD6</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1k5</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B1CE3</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>CONN_4_LERCHE</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B20E2</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B20F1</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B2100</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B2117</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B211D</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B2393</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B23B4</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B23BA</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B23C0</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>MICRO-SD</value>
+      <libsource lib="3DPCB_4L-cache" part="MICRO-SD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B4F0F</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_4</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B7D21</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>100uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B8C9F</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>100uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B8CAC</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>100uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B8CB2</tstamp>
+    </comp>
+    <comp ref="K1">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BB6D7</tstamp>
+    </comp>
+    <comp ref="K2">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BB6E4</tstamp>
+    </comp>
+    <comp ref="K3">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BB6EA</tstamp>
+    </comp>
+    <comp ref="K4">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BB6F0</tstamp>
+    </comp>
+    <comp ref="K5">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BB6F6</tstamp>
+    </comp>
+    <comp ref="K6">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BB6FC</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_8</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BDC0D</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BE1A8</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BE1B4</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BE1C0</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>4K7</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BE1CC</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>4K7</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BE1D2</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>4K7</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BE1D8</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>IRFH5302</value>
+      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BF956</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>IRFH5302</value>
+      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BFC45</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>9k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BFF2E</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>9k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524BFF34</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>IRFH5302</value>
+      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C0A12</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>9k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C0A1F</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C17C4</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C17CA</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C17D0</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C17D6</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C17DC</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C263D</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C2975</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C297B</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C2981</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C31F7</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C31FD</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>470n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B2C4F</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B2E40</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B2E46</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B3A72</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B3DEF</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B51BD</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B51C3</tstamp>
+    </comp>
+    <comp ref="C43">
+      <value>47uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524E8190</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524E8570</tstamp>
+    </comp>
+    <comp ref="C45">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524E8576</tstamp>
+    </comp>
+    <comp ref="C46">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524E857C</tstamp>
+    </comp>
+    <comp ref="K7">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5253846A</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>SPST_MOMENTARY</value>
+      <libsource lib="3DPCB_4L-cache" part="SPST_MOMENTARY"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52581C12</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52581C18</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52582C80</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>1k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52582C86</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_2</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5258344A</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52584B5A</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52584B60</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52584B66</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>CONN_4_LERCHE</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5258F88B</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>3k3</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5258FBE5</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>3k3</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5258FC56</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>IX4427</value>
+      <libsource lib="3DPCB_4L-cache" part="TC4427"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5259155C</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>IHLP1212-10uH</value>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5260BF3A</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>MCP4728</value>
+      <libsource lib="3DPCB_4L-cache" part="MCP4728"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5269312C</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52693379</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5269337F</tstamp>
+    </comp>
+    <comp ref="C50">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52695CF1</tstamp>
+    </comp>
+    <comp ref="C51">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52696F13</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>IRFH5302</value>
+      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>527BAFCD</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>9k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>527BAFDA</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52E2658F</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>CONN_4_LERCHE</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52E677DB</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>CONN_4_LERCHE</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52E67E22</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>CONN_4_LERCHE</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52E68237</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>CONN_4_LERCHE</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52E6823D</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5343E976</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5343E97C</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5343EF32</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>5k8</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5343EF38</tstamp>
+    </comp>
+    <comp ref="P11">
+      <value>CONN_3X2</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5368F485</tstamp>
+    </comp>
+    <comp ref="P12">
+      <value>CONN_3X2</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>536910AC</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A3718</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_4</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A85DD</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>470n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A85E9</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A85F5</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A85FB</tstamp>
+    </comp>
+    <comp ref="C52">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A860D</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>10n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8619</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A861F</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8625</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A862C</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8645</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_4</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8675</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>470n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8681</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A868D</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8693</tstamp>
+    </comp>
+    <comp ref="C53">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86A5</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>10n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86B1</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86B7</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86BD</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86C4</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86DD</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_4</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A870D</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>470n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8719</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8725</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A872B</tstamp>
+    </comp>
+    <comp ref="C54">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A873D</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>10n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8749</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A874F</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8755</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A875C</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>DRV8825</value>
+      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8762</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8775</tstamp>
+    </comp>
+    <comp ref="P13">
+      <value>CONN_4</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EAB5</tstamp>
+    </comp>
+    <comp ref="C68">
+      <value>470n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EAC1</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EACD</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>0R1</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EAD3</tstamp>
+    </comp>
+    <comp ref="C69">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EAE5</tstamp>
+    </comp>
+    <comp ref="C67">
+      <value>10n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EAF1</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EAF7</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EAFD</tstamp>
+    </comp>
+    <comp ref="C65">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EB04</tstamp>
+    </comp>
+    <comp ref="IC5">
+      <value>DRV8825</value>
+      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EB0A</tstamp>
+    </comp>
+    <comp ref="J16">
+      <value> </value>
+      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4EB1D</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>CONN_4_LERCHE</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E4F4AF</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>MCP4728</value>
+      <libsource lib="3DPCB_4L-cache" part="MCP4728"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E5DFFA</tstamp>
+    </comp>
+    <comp ref="C64">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E5FD48</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>IX4427</value>
+      <libsource lib="3DPCB_4L-cache" part="TC4427"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E61024</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>100uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524B8CB8</tstamp>
+    </comp>
+    <comp ref="C71">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E62C00</tstamp>
+    </comp>
+    <comp ref="C70">
+      <value>100uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E62C06</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53F73184</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>4K7</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53F7343E</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>DIODESCH</value>
+      <libsource lib="3DPCB_4L-cache" part="DIODESCH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54FB2322</tstamp>
+    </comp>
+    <comp ref="OSC1">
+      <value>QX2</value>
+      <libsource lib="3DPCB_4L-cache" part="QX2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55028477</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5502848E</tstamp>
+    </comp>
+    <comp ref="K8">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5502A67C</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>DRV8825</value>
+      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A1943</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>DRV8825</value>
+      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A8632</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>DRV8825</value>
+      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86CA</tstamp>
+    </comp>
+    <comp ref="K9">
+      <value>CONN_3</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>551311CA</tstamp>
+    </comp>
+    <comp ref="IC6">
+      <value>MP9943</value>
+      <libsource lib="3DPCB_4L-cache" part="MP9943"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D6086C</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100uF</value>
+      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D61144</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>1M</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D62441</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D62D53</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>20R</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D62FF8</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>51k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D63E21</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>41k2</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D63E2C</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>13k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D63E32</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>3k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D86BBC</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>3k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D87633</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>3k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D87639</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>3k</value>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D8763F</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_8</value>
+      <libsource lib="3DPCB_4L-cache" part="CONN_8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55DA95AB</tstamp>
+    </comp>
+    <comp ref="FID1">
+      <value>FIDUCIAL</value>
+      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F69685</tstamp>
+    </comp>
+    <comp ref="FID2">
+      <value>FIDUCIAL</value>
+      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F69692</tstamp>
+    </comp>
+    <comp ref="FID3">
+      <value>FIDUCIAL</value>
+      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F69698</tstamp>
+    </comp>
+    <comp ref="FID4">
+      <value>FIDUCIAL</value>
+      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F6969E</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="3DPCB_4L-cache" part="BSS84">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BSS84</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="input"/>
+        <pin num="3" name="D" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L">
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-RESCUE-3DPCB_4L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="CONN_2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="CONN_3">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">CONN_3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="CONN_3X2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_3X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="CONN_4">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="CONN_4_LERCHE">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CONN_4_LERCHE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="CONN_8">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP-RESCUE-3DPCB_4L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="DIODESCH">
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODESCH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="DRV8825">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">DRV8825</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CP1" type="BiDi"/>
+        <pin num="2" name="CP2" type="BiDi"/>
+        <pin num="3" name="VCP" type="BiDi"/>
+        <pin num="4" name="VMA" type="power_in"/>
+        <pin num="5" name="AOUT1" type="output"/>
+        <pin num="6" name="ISENA" type="BiDi"/>
+        <pin num="7" name="AOUT2" type="output"/>
+        <pin num="8" name="BOUT2" type="output"/>
+        <pin num="9" name="ISENB" type="BiDi"/>
+        <pin num="10" name="BOUT1" type="output"/>
+        <pin num="11" name="VMB" type="power_in"/>
+        <pin num="12" name="AVREF" type="input"/>
+        <pin num="13" name="BVREF" type="input"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="V3P3OUT" type="power_out"/>
+        <pin num="16" name="~RESET" type="input"/>
+        <pin num="17" name="~SLEEP" type="input"/>
+        <pin num="18" name="~FAULT" type="openCol"/>
+        <pin num="19" name="DECAY" type="input"/>
+        <pin num="20" name="DIR" type="input"/>
+        <pin num="21" name="~ENBL" type="input"/>
+        <pin num="22" name="STEP" type="input"/>
+        <pin num="24" name="MODE0" type="input"/>
+        <pin num="25" name="MODE1" type="input"/>
+        <pin num="26" name="MODE2" type="input"/>
+        <pin num="27" name="~HOME" type="openCol"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="PAD" name="PAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="FIDUCIAL">
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">FIDUCIAL</field>
+      </fields>
+    </libpart>
+    <libpart lib="device" part="INDUCTOR">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-RESCUE-3DPCB_4L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="LPC1768_TQFP100">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LPC1768_TQFP100</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TDO/SWO" type="input"/>
+        <pin num="2" name="TDI" type="input"/>
+        <pin num="3" name="TMS/SWDIO" type="input"/>
+        <pin num="4" name="~TRST" type="input"/>
+        <pin num="5" name="TCK/SWDCLK" type="input"/>
+        <pin num="6" name="P0.26/AD0.3/AOUT/RXD3" type="input"/>
+        <pin num="7" name="P0.25/AD0.2/I2SRX_SDA/TXD3" type="input"/>
+        <pin num="8" name="P0.24/AD0.1/I2SRX_WS/CAP3.1" type="input"/>
+        <pin num="9" name="P0.23/AD0.0/I2SRX_CLK/CAP3.0" type="input"/>
+        <pin num="10" name="VDDA" type="power_in"/>
+        <pin num="11" name="VSSA" type="power_in"/>
+        <pin num="12" name="VREFP" type="power_in"/>
+        <pin num="13" name="NC" type="NotConnected"/>
+        <pin num="14" name="~RSTOUT" type="output"/>
+        <pin num="15" name="VREFN" type="power_in"/>
+        <pin num="16" name="RTCX1" type="input"/>
+        <pin num="17" name="~RESET" type="input"/>
+        <pin num="18" name="RTCX2" type="input"/>
+        <pin num="19" name="VBAT" type="power_in"/>
+        <pin num="20" name="P1.31/SCK1/AD0.5" type="input"/>
+        <pin num="21" name="P1.30/VBUS/AD0.4" type="input"/>
+        <pin num="22" name="XTAL1" type="input"/>
+        <pin num="23" name="XTAL2" type="input"/>
+        <pin num="24" name="P0.28/SCL0/USB_SCL" type="input"/>
+        <pin num="25" name="P0.27/SDA0/USB_SDA" type="input"/>
+        <pin num="26" name="P3.26/STCLK/MAT0.1/PWM1.3" type="input"/>
+        <pin num="27" name="P3.25/MAT0.0/PWM1.2" type="input"/>
+        <pin num="28" name="VDD" type="power_in"/>
+        <pin num="29" name="P0.29/USB_D+" type="input"/>
+        <pin num="30" name="P0.30/USB_D-" type="input"/>
+        <pin num="31" name="VSS" type="power_in"/>
+        <pin num="32" name="P1.18/USB_UP/PWM1.1/CAP1.0" type="input"/>
+        <pin num="33" name="P1.19/MC0A/USB_PPWR/CAP1.1" type="input"/>
+        <pin num="34" name="P1.20/MCFB0/PWM1.2/SCK0" type="input"/>
+        <pin num="35" name="P1.21/MCABORT/PWM1.3/SSEL0" type="input"/>
+        <pin num="36" name="P1.22/MC0B/USB_PWRD/MAT1.0" type="input"/>
+        <pin num="37" name="P1.23/MCFB1/PWM1.4/MISO0" type="input"/>
+        <pin num="38" name="P1.24/MCFB2/PWM1.5/MOSI0" type="input"/>
+        <pin num="39" name="P1.25/MC1A/MAT1.1" type="input"/>
+        <pin num="40" name="P1.26/MC1B/PWM1.6/CAP0.0" type="input"/>
+        <pin num="41" name="VSS" type="power_in"/>
+        <pin num="42" name="VDD" type="power_in"/>
+        <pin num="43" name="P1.27/CLKOUT/USB_OVRCR/CAP0.1" type="input"/>
+        <pin num="44" name="P1.28/MC2A/PCAP1.0/MAT0.0" type="input"/>
+        <pin num="45" name="P1.29/MC2B/PCAP1.1/MAT0.1" type="input"/>
+        <pin num="46" name="P0.0/CAN_RX1/TXD3/SDA1" type="input"/>
+        <pin num="47" name="P0.1/CAN_TX1/RXD3/SCL1" type="input"/>
+        <pin num="48" name="P0.10/TXD2/SDA2/MAT3.0" type="input"/>
+        <pin num="49" name="P0.11/RXD2/SCL2/MAT3.1" type="input"/>
+        <pin num="50" name="P2.13/EINT3N/I2STX_SDA" type="input"/>
+        <pin num="51" name="P2.12/EINT2N/I2STX_WS" type="input"/>
+        <pin num="52" name="P2.11/EINT1N/I2STX_CLK" type="input"/>
+        <pin num="53" name="P2.10/EINT0N/NMI" type="input"/>
+        <pin num="54" name="VDD" type="power_in"/>
+        <pin num="55" name="VSS" type="power_in"/>
+        <pin num="56" name="P0.22/RTS1/CAN_TX1" type="input"/>
+        <pin num="57" name="P0.21/RI1/CAN_RX1" type="input"/>
+        <pin num="58" name="P0.20/DTR1/SCL1" type="input"/>
+        <pin num="59" name="P0.19/DSR1/MCICLK/SDA1" type="input"/>
+        <pin num="60" name="P0.18/DCD1/MOSI0/MOSI" type="input"/>
+        <pin num="61" name="P0.17/CTS1/MISO0/MISO" type="input"/>
+        <pin num="62" name="P0.15/TXD1/SCK0/SCK" type="input"/>
+        <pin num="63" name="P0.16/RXD1/SSEL0/SSEL" type="input"/>
+        <pin num="64" name="P2.9/USB_CONNECT/RXD2" type="input"/>
+        <pin num="65" name="P2.8/CAN_tx2/TXD2" type="input"/>
+        <pin num="66" name="P2.7/CAN_RX2/RTS1" type="input"/>
+        <pin num="67" name="P2.6/PCAP1.0/RI1/TRACECLK" type="input"/>
+        <pin num="68" name="P2.5/PWM1.6/DTR1/TRACEDATA0" type="input"/>
+        <pin num="69" name="P2.4/PWM1.5/DSR1/TRACEDATA1" type="input"/>
+        <pin num="70" name="P2.3/PWM1.4/DCD1/TRACEDATA2" type="input"/>
+        <pin num="71" name="VDD" type="power_in"/>
+        <pin num="72" name="VSS" type="power_in"/>
+        <pin num="73" name="P2.2/PWM1.3/CTS1/TRACEDATA3" type="input"/>
+        <pin num="74" name="P2.1/PWM1.2/RXD1" type="input"/>
+        <pin num="75" name="P2.0/PWM1.1/TXD1/TRACECLK" type="input"/>
+        <pin num="76" name="P0.9/I2STX_SDA/MOSI1/MAT2.3" type="input"/>
+        <pin num="77" name="P0.8/I2STX_WS/MISO1/MAT2.3" type="input"/>
+        <pin num="78" name="P0.7/I2STX_CLK/SCK1/MAT3.1" type="input"/>
+        <pin num="79" name="P0.6/I2SRX_SDA/SSEL1/MAT2.0" type="input"/>
+        <pin num="80" name="P0.5/I2SRX_WS/CAN_TX2/CAP2.1" type="input"/>
+        <pin num="81" name="P0.4/I2SRX_CLK/CAN_RX2/CAP2.0" type="input"/>
+        <pin num="82" name="P4.28/RX_MCLK/MAT2.0/TXD3" type="input"/>
+        <pin num="83" name="VSS" type="power_in"/>
+        <pin num="84" name="VDD" type="power_in"/>
+        <pin num="85" name="P4.29/TX_MCLK/MAT2.1/RXD3" type="input"/>
+        <pin num="86" name="P1.17/ENET-MDIO" type="input"/>
+        <pin num="87" name="P1.16/ENET-MDC" type="input"/>
+        <pin num="88" name="P1.15/ENET-RX_CLK" type="input"/>
+        <pin num="89" name="P1.14/ENET-RC_ER" type="input"/>
+        <pin num="90" name="P1.10/ENET-RXD1" type="input"/>
+        <pin num="91" name="P1.9/ENET-RXD0" type="input"/>
+        <pin num="92" name="P1.8/ENET-CRS" type="input"/>
+        <pin num="93" name="P1.4/ENET-TX_EN" type="input"/>
+        <pin num="94" name="P1.1/ENET-TXD1" type="input"/>
+        <pin num="95" name="P1.0/ENET-TXD0" type="input"/>
+        <pin num="96" name="VDD" type="power_in"/>
+        <pin num="97" name="VSS" type="power_in"/>
+        <pin num="98" name="P0.2/TXD0/AD0.7" type="input"/>
+        <pin num="99" name="P0.3/RXD0/AD0.6" type="input"/>
+        <pin num="100" name="RTCK" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="MCP4728">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP4728</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd" type="power_in"/>
+        <pin num="2" name="SCL" type="input"/>
+        <pin num="3" name="SDA" type="BiDi"/>
+        <pin num="4" name="~LDAC" type="input"/>
+        <pin num="5" name="RDY/~BSY" type="output"/>
+        <pin num="6" name="Vout_A" type="output"/>
+        <pin num="7" name="Vout_B" type="output"/>
+        <pin num="8" name="Vout_C" type="output"/>
+        <pin num="9" name="Vout_D" type="output"/>
+        <pin num="10" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="MICRO-SD">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MICRO-SD</field>
+      </fields>
+      <pins>
+        <pin num="2" name="~CS" type="input"/>
+        <pin num="3" name="MOSI" type="input"/>
+        <pin num="4" name="+3V3" type="power_in"/>
+        <pin num="5" name="SCLK" type="input"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="MISO" type="input"/>
+        <pin num="9" name="CardDetect" type="input"/>
+        <pin num="10" name="CardDetect" type="input"/>
+        <pin num="11" name="Shield" type="input"/>
+        <pin num="12" name="Shield" type="input"/>
+        <pin num="13" name="Shield" type="input"/>
+        <pin num="14" name="Shield" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="MOS_NFET">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MOS_NFET</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="input"/>
+        <pin num="3" name="D" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="MP9943">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MP9943</field>
+      </fields>
+      <pins>
+        <pin num="1" name="FB" type="input"/>
+        <pin num="2" name="VCC" type="power_out"/>
+        <pin num="3" name="EN/SYNC" type="input"/>
+        <pin num="4" name="BST" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="SW" type="output"/>
+        <pin num="7" name="Vin" type="power_in"/>
+        <pin num="8" name="PG" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="QX2">
+      <fields>
+        <field name="Reference">OSC</field>
+        <field name="Value">QX2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~INH" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="VDC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L">
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-RESCUE-3DPCB_4L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="SOLDER_JUMPER">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SOLDER_JUMPER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="BiDi"/>
+        <pin num="2" name="~" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="SPST_MOMENTARY">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SPST_MOMENTARY</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="BiDi"/>
+        <pin num="2" name="~" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="TC4427">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TC4427</field>
+      </fields>
+      <pins>
+        <pin num="2" name="IN" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="IN" type="input"/>
+        <pin num="5" name="OUT" type="input"/>
+        <pin num="6" name="Vdd" type="power_in"/>
+        <pin num="7" name="OUT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="3DPCB_4L-cache" part="USB_MINI">
+      <fields>
+        <field name="Reference">CONN</field>
+        <field name="Value">USB_MINI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+5V" type="power_out"/>
+        <pin num="2" name="D-" type="BiDi"/>
+        <pin num="3" name="D+" type="BiDi"/>
+        <pin num="4" name="ID" type="BiDi"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="Shie" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="3DPCB_4L-rescue">
+      <uri>C:\Users\Ejer\Google Drev\3DPCB\3DPCB_C_4L\3DPCB_C_4L\3DPCB_4L-rescue.lib</uri>
+    </library>
+    <library logical="3DPCB_4L-cache">
+      <uri>C:\Users\Ejer\Google Drev\3DPCB\3DPCB_C_4L\3DPCB_C_4L\3DPCB_4L-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="~ISP">
+      <node ref="U6" pin="53"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="2" name="VREF1">
+      <node ref="IC1" pin="13"/>
+      <node ref="IC1" pin="12"/>
+      <node ref="C51" pin="1"/>
+      <node ref="U23" pin="9"/>
+    </net>
+    <net code="3" name="Net-(IC1-Pad5)">
+      <node ref="IC1" pin="5"/>
+      <node ref="P9" pin="1"/>
+    </net>
+    <net code="4" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="5" name="Net-(IC1-Pad9)">
+      <node ref="IC1" pin="9"/>
+      <node ref="R33" pin="1"/>
+    </net>
+    <net code="6" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="7" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1"/>
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="8" name="Net-(C39-Pad2)">
+      <node ref="C39" pin="2"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="9" name="TH4">
+      <node ref="C10" pin="1"/>
+      <node ref="P1" pin="8"/>
+      <node ref="U6" pin="6"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="10" name="Net-(IC3-Pad7)">
+      <node ref="P6" pin="2"/>
+      <node ref="IC3" pin="7"/>
+    </net>
+    <net code="11" name="Net-(C54-Pad2)">
+      <node ref="C54" pin="2"/>
+      <node ref="IC4" pin="3"/>
+    </net>
+    <net code="12" name="Net-(IC3-Pad5)">
+      <node ref="P6" pin="1"/>
+      <node ref="IC3" pin="5"/>
+    </net>
+    <net code="13" name="Net-(IC3-Pad6)">
+      <node ref="R29" pin="1"/>
+      <node ref="IC3" pin="6"/>
+    </net>
+    <net code="14" name="Net-(IC3-Pad9)">
+      <node ref="R22" pin="1"/>
+      <node ref="IC3" pin="9"/>
+    </net>
+    <net code="15" name="Net-(C37-Pad2)">
+      <node ref="C37" pin="2"/>
+      <node ref="IC3" pin="2"/>
+    </net>
+    <net code="16" name="Net-(IC4-Pad7)">
+      <node ref="P7" pin="2"/>
+      <node ref="IC4" pin="7"/>
+    </net>
+    <net code="17" name="Net-(IC4-Pad5)">
+      <node ref="IC4" pin="5"/>
+      <node ref="P7" pin="1"/>
+    </net>
+    <net code="18" name="Net-(C37-Pad1)">
+      <node ref="IC3" pin="1"/>
+      <node ref="C37" pin="1"/>
+    </net>
+    <net code="19" name="Net-(IC4-Pad6)">
+      <node ref="IC4" pin="6"/>
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="20" name="Net-(IC4-Pad9)">
+      <node ref="IC4" pin="9"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="21" name="Net-(C38-Pad2)">
+      <node ref="C38" pin="2"/>
+      <node ref="IC4" pin="2"/>
+    </net>
+    <net code="22" name="Net-(C38-Pad1)">
+      <node ref="IC4" pin="1"/>
+      <node ref="C38" pin="1"/>
+    </net>
+    <net code="23" name="VREF4">
+      <node ref="IC4" pin="12"/>
+      <node ref="IC4" pin="13"/>
+      <node ref="U23" pin="6"/>
+      <node ref="C34" pin="1"/>
+    </net>
+    <net code="24" name="Net-(IC2-Pad6)">
+      <node ref="IC2" pin="6"/>
+      <node ref="R24" pin="1"/>
+    </net>
+    <net code="25" name="Net-(IC2-Pad9)">
+      <node ref="R21" pin="1"/>
+      <node ref="IC2" pin="9"/>
+    </net>
+    <net code="26" name="Net-(C36-Pad2)">
+      <node ref="IC2" pin="2"/>
+      <node ref="C36" pin="2"/>
+    </net>
+    <net code="27" name="Net-(C36-Pad1)">
+      <node ref="IC2" pin="1"/>
+      <node ref="C36" pin="1"/>
+    </net>
+    <net code="28" name="VREF2">
+      <node ref="C32" pin="1"/>
+      <node ref="U23" pin="8"/>
+      <node ref="IC2" pin="13"/>
+      <node ref="IC2" pin="12"/>
+    </net>
+    <net code="29" name="Net-(C52-Pad2)">
+      <node ref="C52" pin="2"/>
+      <node ref="IC2" pin="3"/>
+    </net>
+    <net code="30" name="Net-(IC1-Pad7)">
+      <node ref="P9" pin="2"/>
+      <node ref="IC1" pin="7"/>
+    </net>
+    <net code="31" name="VREF3">
+      <node ref="U23" pin="7"/>
+      <node ref="IC3" pin="12"/>
+      <node ref="IC3" pin="13"/>
+      <node ref="C33" pin="1"/>
+    </net>
+    <net code="32" name="Net-(C53-Pad2)">
+      <node ref="C53" pin="2"/>
+      <node ref="IC3" pin="3"/>
+    </net>
+    <net code="33" name="TH3">
+      <node ref="R12" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="P1" pin="6"/>
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="34" name="Net-(IC2-Pad7)">
+      <node ref="P5" pin="2"/>
+      <node ref="IC2" pin="7"/>
+    </net>
+    <net code="35" name="Net-(IC2-Pad5)">
+      <node ref="IC2" pin="5"/>
+      <node ref="P5" pin="1"/>
+    </net>
+    <net code="36" name="GND">
+      <node ref="C26" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="R20" pin="2"/>
+      <node ref="K6" pin="2"/>
+      <node ref="K5" pin="2"/>
+      <node ref="OSC1" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="K3" pin="2"/>
+      <node ref="U8" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="K4" pin="2"/>
+      <node ref="U22" pin="4"/>
+      <node ref="K2" pin="2"/>
+      <node ref="K1" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="U10" pin="14"/>
+      <node ref="U10" pin="13"/>
+      <node ref="U10" pin="12"/>
+      <node ref="U10" pin="11"/>
+      <node ref="U10" pin="10"/>
+      <node ref="U10" pin="6"/>
+      <node ref="C70" pin="2"/>
+      <node ref="R39" pin="2"/>
+      <node ref="C71" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="U11" pin="3"/>
+      <node ref="U23" pin="10"/>
+      <node ref="C50" pin="2"/>
+      <node ref="C51" pin="2"/>
+      <node ref="IC2" pin="PAD"/>
+      <node ref="IC2" pin="28"/>
+      <node ref="C11" pin="2"/>
+      <node ref="IC1" pin="14"/>
+      <node ref="U1" pin="4"/>
+      <node ref="IC1" pin="PAD"/>
+      <node ref="IC1" pin="28"/>
+      <node ref="C19" pin="1"/>
+      <node ref="U21" pin="4"/>
+      <node ref="C30" pin="2"/>
+      <node ref="U24" pin="2"/>
+      <node ref="C64" pin="2"/>
+      <node ref="U23" pin="4"/>
+      <node ref="C32" pin="2"/>
+      <node ref="U17" pin="3"/>
+      <node ref="D8" pin="2"/>
+      <node ref="D7" pin="2"/>
+      <node ref="U25" pin="4"/>
+      <node ref="C9" pin="2"/>
+      <node ref="R37" pin="2"/>
+      <node ref="R24" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="C40" pin="2"/>
+      <node ref="R29" pin="2"/>
+      <node ref="C41" pin="2"/>
+      <node ref="R22" pin="2"/>
+      <node ref="IC4" pin="PAD"/>
+      <node ref="IC4" pin="28"/>
+      <node ref="R30" pin="2"/>
+      <node ref="IC4" pin="14"/>
+      <node ref="P11" pin="5"/>
+      <node ref="P8" pin="1"/>
+      <node ref="U16" pin="4"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C34" pin="2"/>
+      <node ref="C42" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="C46" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C44" pin="2"/>
+      <node ref="P1" pin="7"/>
+      <node ref="C45" pin="2"/>
+      <node ref="P1" pin="5"/>
+      <node ref="P1" pin="3"/>
+      <node ref="P1" pin="1"/>
+      <node ref="U7" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="K7" pin="3"/>
+      <node ref="C31" pin="2"/>
+      <node ref="R15" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="U15" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C43" pin="2"/>
+      <node ref="U6" pin="31"/>
+      <node ref="U6" pin="11"/>
+      <node ref="C1" pin="2"/>
+      <node ref="R33" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="U6" pin="41"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="U6" pin="55"/>
+      <node ref="U6" pin="15"/>
+      <node ref="U6" pin="83"/>
+      <node ref="U6" pin="97"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C35" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="CONN1" pin="Shie"/>
+      <node ref="CONN1" pin="Shie"/>
+      <node ref="CONN1" pin="Shie"/>
+      <node ref="CONN1" pin="5"/>
+      <node ref="U6" pin="72"/>
+      <node ref="R31" pin="2"/>
+      <node ref="C68" pin="2"/>
+      <node ref="R32" pin="2"/>
+      <node ref="IC3" pin="28"/>
+      <node ref="C65" pin="2"/>
+      <node ref="IC5" pin="14"/>
+      <node ref="IC3" pin="14"/>
+      <node ref="U13" pin="4"/>
+      <node ref="IC5" pin="28"/>
+      <node ref="IC5" pin="PAD"/>
+      <node ref="IC6" pin="5"/>
+      <node ref="U12" pin="10"/>
+      <node ref="U12" pin="4"/>
+      <node ref="IC3" pin="PAD"/>
+      <node ref="IC2" pin="14"/>
+    </net>
+    <net code="37" name="DIR5">
+      <node ref="IC5" pin="20"/>
+      <node ref="U13" pin="3"/>
+      <node ref="U6" pin="58"/>
+    </net>
+    <net code="38" name="EN5">
+      <node ref="U13" pin="2"/>
+      <node ref="U6" pin="57"/>
+      <node ref="IC5" pin="21"/>
+    </net>
+    <net code="39" name="STP5">
+      <node ref="U13" pin="1"/>
+      <node ref="IC5" pin="22"/>
+      <node ref="U6" pin="56"/>
+    </net>
+    <net code="40" name="Net-(IC5-Pad26)">
+      <node ref="IC5" pin="26"/>
+      <node ref="J16" pin="2"/>
+    </net>
+    <net code="41" name="Net-(IC5-Pad19)">
+      <node ref="IC5" pin="19"/>
+    </net>
+    <net code="42" name="~FAULT5">
+      <node ref="IC5" pin="18"/>
+    </net>
+    <net code="43" name="~HOME5">
+      <node ref="IC5" pin="27"/>
+    </net>
+    <net code="44" name="Net-(IC5-Pad25)">
+      <node ref="IC5" pin="25"/>
+      <node ref="J15" pin="2"/>
+    </net>
+    <net code="45" name="~RESET">
+      <node ref="U2" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U6" pin="17"/>
+    </net>
+    <net code="46" name="Net-(C68-Pad1)">
+      <node ref="IC5" pin="15"/>
+      <node ref="C68" pin="1"/>
+    </net>
+    <net code="47" name="+3.3V">
+      <node ref="C45" pin="1"/>
+      <node ref="C44" pin="1"/>
+      <node ref="R27" pin="1"/>
+      <node ref="C46" pin="1"/>
+      <node ref="C43" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C15" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="K3" pin="1"/>
+      <node ref="K4" pin="1"/>
+      <node ref="K6" pin="1"/>
+      <node ref="C50" pin="1"/>
+      <node ref="K2" pin="1"/>
+      <node ref="R18" pin="2"/>
+      <node ref="K5" pin="1"/>
+      <node ref="R19" pin="2"/>
+      <node ref="J16" pin="1"/>
+      <node ref="U23" pin="1"/>
+      <node ref="U10" pin="4"/>
+      <node ref="U3" pin="2"/>
+      <node ref="C14" pin="1"/>
+      <node ref="K1" pin="1"/>
+      <node ref="L2" pin="2"/>
+      <node ref="J13" pin="1"/>
+      <node ref="L1" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="U6" pin="19"/>
+      <node ref="R1" pin="1"/>
+      <node ref="IC4" pin="17"/>
+      <node ref="IC4" pin="16"/>
+      <node ref="J9" pin="1"/>
+      <node ref="J8" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J7" pin="1"/>
+      <node ref="IC5" pin="17"/>
+      <node ref="U6" pin="28"/>
+      <node ref="IC5" pin="16"/>
+      <node ref="J4" pin="1"/>
+      <node ref="P11" pin="6"/>
+      <node ref="J12" pin="1"/>
+      <node ref="U12" pin="1"/>
+      <node ref="J11" pin="1"/>
+      <node ref="J15" pin="1"/>
+      <node ref="R28" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="J14" pin="1"/>
+      <node ref="R45" pin="1"/>
+      <node ref="U6" pin="71"/>
+      <node ref="U6" pin="42"/>
+      <node ref="J10" pin="1"/>
+      <node ref="U16" pin="1"/>
+      <node ref="U6" pin="96"/>
+      <node ref="R44" pin="1"/>
+      <node ref="R43" pin="1"/>
+      <node ref="IC2" pin="16"/>
+      <node ref="R42" pin="1"/>
+      <node ref="U6" pin="54"/>
+      <node ref="U6" pin="84"/>
+      <node ref="R41" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="IC1" pin="17"/>
+      <node ref="IC1" pin="16"/>
+      <node ref="R40" pin="1"/>
+      <node ref="OSC1" pin="4"/>
+      <node ref="OSC1" pin="1"/>
+      <node ref="IC3" pin="17"/>
+      <node ref="IC3" pin="16"/>
+      <node ref="C64" pin="1"/>
+      <node ref="C19" pin="2"/>
+      <node ref="R34" pin="1"/>
+      <node ref="IC2" pin="17"/>
+    </net>
+    <net code="48" name="Net-(U12-Pad5)">
+      <node ref="U12" pin="5"/>
+    </net>
+    <net code="49" name="Net-(IC5-Pad9)">
+      <node ref="R31" pin="1"/>
+      <node ref="IC5" pin="9"/>
+    </net>
+    <net code="50" name="Net-(IC5-Pad6)">
+      <node ref="R32" pin="1"/>
+      <node ref="IC5" pin="6"/>
+    </net>
+    <net code="51" name="Net-(C67-Pad2)">
+      <node ref="IC5" pin="2"/>
+      <node ref="C67" pin="2"/>
+    </net>
+    <net code="52" name="Net-(IC5-Pad10)">
+      <node ref="IC5" pin="10"/>
+      <node ref="P13" pin="4"/>
+    </net>
+    <net code="53" name="Net-(IC5-Pad24)">
+      <node ref="J14" pin="2"/>
+      <node ref="IC5" pin="24"/>
+    </net>
+    <net code="54" name="+12V">
+      <node ref="IC5" pin="11"/>
+      <node ref="IC2" pin="4"/>
+      <node ref="C52" pin="1"/>
+      <node ref="U11" pin="6"/>
+      <node ref="R55" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C71" pin="1"/>
+      <node ref="IC3" pin="4"/>
+      <node ref="IC2" pin="11"/>
+      <node ref="IC3" pin="11"/>
+      <node ref="C69" pin="1"/>
+      <node ref="C39" pin="1"/>
+      <node ref="P8" pin="2"/>
+      <node ref="P2" pin="4"/>
+      <node ref="U17" pin="6"/>
+      <node ref="P2" pin="6"/>
+      <node ref="P2" pin="8"/>
+      <node ref="P2" pin="2"/>
+      <node ref="IC4" pin="4"/>
+      <node ref="C70" pin="1"/>
+      <node ref="C54" pin="1"/>
+      <node ref="IC4" pin="11"/>
+      <node ref="C53" pin="1"/>
+      <node ref="C28" pin="1"/>
+      <node ref="IC5" pin="4"/>
+      <node ref="C30" pin="1"/>
+      <node ref="IC1" pin="11"/>
+      <node ref="C31" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="C29" pin="1"/>
+      <node ref="C24" pin="1"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C26" pin="1"/>
+    </net>
+    <net code="55" name="Net-(IC5-Pad8)">
+      <node ref="P13" pin="3"/>
+      <node ref="IC5" pin="8"/>
+    </net>
+    <net code="56" name="Net-(IC5-Pad5)">
+      <node ref="IC5" pin="5"/>
+      <node ref="P13" pin="1"/>
+    </net>
+    <net code="57" name="Net-(C69-Pad2)">
+      <node ref="IC5" pin="3"/>
+      <node ref="C69" pin="2"/>
+    </net>
+    <net code="58" name="Net-(C67-Pad1)">
+      <node ref="IC5" pin="1"/>
+      <node ref="C67" pin="1"/>
+    </net>
+    <net code="59" name="TH2">
+      <node ref="U6" pin="8"/>
+      <node ref="R10" pin="2"/>
+      <node ref="P1" pin="4"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="60" name="Net-(C17-Pad1)">
+      <node ref="L1" pin="2"/>
+      <node ref="U6" pin="12"/>
+      <node ref="U6" pin="10"/>
+      <node ref="C17" pin="1"/>
+    </net>
+    <net code="61" name="Net-(D1-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="62" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="63" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="64" name="Net-(IC3-Pad19)">
+      <node ref="IC3" pin="19"/>
+    </net>
+    <net code="65" name="~FAULT3">
+      <node ref="IC3" pin="18"/>
+    </net>
+    <net code="66" name="~HOME3">
+      <node ref="IC3" pin="27"/>
+    </net>
+    <net code="67" name="Net-(IC3-Pad26)">
+      <node ref="J10" pin="2"/>
+      <node ref="IC3" pin="26"/>
+    </net>
+    <net code="68" name="Net-(IC3-Pad25)">
+      <node ref="J9" pin="2"/>
+      <node ref="IC3" pin="25"/>
+    </net>
+    <net code="69" name="Net-(C41-Pad1)">
+      <node ref="C41" pin="1"/>
+      <node ref="IC3" pin="15"/>
+    </net>
+    <net code="70" name="Net-(IC3-Pad24)">
+      <node ref="J8" pin="2"/>
+      <node ref="IC3" pin="24"/>
+    </net>
+    <net code="71" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1"/>
+      <node ref="IC6" pin="2"/>
+    </net>
+    <net code="72" name="Net-(IC6-Pad8)">
+      <node ref="IC6" pin="8"/>
+    </net>
+    <net code="73" name="Net-(IC6-Pad4)">
+      <node ref="IC6" pin="4"/>
+      <node ref="R36" pin="1"/>
+    </net>
+    <net code="74" name="Net-(IC6-Pad3)">
+      <node ref="R35" pin="1"/>
+      <node ref="IC6" pin="3"/>
+    </net>
+    <net code="75" name="Net-(IC6-Pad1)">
+      <node ref="IC6" pin="1"/>
+      <node ref="R38" pin="1"/>
+    </net>
+    <net code="76" name="VREF8">
+      <node ref="K9" pin="3"/>
+      <node ref="U12" pin="6"/>
+    </net>
+    <net code="77" name="VREF7">
+      <node ref="U12" pin="7"/>
+      <node ref="K9" pin="2"/>
+    </net>
+    <net code="78" name="VREF6">
+      <node ref="K9" pin="1"/>
+      <node ref="U12" pin="8"/>
+    </net>
+    <net code="79" name="Net-(IC2-Pad25)">
+      <node ref="IC2" pin="25"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="80" name="Net-(C40-Pad1)">
+      <node ref="C40" pin="1"/>
+      <node ref="IC2" pin="15"/>
+    </net>
+    <net code="81" name="Net-(IC2-Pad24)">
+      <node ref="J5" pin="2"/>
+      <node ref="IC2" pin="24"/>
+    </net>
+    <net code="82" name="Net-(IC2-Pad19)">
+      <node ref="IC2" pin="19"/>
+    </net>
+    <net code="83" name="~FAULT2">
+      <node ref="IC2" pin="18"/>
+    </net>
+    <net code="84" name="~HOME2">
+      <node ref="IC2" pin="27"/>
+    </net>
+    <net code="85" name="Net-(IC2-Pad26)">
+      <node ref="J7" pin="2"/>
+      <node ref="IC2" pin="26"/>
+    </net>
+    <net code="86" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1"/>
+      <node ref="R57" pin="2"/>
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="87" name="Net-(R58-Pad1)">
+      <node ref="U17" pin="5"/>
+      <node ref="R58" pin="1"/>
+    </net>
+    <net code="88" name="Net-(R59-Pad1)">
+      <node ref="U11" pin="5"/>
+      <node ref="R59" pin="1"/>
+    </net>
+    <net code="89" name="Net-(R57-Pad1)">
+      <node ref="U11" pin="7"/>
+      <node ref="R57" pin="1"/>
+    </net>
+    <net code="90" name="Net-(R20-Pad1)">
+      <node ref="R59" pin="2"/>
+      <node ref="R20" pin="1"/>
+      <node ref="U24" pin="1"/>
+    </net>
+    <net code="91" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1"/>
+      <node ref="U7" pin="1"/>
+      <node ref="R58" pin="2"/>
+    </net>
+    <net code="92" name="Net-(R56-Pad1)">
+      <node ref="U17" pin="7"/>
+      <node ref="R56" pin="1"/>
+    </net>
+    <net code="93" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1"/>
+      <node ref="R36" pin="2"/>
+    </net>
+    <net code="94" name="Net-(C20-Pad2)">
+      <node ref="C20" pin="2"/>
+      <node ref="L2" pin="1"/>
+      <node ref="IC6" pin="6"/>
+    </net>
+    <net code="95" name="Net-(R14-Pad1)">
+      <node ref="U5" pin="1"/>
+      <node ref="R56" pin="2"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="96" name="Net-(R38-Pad2)">
+      <node ref="R39" pin="1"/>
+      <node ref="R40" pin="2"/>
+      <node ref="R38" pin="2"/>
+    </net>
+    <net code="97" name="P2.6">
+      <node ref="U6" pin="67"/>
+      <node ref="U11" pin="2"/>
+    </net>
+    <net code="98" name="Net-(IC1-Pad8)">
+      <node ref="P9" pin="3"/>
+      <node ref="IC1" pin="8"/>
+    </net>
+    <net code="99" name="Net-(IC3-Pad8)">
+      <node ref="P6" pin="3"/>
+      <node ref="IC3" pin="8"/>
+    </net>
+    <net code="100" name="Net-(IC3-Pad10)">
+      <node ref="IC3" pin="10"/>
+      <node ref="P6" pin="4"/>
+    </net>
+    <net code="101" name="Net-(IC2-Pad8)">
+      <node ref="IC2" pin="8"/>
+      <node ref="P5" pin="3"/>
+    </net>
+    <net code="102" name="Net-(IC2-Pad10)">
+      <node ref="P5" pin="4"/>
+      <node ref="IC2" pin="10"/>
+    </net>
+    <net code="103" name="Net-(IC1-Pad10)">
+      <node ref="P9" pin="4"/>
+      <node ref="IC1" pin="10"/>
+    </net>
+    <net code="104" name="Net-(IC5-Pad7)">
+      <node ref="IC5" pin="7"/>
+      <node ref="P13" pin="2"/>
+    </net>
+    <net code="105" name="VREF5">
+      <node ref="IC5" pin="13"/>
+      <node ref="IC5" pin="12"/>
+      <node ref="C65" pin="1"/>
+      <node ref="U12" pin="9"/>
+    </net>
+    <net code="106" name="SD_MOSI">
+      <node ref="R41" pin="2"/>
+      <node ref="U6" pin="76"/>
+      <node ref="U10" pin="3"/>
+      <node ref="K8" pin="3"/>
+    </net>
+    <net code="107" name="SD_MISO">
+      <node ref="R42" pin="2"/>
+      <node ref="U6" pin="77"/>
+      <node ref="K8" pin="2"/>
+      <node ref="U10" pin="7"/>
+    </net>
+    <net code="108" name="SD_SCK">
+      <node ref="U6" pin="78"/>
+      <node ref="U10" pin="5"/>
+      <node ref="K8" pin="1"/>
+    </net>
+    <net code="109" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1"/>
+      <node ref="OSC1" pin="3"/>
+    </net>
+    <net code="110" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2"/>
+      <node ref="U6" pin="22"/>
+    </net>
+    <net code="111" name="Net-(IC1-Pad19)">
+      <node ref="IC1" pin="19"/>
+    </net>
+    <net code="112" name="~FAULT1">
+      <node ref="IC1" pin="18"/>
+    </net>
+    <net code="113" name="~HOME1">
+      <node ref="IC1" pin="27"/>
+    </net>
+    <net code="114" name="Net-(IC1-Pad26)">
+      <node ref="IC1" pin="26"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="115" name="Net-(IC1-Pad25)">
+      <node ref="IC1" pin="25"/>
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="116" name="Net-(C35-Pad1)">
+      <node ref="IC1" pin="15"/>
+      <node ref="C35" pin="1"/>
+    </net>
+    <net code="117" name="Net-(IC1-Pad24)">
+      <node ref="IC1" pin="24"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="118" name="STP1">
+      <node ref="IC1" pin="22"/>
+      <node ref="U6" pin="75"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="119" name="EN1">
+      <node ref="U6" pin="81"/>
+      <node ref="U1" pin="2"/>
+      <node ref="IC1" pin="21"/>
+    </net>
+    <net code="120" name="DIR1">
+      <node ref="U6" pin="80"/>
+      <node ref="IC1" pin="20"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="121" name="Net-(IC4-Pad8)">
+      <node ref="P7" pin="3"/>
+      <node ref="IC4" pin="8"/>
+    </net>
+    <net code="122" name="Net-(IC4-Pad10)">
+      <node ref="IC4" pin="10"/>
+      <node ref="P7" pin="4"/>
+    </net>
+    <net code="123" name="TH1">
+      <node ref="R34" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U6" pin="9"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="124" name="Net-(D4-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="125" name="Net-(R11-Pad1)">
+      <node ref="U3" pin="3"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="126" name="SCON">
+      <node ref="U6" pin="64"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="127" name="Net-(U10-Pad9)">
+      <node ref="U10" pin="9"/>
+    </net>
+    <net code="128" name="SD_CS">
+      <node ref="R43" pin="2"/>
+      <node ref="U6" pin="79"/>
+      <node ref="U10" pin="2"/>
+    </net>
+    <net code="129" name="LED4">
+      <node ref="U4" pin="4"/>
+      <node ref="R6" pin="2"/>
+      <node ref="U6" pin="35"/>
+    </net>
+    <net code="130" name="LED3">
+      <node ref="U4" pin="3"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U6" pin="34"/>
+    </net>
+    <net code="131" name="LED2">
+      <node ref="U6" pin="33"/>
+      <node ref="U4" pin="2"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="132" name="LED1">
+      <node ref="R3" pin="2"/>
+      <node ref="U4" pin="1"/>
+      <node ref="U6" pin="32"/>
+    </net>
+    <net code="133" name="Z-MIN">
+      <node ref="U6" pin="44"/>
+      <node ref="K5" pin="3"/>
+    </net>
+    <net code="134" name="DIR4">
+      <node ref="U6" pin="85"/>
+      <node ref="U25" pin="3"/>
+      <node ref="IC4" pin="20"/>
+    </net>
+    <net code="135" name="EN4">
+      <node ref="U6" pin="65"/>
+      <node ref="IC4" pin="21"/>
+      <node ref="U25" pin="2"/>
+    </net>
+    <net code="136" name="Z-MAX">
+      <node ref="U6" pin="45"/>
+      <node ref="K6" pin="3"/>
+    </net>
+    <net code="137" name="SDA">
+      <node ref="U16" pin="2"/>
+      <node ref="U6" pin="25"/>
+      <node ref="R44" pin="2"/>
+    </net>
+    <net code="138" name="DIR3">
+      <node ref="U6" pin="74"/>
+      <node ref="IC3" pin="20"/>
+      <node ref="U22" pin="3"/>
+    </net>
+    <net code="139" name="Net-(U6-Pad95)">
+      <node ref="U6" pin="95"/>
+    </net>
+    <net code="140" name="SCL">
+      <node ref="U6" pin="24"/>
+      <node ref="R45" pin="2"/>
+      <node ref="U16" pin="3"/>
+    </net>
+    <net code="141" name="Net-(U6-Pad14)">
+      <node ref="U6" pin="14"/>
+    </net>
+    <net code="142" name="EN3">
+      <node ref="U22" pin="2"/>
+      <node ref="U6" pin="73"/>
+      <node ref="IC3" pin="21"/>
+    </net>
+    <net code="143" name="SSEL1">
+      <node ref="U6" pin="63"/>
+      <node ref="P11" pin="2"/>
+    </net>
+    <net code="144" name="Y-MAX">
+      <node ref="K4" pin="3"/>
+      <node ref="U6" pin="43"/>
+    </net>
+    <net code="145" name="Net-(U6-Pad23)">
+      <node ref="U6" pin="23"/>
+    </net>
+    <net code="146" name="Net-(U6-Pad13)">
+      <node ref="U6" pin="13"/>
+    </net>
+    <net code="147" name="DAC_SCL">
+      <node ref="U6" pin="47"/>
+      <node ref="U12" pin="2"/>
+      <node ref="R19" pin="1"/>
+      <node ref="U23" pin="2"/>
+    </net>
+    <net code="148" name="DIR2">
+      <node ref="IC2" pin="20"/>
+      <node ref="U6" pin="48"/>
+      <node ref="U21" pin="3"/>
+    </net>
+    <net code="149" name="X-MIN">
+      <node ref="U6" pin="38"/>
+      <node ref="K1" pin="3"/>
+    </net>
+    <net code="150" name="Net-(U6-Pad18)">
+      <node ref="U6" pin="18"/>
+    </net>
+    <net code="151" name="Net-(U6-Pad92)">
+      <node ref="U6" pin="92"/>
+    </net>
+    <net code="152" name="P1.23">
+      <node ref="U6" pin="37"/>
+    </net>
+    <net code="153" name="SD_IRQ">
+      <node ref="U6" pin="27"/>
+    </net>
+    <net code="154" name="Net-(U6-Pad86)">
+      <node ref="U6" pin="86"/>
+    </net>
+    <net code="155" name="P2.7">
+      <node ref="U6" pin="66"/>
+      <node ref="U11" pin="4"/>
+    </net>
+    <net code="156" name="DAC_SDA">
+      <node ref="U23" pin="3"/>
+      <node ref="U6" pin="46"/>
+      <node ref="U12" pin="3"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="157" name="P1.22">
+      <node ref="U6" pin="36"/>
+    </net>
+    <net code="158" name="PLAY_LED">
+      <node ref="U6" pin="26"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="159" name="Net-(U6-Pad16)">
+      <node ref="U6" pin="16"/>
+    </net>
+    <net code="160" name="Net-(U6-Pad5)">
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="161" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="162" name="Net-(U6-Pad3)">
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="163" name="Net-(U6-Pad2)">
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="164" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="165" name="Net-(CONN1-Pad4)">
+      <node ref="CONN1" pin="4"/>
+    </net>
+    <net code="166" name="Net-(CONN1-Pad3)">
+      <node ref="CONN1" pin="3"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="167" name="Net-(CONN1-Pad2)">
+      <node ref="R7" pin="1"/>
+      <node ref="CONN1" pin="2"/>
+    </net>
+    <net code="168" name="PLAY">
+      <node ref="R27" pin="2"/>
+      <node ref="U15" pin="1"/>
+      <node ref="U6" pin="51"/>
+    </net>
+    <net code="169" name="Net-(U6-Pad82)">
+      <node ref="U6" pin="82"/>
+    </net>
+    <net code="170" name="SCK1">
+      <node ref="U6" pin="62"/>
+      <node ref="P11" pin="4"/>
+    </net>
+    <net code="171" name="SD_CD">
+      <node ref="U6" pin="52"/>
+    </net>
+    <net code="172" name="MISO1">
+      <node ref="P11" pin="1"/>
+      <node ref="U6" pin="61"/>
+    </net>
+    <net code="173" name="P1.30">
+      <node ref="U6" pin="21"/>
+    </net>
+    <net code="174" name="STP3">
+      <node ref="U6" pin="70"/>
+      <node ref="U22" pin="1"/>
+      <node ref="IC3" pin="22"/>
+    </net>
+    <net code="175" name="MOSI1">
+      <node ref="U6" pin="60"/>
+      <node ref="P11" pin="3"/>
+    </net>
+    <net code="176" name="STP2">
+      <node ref="U21" pin="1"/>
+      <node ref="IC2" pin="22"/>
+      <node ref="U6" pin="50"/>
+    </net>
+    <net code="177" name="Y-MIN">
+      <node ref="K3" pin="3"/>
+      <node ref="U6" pin="40"/>
+    </net>
+    <net code="178" name="USB_D-">
+      <node ref="U6" pin="30"/>
+      <node ref="C9" pin="1"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="179" name="P1.31">
+      <node ref="U6" pin="20"/>
+    </net>
+    <net code="180" name="VDCVDC">
+      <node ref="C11" pin="1"/>
+      <node ref="R35" pin="2"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D9" pin="2"/>
+      <node ref="IC6" pin="7"/>
+    </net>
+    <net code="181" name="Net-(CONN1-Pad1)">
+      <node ref="CONN1" pin="1"/>
+      <node ref="D5" pin="1"/>
+    </net>
+    <net code="182" name="Net-(U6-Pad100)">
+      <node ref="U6" pin="100"/>
+    </net>
+    <net code="183" name="RX_0">
+      <node ref="U6" pin="99"/>
+      <node ref="K7" pin="2"/>
+    </net>
+    <net code="184" name="Net-(U6-Pad89)">
+      <node ref="U6" pin="89"/>
+    </net>
+    <net code="185" name="STP4">
+      <node ref="IC4" pin="22"/>
+      <node ref="U6" pin="59"/>
+      <node ref="U25" pin="1"/>
+    </net>
+    <net code="186" name="EN2">
+      <node ref="U21" pin="2"/>
+      <node ref="U6" pin="49"/>
+      <node ref="IC2" pin="21"/>
+    </net>
+    <net code="187" name="X-MAX">
+      <node ref="K2" pin="3"/>
+      <node ref="U6" pin="39"/>
+    </net>
+    <net code="188" name="USB_D+">
+      <node ref="R11" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="U6" pin="29"/>
+    </net>
+    <net code="189" name="TX_0">
+      <node ref="U6" pin="98"/>
+      <node ref="K7" pin="1"/>
+    </net>
+    <net code="190" name="Net-(D7-Pad1)">
+      <node ref="R2" pin="2"/>
+      <node ref="D7" pin="1"/>
+    </net>
+    <net code="191" name="Net-(D8-Pad1)">
+      <node ref="R55" pin="2"/>
+      <node ref="D8" pin="1"/>
+    </net>
+    <net code="192" name="P1.10">
+      <node ref="P12" pin="3"/>
+      <node ref="U6" pin="90"/>
+    </net>
+    <net code="193" name="P1.15">
+      <node ref="P12" pin="6"/>
+      <node ref="U6" pin="88"/>
+    </net>
+    <net code="194" name="P1.16">
+      <node ref="U6" pin="87"/>
+      <node ref="P12" pin="5"/>
+    </net>
+    <net code="195" name="P1.9">
+      <node ref="P12" pin="4"/>
+      <node ref="U6" pin="91"/>
+    </net>
+    <net code="196" name="P1.1">
+      <node ref="P12" pin="2"/>
+      <node ref="U6" pin="94"/>
+    </net>
+    <net code="197" name="P1.4">
+      <node ref="U6" pin="93"/>
+      <node ref="P12" pin="1"/>
+    </net>
+    <net code="198" name="Net-(IC4-Pad25)">
+      <node ref="J12" pin="2"/>
+      <node ref="IC4" pin="25"/>
+    </net>
+    <net code="199" name="Net-(IC4-Pad24)">
+      <node ref="J11" pin="2"/>
+      <node ref="IC4" pin="24"/>
+    </net>
+    <net code="200" name="Net-(IC4-Pad26)">
+      <node ref="J13" pin="2"/>
+      <node ref="IC4" pin="26"/>
+    </net>
+    <net code="201" name="Net-(IC4-Pad19)">
+      <node ref="IC4" pin="19"/>
+    </net>
+    <net code="202" name="~FAULT4">
+      <node ref="IC4" pin="18"/>
+    </net>
+    <net code="203" name="~HOME4">
+      <node ref="IC4" pin="27"/>
+    </net>
+    <net code="204" name="Net-(C42-Pad1)">
+      <node ref="C42" pin="1"/>
+      <node ref="IC4" pin="15"/>
+    </net>
+    <net code="205" name="Net-(D6-Pad1)">
+      <node ref="R28" pin="2"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="206" name="P2.4">
+      <node ref="U17" pin="2"/>
+      <node ref="U6" pin="69"/>
+    </net>
+    <net code="207" name="P2.5">
+      <node ref="U17" pin="4"/>
+      <node ref="U6" pin="68"/>
+    </net>
+    <net code="208" name="/P2.6_FET">
+      <node ref="U8" pin="3"/>
+      <node ref="P2" pin="3"/>
+    </net>
+    <net code="209" name="/PWM1_FET">
+      <node ref="U7" pin="3"/>
+      <node ref="P2" pin="5"/>
+    </net>
+    <net code="210" name="/PWM0_FET">
+      <node ref="P2" pin="7"/>
+      <node ref="U5" pin="3"/>
+    </net>
+    <net code="211" name="Net-(U23-Pad5)">
+      <node ref="U23" pin="5"/>
+    </net>
+    <net code="212" name="/P2.7_FET">
+      <node ref="U24" pin="3"/>
+      <node ref="P2" pin="1"/>
+    </net>
+  </nets>
+</export>
