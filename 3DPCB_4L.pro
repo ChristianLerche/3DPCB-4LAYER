@@ -1,4 +1,4 @@
-update=25-10-2016 07:37:17
+update=17-11-2016 08:20:50
 last_client=kicad
 [general]
 version=1
@@ -49,7 +49,7 @@ NetIExt=net
 EquName1=devcms
 [eeschema]
 version=1
-LibDir=../../../KiCAD_library
+LibDir=../LercheTech_KiCAD
 [eeschema/libraries]
 LibName1=3DPCB_4L-rescue
 LibName2=power
@@ -82,4 +82,4 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
-LibName32=lerchetech (1)
+LibName32=C:/Users/chlso/GitHub/LercheTech_KiCAD/lerchetech
