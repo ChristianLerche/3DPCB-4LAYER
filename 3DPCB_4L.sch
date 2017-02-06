@@ -5212,8 +5212,6 @@ TDO/SWO
 Text GLabel 7450 3150 2    39   Input ~ 0
 TDI
 NoConn ~ 7450 6450
-Text GLabel 12450 2900 2    39   Input ~ 0
-DRV_RESET
 Text GLabel 19150 2700 0    39   Input ~ 0
 DRV_RESET
 $Comp
@@ -5272,5 +5270,383 @@ M1_MS2
 Text GLabel 20050 2600 0    39   Input ~ 0
 M1_MS3
 Text GLabel 11150 6100 0    39   Input ~ 0
-M1_MS1
+MCU_G1_13
+Text GLabel 11150 2300 0    39   Input ~ 0
+NC_ETH_RXD1
+Text GLabel 11150 2400 0    39   Input ~ 0
+NC_ETH_TXEN
+Text GLabel 11150 2600 0    39   Input ~ 0
+NC_ETH_LED1
+Text GLabel 11150 2700 0    39   Input ~ 0
+MCU_BOOT0
+Text GLabel 11150 2800 0    39   Input ~ 0
+MCU_BOOT1
+Text GLabel 11150 2900 0    39   Input ~ 0
+MCU_MISO1
+Text GLabel 11150 3000 0    39   Input ~ 0
+MCU_MOSI1
+Text GLabel 11150 3100 0    39   Input ~ 0
+MCU_SSEL1
+Text GLabel 11150 3200 0    39   Input ~ 0
+SD_CMD
+Text GLabel 11150 3300 0    39   Input ~ 0
+MCU_G1_0
+Text GLabel 11150 3400 0    39   Input ~ 0
+MCU_G1_1
+Text GLabel 11150 3500 0    39   Input ~ 0
+SD_DAT0
+Text GLabel 11150 3600 0    39   Input ~ 0
+SD_DAT1
+Text GLabel 11150 3700 0    39   Input ~ 0
+SD_DAT2
+Text GLabel 11150 3800 0    39   Input ~ 0
+SD_DAT3
+Text GLabel 11150 3900 0    39   Input ~ 0
+MCU_TXD1
+Text GLabel 11150 4000 0    39   Input ~ 0
+MCU_RXD1
+Text GLabel 11150 4100 0    39   Input ~ 0
+NC_ETH_RXD0
+Text GLabel 11150 4200 0    39   Input ~ 0
+NC_ETH_CRS
+Text GLabel 11150 4300 0    39   Input ~ 0
+NC_ETH_MDIO
+Text GLabel 11150 4400 0    39   Input ~ 0
+NC_ETH_TXD0
+Text GLabel 11150 4500 0    39   Input ~ 0
+NC_ETH_REF_CLK
+Text GLabel 11150 4600 0    39   Input ~ 0
+NC_ETH_TXD1
+Text GLabel 11150 4800 0    39   Input ~ 0
+MCU_TXD0
+Text GLabel 11150 4900 0    39   Input ~ 0
+MCU_RXD0
+Text GLabel 11150 5000 0    39   Input ~ 0
+NC_USB0_LED1
+Text GLabel 11150 5100 0    39   Input ~ 0
+MCU_TXD3
+Text GLabel 11150 5200 0    39   Input ~ 0
+MCU_RXD3
+Text GLabel 11150 5300 0    39   Input ~ 0
+NC_USB0_LED0
+Text GLabel 11150 5400 0    39   Input ~ 0
+MCU_G5_6
+Text GLabel 11150 5500 0    39   Input ~ 0
+MCU_~ISP
+Text GLabel 11150 5600 0    39   Input ~ 0
+MCU_BOOT2
+Text GLabel 11150 5700 0    39   Input ~ 0
+MCU_BOOT3
+Text GLabel 11150 5800 0    39   Input ~ 0
+MCU_PWM2
+Text GLabel 11150 5900 0    39   Input ~ 0
+MCU_G1_11
+Text GLabel 11150 6000 0    39   Input ~ 0
+MCU_G1_12
+Text GLabel 11150 6300 0    39   Input ~ 0
+MCU_SCK0
+Text GLabel 11150 6400 0    39   Input ~ 0
+MCU_RD0
+Text GLabel 11150 6500 0    39   Input ~ 0
+MCU_TD0
+Text GLabel 11150 6600 0    39   Input ~ 0
+SPIFI_SCK
+Text GLabel 11150 6700 0    39   Input ~ 0
+SPIFI_SIO3
+Text GLabel 11150 6800 0    39   Input ~ 0
+SPIFI_SIO2
+Text GLabel 11150 6900 0    39   Input ~ 0
+SPIFI_SIO1
+Text GLabel 11150 7000 0    39   Input ~ 0
+SPIFI_SIO0
+Text GLabel 11150 7100 0    39   Input ~ 0
+SPIFI_CS
+Text GLabel 11150 7300 0    39   Input ~ 0
+MCU_G2_0
+Text GLabel 11150 7400 0    39   Input ~ 0
+MCU_PWM1
+Text GLabel 11150 7500 0    39   Input ~ 0
+MCU_PWM0
+Text GLabel 11150 7600 0    39   Input ~ 0
+MCU_PWM3
+Text GLabel 11150 7700 0    39   Input ~ 0
+MCU_G2_4
+Text GLabel 11150 7800 0    39   Input ~ 0
+MCU_PWM5
+Text GLabel 11150 7900 0    39   Input ~ 0
+MCU_PWM4
+Text GLabel 11150 8000 0    39   Input ~ 0
+NC_P4_7
+Text GLabel 11150 8100 0    39   Input ~ 0
+MCU_G5_12
+Text GLabel 11150 8200 0    39   Input ~ 0
+MCU_~DFU
+Text GLabel 11150 8300 0    39   Input ~ 0
+MCU_SGPIO15
+Text GLabel 11150 8500 0    39   Input ~ 0
+MCU_G2_9
+Text GLabel 11150 8600 0    39   Input ~ 0
+MCU_G2_10
+Text GLabel 11150 8700 0    39   Input ~ 0
+MCU_G2_11
+Text GLabel 11150 8800 0    39   Input ~ 0
+MCU_G2_12
+Text GLabel 11150 8900 0    39   Input ~ 0
+MCU_G2_13
+Text GLabel 11150 9000 0    39   Input ~ 0
+MCU_G2_14
+Text GLabel 11150 9100 0    39   Input ~ 0
+MCU_G2_15
+Text GLabel 11150 9200 0    39   Input ~ 0
+MCU_G2_7
+Text GLabel 12450 2300 2    39   Input ~ 0
+NC_P6_0
+Text GLabel 12450 2400 2    39   Input ~ 0
+MCU_G3_0
+Text GLabel 12450 2500 2    39   Input ~ 0
+MCU_G3_1
+Text GLabel 12450 2600 2    39   Input ~ 0
+MCU_G3_2
+Text GLabel 12450 2700 2    39   Input ~ 0
+MCU_G3_3
+Text GLabel 12450 2800 2    39   Input ~ 0
+MCU_G3_4
+Text GLabel 12450 2900 2    39   Input ~ 0
+MCU_G0_5
+Text GLabel 12450 3000 2    39   Input ~ 0
+MCU_G5_15
+Text GLabel 12450 3100 2    39   Input ~ 0
+NC_MCU_G5_16
+Text GLabel 12450 3200 2    39   Input ~ 0
+MCU_G3_5
+Text GLabel 12450 3300 2    39   Input ~ 0
+MCU_G3_6
+Text GLabel 12450 3400 2    39   Input ~ 0
+NC_MCU_G3_7
+Text GLabel 12450 3500 2    39   Input ~ 0
+NC_MCU_G2_8
+Text GLabel 12450 3650 2    39   Input ~ 0
+MCU_PWM14
+Text GLabel 12450 3750 2    39   Input ~ 0
+MCU_PWM15
+Text GLabel 12450 3850 2    39   Input ~ 0
+MCU_G3_10
+Text GLabel 12450 3950 2    39   Input ~ 0
+NC_MCU_G3_11
+Text GLabel 12450 4050 2    39   Input ~ 0
+MCU_PWM13
+Text GLabel 12450 4150 2    39   Input ~ 0
+MCU_PWM12
+Text GLabel 12450 4250 2    39   Input ~ 0
+MCU_PWM11
+Text GLabel 12450 4350 2    39   Input ~ 0
+NC_ETH_MDC
+Text GLabel 12450 4550 2    39   Input ~ 0
+MCU_G4_0
+Text GLabel 12450 4650 2    39   Input ~ 0
+NC_MCU_G4_1
+Text GLabel 12450 4750 2    39   Input ~ 0
+NC_MCU_G4_2
+Text GLabel 12450 4850 2    39   Input ~ 0
+NC_MCU_G4_3
+Text GLabel 12450 4950 2    39   Input ~ 0
+NC_MCU_G4_4
+Text GLabel 12450 5050 2    39   Input ~ 0
+NC_MCU_G4_5
+Text GLabel 12450 5150 2    39   Input ~ 0
+NC_MCU_G4_6
+Text GLabel 12450 5250 2    39   Input ~ 0
+NC_MCU_G4_7
+Text GLabel 12450 5350 2    39   Input ~ 0
+FPGA_PROG
+Text GLabel 12450 5550 2    39   Input ~ 0
+MCU_SGPIO0
+Text GLabel 12450 5650 2    39   Input ~ 0
+NC_MCU_SGPIO1
+Text GLabel 12450 5750 2    39   Input ~ 0
+NC_MCU_SGPIO2
+Text GLabel 12450 5850 2    39   Input ~ 0
+NC_USB1_LED1
+Text GLabel 12450 5950 2    39   Input ~ 0
+NC_USB1_LED0
+Text GLabel 12450 6050 2    39   Input ~ 0
+USB1_PPWR
+Text GLabel 12450 6150 2    39   Input ~ 0
+USB1_PWR_FLT
+Text GLabel 12450 6350 2    39   Input ~ 0
+NC_CGU1
+Text GLabel 12450 6450 2    39   Input ~ 0
+MCU_TXD2
+Text GLabel 12450 6550 2    39   Input ~ 0
+MCU_RXD2
+Text GLabel 12450 6650 2    39   Input ~ 0
+NC_MCU_G4_10
+Text GLabel 12450 6750 2    39   Input ~ 0
+MCU_PWM9
+Text GLabel 12450 6950 2    39   Input ~ 0
+MCU_PWM10
+Text GLabel 12450 7050 2    39   Input ~ 0
+MCU_PWM6
+Text GLabel 12450 7150 2    39   Input ~ 0
+MCU_PWM7
+Text GLabel 12450 7250 2    39   Input ~ 0
+MCU_PWM8
+Text GLabel 12450 7350 2    39   Input ~ 0
+NC_MCU_G5_24
+Text GLabel 12450 7450 2    39   Input ~ 0
+NC_MCU_G5_25
+Text GLabel 12450 7550 2    39   Input ~ 0
+MCU_ADC6
+Text GLabel 12450 7750 2    39   Input ~ 0
+MCU_G6_25
+Text GLabel 12450 7850 2    39   Input ~ 0
+MCU_G6_26
+Text GLabel 12450 7950 2    39   Input ~ 0
+MCU_G6_28
+Text GLabel 12450 8050 2    39   Input ~ 0
+MCU_G6_29
+Text GLabel 12450 8150 2    39   Input ~ 0
+MCU_G6_30
+Text GLabel 12450 8350 2    39   Input ~ 0
+MCU_TD1
+Text GLabel 12450 8450 2    39   Input ~ 0
+MCU_RD1
+Text GLabel 12450 8550 2    39   Input ~ 0
+MCU_G7_2
+Text GLabel 12450 8650 2    39   Input ~ 0
+MCU_G7_3
+Text GLabel 12450 8750 2    39   Input ~ 0
+MCU_G7_4
+Text GLabel 12450 8950 2    39   Input ~ 0
+MCU_SCK1
+$Comp
+L R-RESCUE-3DPCB_4L R?
+U 1 1 589EA9F5
+P 4800 11350
+F 0 "R?" V 4880 11350 40  0000 C CNN
+F 1 "10k" V 4807 11351 40  0000 C CNN
+F 2 "LercheTech:Lerche_R0603" V 4730 11350 30  0001 C CNN
+F 3 "~" H 4800 11350 30  0000 C CNN
+	1    4800 11350
+	0    1    1    0   
+$EndComp
+$Comp
+L R-RESCUE-3DPCB_4L R?
+U 1 1 589ED38C
+P 4800 11550
+F 0 "R?" V 4880 11550 40  0000 C CNN
+F 1 "10k" V 4807 11551 40  0000 C CNN
+F 2 "LercheTech:Lerche_R0603" V 4730 11550 30  0001 C CNN
+F 3 "~" H 4800 11550 30  0000 C CNN
+	1    4800 11550
+	0    1    1    0   
+$EndComp
+$Comp
+L R-RESCUE-3DPCB_4L R?
+U 1 1 589ED5F2
+P 4800 11750
+F 0 "R?" V 4880 11750 40  0000 C CNN
+F 1 "10k" V 4807 11751 40  0000 C CNN
+F 2 "LercheTech:Lerche_R0603" V 4730 11750 30  0001 C CNN
+F 3 "~" H 4800 11750 30  0000 C CNN
+	1    4800 11750
+	0    1    1    0   
+$EndComp
+$Comp
+L R-RESCUE-3DPCB_4L R?
+U 1 1 589ED84F
+P 4800 11950
+F 0 "R?" V 4880 11950 40  0000 C CNN
+F 1 "10k" V 4807 11951 40  0000 C CNN
+F 2 "LercheTech:Lerche_R0603" V 4730 11950 30  0001 C CNN
+F 3 "~" H 4800 11950 30  0000 C CNN
+	1    4800 11950
+	0    1    1    0   
+$EndComp
+$Comp
+L JUMPER3 JP?
+U 1 1 589EEF8E
+P 5750 11350
+F 0 "JP?" H 5800 11250 50  0000 L CNN
+F 1 "JUMPER3" H 5750 11450 50  0000 C BNN
+F 2 "" H 5750 11350 50  0000 C CNN
+F 3 "" H 5750 11350 50  0000 C CNN
+	1    5750 11350
+	0    1    1    0   
+$EndComp
+$Comp
+L JUMPER3 JP?
+U 1 1 589EF2C3
+P 5750 11950
+F 0 "JP?" H 5800 11850 50  0000 L CNN
+F 1 "JUMPER3" H 5750 12050 50  0000 C BNN
+F 2 "" H 5750 11950 50  0000 C CNN
+F 3 "" H 5750 11950 50  0000 C CNN
+	1    5750 11950
+	0    1    1    0   
+$EndComp
+$Comp
+L GND-RESCUE-3DPCB_4L #PWR?
+U 1 1 589EFB9C
+P 5750 12500
+F 0 "#PWR?" H 5750 12500 30  0001 C CNN
+F 1 "GND" H 5750 12430 30  0001 C CNN
+F 2 "" H 5750 12500 60  0000 C CNN
+F 3 "" H 5750 12500 60  0000 C CNN
+	1    5750 12500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 12200 5750 12500
+Wire Wire Line
+	5750 11600 5500 11600
+Wire Wire Line
+	5500 11600 5500 12400
+Wire Wire Line
+	5100 12400 5750 12400
+Connection ~ 5750 12400
+Wire Wire Line
+	5050 11950 5100 11950
+Wire Wire Line
+	5100 11550 5100 12400
+Connection ~ 5500 12400
+Wire Wire Line
+	5050 11550 5100 11550
+Connection ~ 5100 11950
+Wire Wire Line
+	5650 11950 5300 11950
+Wire Wire Line
+	5300 11950 5300 11750
+Wire Wire Line
+	5300 11750 5050 11750
+Wire Wire Line
+	5050 11350 5650 11350
+$Comp
+L +3.3V-RESCUE-3DPCB_4L #PWR?
+U 1 1 589F1E2E
+P 5750 10950
+F 0 "#PWR?" H 5750 10910 30  0001 C CNN
+F 1 "+3.3V" H 5750 11060 30  0000 C CNN
+F 2 "" H 5750 10950 60  0000 C CNN
+F 3 "" H 5750 10950 60  0000 C CNN
+	1    5750 10950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 10950 5750 11100
+Wire Wire Line
+	5750 11700 5950 11700
+Wire Wire Line
+	5950 11700 5950 11050
+Wire Wire Line
+	5950 11050 5750 11050
+Connection ~ 5750 11050
+Text GLabel 4550 11350 0    39   Input ~ 0
+MCU_BOOT0
+Text GLabel 4550 11550 0    39   Input ~ 0
+MCU_BOOT1
+Text GLabel 4550 11750 0    39   Input ~ 0
+MCU_BOOT2
+Text GLabel 4550 11950 0    39   Input ~ 0
+MCU_BOOT3
 $EndSCHEMATC
