@@ -1,0 +1,7 @@
+### Module positions - created on 03/31/17 13:35:17 ###
+### Printed by Pcbnew version kicad 4.0.4-stable
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                     PosX       PosY       Rot  Side
+          LOGO      Logo_silk_WEEE_8x10mm    10.7000     7.9000    0.0000  bottom
+## End

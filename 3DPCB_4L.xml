@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:/Users/Ejer/Google Drev/3DPCB/3DPCB_C_4L/3DPCB_C_4L/3DPCB_4L.sch</source>
-    <date>09-10-2016 10:21:17</date>
-    <tool>Eeschema 4.0.2-stable</tool>
+    <source>C:/Users/chlso/GitHub/3DPCB-4LAYER/3DPCB_4L.sch</source>
+    <date>08-06-2017 13:01:23</date>
+    <tool>Eeschema 4.0.4-stable</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>3DPCB</title>
@@ -21,1093 +21,1448 @@
   <components>
     <comp ref="CONN1">
       <value>USB_MINI</value>
-      <libsource lib="3DPCB_4L-cache" part="USB_MINI"/>
+      <footprint>LercheTech:Lerche_MINI_USB</footprint>
+      <libsource lib="lerchetech" part="USB_MINI"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5201087D</tstamp>
     </comp>
     <comp ref="U2">
       <value>SPST_MOMENTARY</value>
-      <libsource lib="3DPCB_4L-cache" part="SPST_MOMENTARY"/>
+      <footprint>LercheTech:Lerche_SPST_ITEAD</footprint>
+      <libsource lib="lerchetech" part="SPST_MOMENTARY"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>520119D9</tstamp>
     </comp>
     <comp ref="U6">
       <value>LPC1768_TQFP100</value>
-      <libsource lib="3DPCB_4L-cache" part="LPC1768_TQFP100"/>
+      <footprint>Housings_QFP:TQFP-100_14x14mm_Pitch0.5mm</footprint>
+      <libsource lib="lerchetech" part="LPC1768_TQFP100"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC054</tstamp>
     </comp>
     <comp ref="C18">
       <value>100pF</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC0CF</tstamp>
     </comp>
     <comp ref="R1">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC30E</tstamp>
     </comp>
     <comp ref="D5">
       <value>DIODESCH</value>
+      <footprint>LercheTech:Lerche_SOD323</footprint>
       <libsource lib="3DPCB_4L-cache" part="DIODESCH"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC414</tstamp>
     </comp>
     <comp ref="R7">
       <value>33R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC60B</tstamp>
     </comp>
     <comp ref="R8">
       <value>33R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC611</tstamp>
     </comp>
     <comp ref="C5">
       <value>18p</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC6FE</tstamp>
     </comp>
     <comp ref="C9">
       <value>18p</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC704</tstamp>
     </comp>
     <comp ref="L1">
       <value>INDUCTOR</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="device" part="INDUCTOR"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC987</tstamp>
     </comp>
     <comp ref="C17">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524ACD38</tstamp>
     </comp>
     <comp ref="C6">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AD2DD</tstamp>
     </comp>
     <comp ref="C2">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AD38F</tstamp>
     </comp>
     <comp ref="C1">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524ADFCF</tstamp>
     </comp>
     <comp ref="U3">
       <value>BSS84</value>
-      <libsource lib="3DPCB_4L-cache" part="BSS84"/>
+      <footprint>LercheTech:Lerche_SOT23-3</footprint>
+      <libsource lib="lerchetech" part="BSS84"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B1CD6</tstamp>
     </comp>
     <comp ref="R11">
       <value>1k5</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B1CE3</tstamp>
     </comp>
     <comp ref="U4">
       <value>CONN_4_LERCHE</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
+      <libsource lib="lerchetech" part="CONN_4_LERCHE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B20E2</tstamp>
     </comp>
     <comp ref="D4">
       <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B20F1</tstamp>
     </comp>
     <comp ref="D3">
       <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2100</tstamp>
     </comp>
     <comp ref="D2">
       <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2117</tstamp>
     </comp>
     <comp ref="D1">
       <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B211D</tstamp>
     </comp>
     <comp ref="R6">
       <value>1k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2393</tstamp>
     </comp>
     <comp ref="R5">
       <value>1k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B23B4</tstamp>
     </comp>
     <comp ref="R4">
       <value>1k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B23BA</tstamp>
     </comp>
     <comp ref="R3">
       <value>1k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B23C0</tstamp>
     </comp>
     <comp ref="U10">
       <value>MICRO-SD</value>
-      <libsource lib="3DPCB_4L-cache" part="MICRO-SD"/>
+      <footprint>LercheTech:Lerche_Molex_502774-0891</footprint>
+      <libsource lib="lerchetech" part="MICRO-SD"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B4F0F</tstamp>
     </comp>
     <comp ref="P9">
       <value>CONN_4</value>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B7D21</tstamp>
     </comp>
     <comp ref="C24">
       <value>100uF</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8C9F</tstamp>
     </comp>
     <comp ref="C25">
       <value>100uF</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8CAC</tstamp>
     </comp>
     <comp ref="C26">
       <value>100uF</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8CB2</tstamp>
     </comp>
     <comp ref="K1">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BB6D7</tstamp>
     </comp>
     <comp ref="K2">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BB6E4</tstamp>
     </comp>
     <comp ref="K3">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BB6EA</tstamp>
     </comp>
     <comp ref="K4">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BB6F0</tstamp>
     </comp>
     <comp ref="K5">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BB6F6</tstamp>
     </comp>
     <comp ref="K6">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BB6FC</tstamp>
     </comp>
     <comp ref="P1">
       <value>CONN_8</value>
+      <footprint>LercheTech:Lerche_8P_2.54mm</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_8"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BDC0D</tstamp>
     </comp>
     <comp ref="C4">
       <value>10uF</value>
+      <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1A8</tstamp>
     </comp>
     <comp ref="C7">
       <value>10uF</value>
+      <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1B4</tstamp>
     </comp>
     <comp ref="C10">
       <value>10uF</value>
+      <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1C0</tstamp>
     </comp>
     <comp ref="R10">
       <value>4K7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1CC</tstamp>
     </comp>
     <comp ref="R12">
       <value>4K7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1D2</tstamp>
     </comp>
     <comp ref="R13">
       <value>4K7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1D8</tstamp>
     </comp>
     <comp ref="U5">
       <value>IRFH5302</value>
-      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <footprint>LercheTech:Lerche_PQFN_5x6B</footprint>
+      <libsource lib="lerchetech" part="MOS_NFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BF956</tstamp>
     </comp>
     <comp ref="U7">
       <value>IRFH5302</value>
-      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <footprint>LercheTech:Lerche_PQFN_5x6B</footprint>
+      <libsource lib="lerchetech" part="MOS_NFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BFC45</tstamp>
     </comp>
     <comp ref="R15">
-      <value>9k</value>
+      <value>47k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BFF2E</tstamp>
     </comp>
     <comp ref="R14">
-      <value>9k</value>
+      <value>47k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BFF34</tstamp>
     </comp>
     <comp ref="U8">
       <value>IRFH5302</value>
-      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <footprint>LercheTech:Lerche_PQFN_5x6B</footprint>
+      <libsource lib="lerchetech" part="MOS_NFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C0A12</tstamp>
     </comp>
-    <comp ref="R16">
-      <value>9k</value>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>524C0A1F</tstamp>
-    </comp>
     <comp ref="C16">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17C4</tstamp>
     </comp>
     <comp ref="C15">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17CA</tstamp>
     </comp>
     <comp ref="C14">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17D0</tstamp>
     </comp>
     <comp ref="C13">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17D6</tstamp>
     </comp>
     <comp ref="C12">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17DC</tstamp>
     </comp>
     <comp ref="C28">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C263D</tstamp>
     </comp>
     <comp ref="C29">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C2975</tstamp>
     </comp>
     <comp ref="C30">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C297B</tstamp>
     </comp>
     <comp ref="C31">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C2981</tstamp>
     </comp>
     <comp ref="C22">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C31F7</tstamp>
     </comp>
     <comp ref="C23">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C31FD</tstamp>
     </comp>
-    <comp ref="C35">
-      <value>470n</value>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>524B2C4F</tstamp>
-    </comp>
     <comp ref="R33">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2E40</tstamp>
     </comp>
     <comp ref="R37">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2E46</tstamp>
     </comp>
     <comp ref="C39">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B3A72</tstamp>
     </comp>
     <comp ref="C8">
-      <value>10n</value>
+      <value>100nF</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B3DEF</tstamp>
     </comp>
     <comp ref="J2">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B51BD</tstamp>
     </comp>
     <comp ref="J3">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B51C3</tstamp>
     </comp>
     <comp ref="C43">
       <value>47uF</value>
+      <footprint>Capacitors_SMD:c_elec_5x5.8</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E8190</tstamp>
     </comp>
     <comp ref="C44">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E8570</tstamp>
     </comp>
     <comp ref="C45">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E8576</tstamp>
     </comp>
     <comp ref="C46">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E857C</tstamp>
     </comp>
     <comp ref="K7">
       <value>CONN_3</value>
+      <footprint>LercheTech:Lerche_3P_1.27MM</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5253846A</tstamp>
     </comp>
     <comp ref="U15">
       <value>SPST_MOMENTARY</value>
-      <libsource lib="3DPCB_4L-cache" part="SPST_MOMENTARY"/>
+      <footprint>LercheTech:Lerche_SPST_ITEAD</footprint>
+      <libsource lib="lerchetech" part="SPST_MOMENTARY"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52581C12</tstamp>
     </comp>
     <comp ref="R27">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52581C18</tstamp>
     </comp>
     <comp ref="D6">
       <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52582C80</tstamp>
     </comp>
     <comp ref="R28">
       <value>1k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52582C86</tstamp>
     </comp>
-    <comp ref="P8">
-      <value>CONN_2</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_2"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5258344A</tstamp>
-    </comp>
     <comp ref="R41">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52584B5A</tstamp>
     </comp>
     <comp ref="R42">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52584B60</tstamp>
     </comp>
     <comp ref="R43">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52584B66</tstamp>
     </comp>
     <comp ref="U16">
       <value>CONN_4_LERCHE</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
+      <libsource lib="lerchetech" part="CONN_4_LERCHE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5258F88B</tstamp>
     </comp>
     <comp ref="R44">
       <value>3k3</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5258FBE5</tstamp>
     </comp>
     <comp ref="R45">
       <value>3k3</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5258FC56</tstamp>
     </comp>
-    <comp ref="U17">
-      <value>IX4427</value>
-      <libsource lib="3DPCB_4L-cache" part="TC4427"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5259155C</tstamp>
-    </comp>
     <comp ref="L2">
-      <value>IHLP1212-10uH</value>
+      <value>IHLP1212BZER2R2M11</value>
+      <footprint>LercheTech:Lerche_IHLP-1212BZ-11_Inductor</footprint>
+      <datasheet>http://www.vishay.com/docs/34289/lp12bz11.pdf</datasheet>
       <libsource lib="device" part="INDUCTOR"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5260BF3A</tstamp>
     </comp>
     <comp ref="U23">
       <value>MCP4728</value>
-      <libsource lib="3DPCB_4L-cache" part="MCP4728"/>
+      <footprint>LercheTech:Lerche_MSOP-10</footprint>
+      <libsource lib="lerchetech" part="MCP4728"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5269312C</tstamp>
     </comp>
     <comp ref="R19">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52693379</tstamp>
     </comp>
     <comp ref="R18">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5269337F</tstamp>
     </comp>
     <comp ref="C50">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52695CF1</tstamp>
     </comp>
     <comp ref="C51">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52696F13</tstamp>
     </comp>
     <comp ref="U24">
       <value>IRFH5302</value>
-      <libsource lib="3DPCB_4L-cache" part="MOS_NFET"/>
+      <footprint>LercheTech:Lerche_PQFN_5x6B</footprint>
+      <libsource lib="lerchetech" part="MOS_NFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>527BAFCD</tstamp>
     </comp>
     <comp ref="R20">
-      <value>9k</value>
+      <value>47k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>527BAFDA</tstamp>
     </comp>
     <comp ref="R9">
       <value>10k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52E2658F</tstamp>
     </comp>
     <comp ref="U1">
       <value>CONN_4_LERCHE</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
+      <libsource lib="lerchetech" part="CONN_4_LERCHE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52E677DB</tstamp>
     </comp>
     <comp ref="U21">
       <value>CONN_4_LERCHE</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
+      <libsource lib="lerchetech" part="CONN_4_LERCHE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52E67E22</tstamp>
     </comp>
     <comp ref="U22">
       <value>CONN_4_LERCHE</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
+      <libsource lib="lerchetech" part="CONN_4_LERCHE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52E68237</tstamp>
     </comp>
     <comp ref="U25">
       <value>CONN_4_LERCHE</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
+      <libsource lib="lerchetech" part="CONN_4_LERCHE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52E6823D</tstamp>
     </comp>
     <comp ref="D7">
       <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343E976</tstamp>
     </comp>
     <comp ref="D8">
       <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343E97C</tstamp>
     </comp>
     <comp ref="R2">
       <value>1k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343EF32</tstamp>
     </comp>
     <comp ref="R55">
       <value>5k8</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343EF38</tstamp>
     </comp>
     <comp ref="P11">
       <value>CONN_3X2</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3X2"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5368F485</tstamp>
     </comp>
     <comp ref="P12">
       <value>CONN_3X2</value>
+      <footprint>LercheTech:Lerche_6P_1.6mm_2ROW</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3X2"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>536910AC</tstamp>
     </comp>
     <comp ref="J4">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A3718</tstamp>
     </comp>
     <comp ref="P5">
       <value>CONN_4</value>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A85DD</tstamp>
     </comp>
-    <comp ref="C40">
-      <value>470n</value>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A85E9</tstamp>
-    </comp>
     <comp ref="R21">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A85F5</tstamp>
     </comp>
     <comp ref="R24">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A85FB</tstamp>
     </comp>
     <comp ref="C52">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A860D</tstamp>
     </comp>
     <comp ref="C36">
-      <value>10n</value>
+      <value>100nF</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8619</tstamp>
     </comp>
     <comp ref="J5">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A861F</tstamp>
     </comp>
     <comp ref="J6">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8625</tstamp>
     </comp>
     <comp ref="C32">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A862C</tstamp>
     </comp>
     <comp ref="J7">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8645</tstamp>
     </comp>
     <comp ref="P6">
       <value>CONN_4</value>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8675</tstamp>
     </comp>
-    <comp ref="C41">
-      <value>470n</value>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A8681</tstamp>
-    </comp>
     <comp ref="R22">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A868D</tstamp>
     </comp>
     <comp ref="R29">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8693</tstamp>
     </comp>
     <comp ref="C53">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86A5</tstamp>
     </comp>
     <comp ref="C37">
-      <value>10n</value>
+      <value>100nF</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86B1</tstamp>
     </comp>
-    <comp ref="J8">
-      <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A86B7</tstamp>
-    </comp>
     <comp ref="J9">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86BD</tstamp>
     </comp>
     <comp ref="C33">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86C4</tstamp>
     </comp>
     <comp ref="J10">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86DD</tstamp>
     </comp>
     <comp ref="P7">
       <value>CONN_4</value>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A870D</tstamp>
     </comp>
-    <comp ref="C42">
-      <value>470n</value>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A8719</tstamp>
-    </comp>
     <comp ref="R23">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8725</tstamp>
     </comp>
     <comp ref="R30">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A872B</tstamp>
     </comp>
     <comp ref="C54">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A873D</tstamp>
     </comp>
     <comp ref="C38">
       <value>10n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8749</tstamp>
     </comp>
     <comp ref="J11">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A874F</tstamp>
     </comp>
     <comp ref="J12">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8755</tstamp>
     </comp>
     <comp ref="C34">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A875C</tstamp>
     </comp>
-    <comp ref="IC4">
-      <value>DRV8825</value>
-      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A8762</tstamp>
-    </comp>
     <comp ref="J13">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8775</tstamp>
     </comp>
     <comp ref="P13">
       <value>CONN_4</value>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_4"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAB5</tstamp>
     </comp>
-    <comp ref="C68">
-      <value>470n</value>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>53E4EAC1</tstamp>
-    </comp>
     <comp ref="R31">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EACD</tstamp>
     </comp>
     <comp ref="R32">
-      <value>0R1</value>
+      <value>0R05</value>
+      <footprint>LercheTech:Lerche_R1206</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAD3</tstamp>
     </comp>
     <comp ref="C69">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAE5</tstamp>
     </comp>
     <comp ref="C67">
-      <value>10n</value>
+      <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAF1</tstamp>
     </comp>
     <comp ref="J14">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAF7</tstamp>
     </comp>
     <comp ref="J15">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAFD</tstamp>
     </comp>
     <comp ref="C65">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EB04</tstamp>
     </comp>
-    <comp ref="IC5">
-      <value>DRV8825</value>
-      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>53E4EB0A</tstamp>
-    </comp>
     <comp ref="J16">
       <value> </value>
-      <libsource lib="3DPCB_4L-cache" part="SOLDER_JUMPER"/>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EB1D</tstamp>
     </comp>
     <comp ref="U13">
       <value>CONN_4_LERCHE</value>
-      <libsource lib="3DPCB_4L-cache" part="CONN_4_LERCHE"/>
+      <footprint>LercheTech:Lerche_4P_2.54mm</footprint>
+      <libsource lib="lerchetech" part="CONN_4_LERCHE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4F4AF</tstamp>
     </comp>
     <comp ref="U12">
       <value>MCP4728</value>
-      <libsource lib="3DPCB_4L-cache" part="MCP4728"/>
+      <footprint>LercheTech:Lerche_MSOP-10</footprint>
+      <libsource lib="lerchetech" part="MCP4728"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E5DFFA</tstamp>
     </comp>
     <comp ref="C64">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E5FD48</tstamp>
     </comp>
-    <comp ref="U11">
-      <value>IX4427</value>
-      <libsource lib="3DPCB_4L-cache" part="TC4427"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>53E61024</tstamp>
-    </comp>
     <comp ref="C27">
       <value>100uF</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8CB8</tstamp>
     </comp>
     <comp ref="C71">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E62C00</tstamp>
     </comp>
     <comp ref="C70">
       <value>100uF</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E62C06</tstamp>
     </comp>
     <comp ref="C3">
       <value>10uF</value>
+      <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53F73184</tstamp>
     </comp>
     <comp ref="R34">
       <value>4K7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53F7343E</tstamp>
     </comp>
     <comp ref="D9">
       <value>DIODESCH</value>
+      <footprint>LercheTech:Lerche_SOD323</footprint>
       <libsource lib="3DPCB_4L-cache" part="DIODESCH"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>54FB2322</tstamp>
     </comp>
     <comp ref="OSC1">
       <value>QX2</value>
-      <libsource lib="3DPCB_4L-cache" part="QX2"/>
+      <footprint>LercheTech:Lerche_Oscillator_2.5x2.0mm</footprint>
+      <libsource lib="lerchetech" part="QX2"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55028477</tstamp>
     </comp>
     <comp ref="C19">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5502848E</tstamp>
     </comp>
     <comp ref="K8">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5502A67C</tstamp>
     </comp>
-    <comp ref="IC1">
-      <value>DRV8825</value>
-      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A1943</tstamp>
-    </comp>
-    <comp ref="IC2">
-      <value>DRV8825</value>
-      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A8632</tstamp>
-    </comp>
-    <comp ref="IC3">
-      <value>DRV8825</value>
-      <libsource lib="3DPCB_4L-cache" part="DRV8825"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>538A86CA</tstamp>
-    </comp>
     <comp ref="K9">
       <value>CONN_3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_3"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>551311CA</tstamp>
     </comp>
     <comp ref="IC6">
       <value>MP9943</value>
-      <libsource lib="3DPCB_4L-cache" part="MP9943"/>
+      <footprint>LercheTech:Lerche_MP9943</footprint>
+      <libsource lib="lerchetech" part="MP9943"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D6086C</tstamp>
     </comp>
     <comp ref="C11">
       <value>100uF</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
       <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D61144</tstamp>
     </comp>
     <comp ref="R35">
       <value>1M</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D62441</tstamp>
     </comp>
     <comp ref="C20">
       <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D62D53</tstamp>
     </comp>
     <comp ref="R36">
       <value>20R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D62FF8</tstamp>
     </comp>
     <comp ref="R38">
       <value>51k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D63E21</tstamp>
     </comp>
     <comp ref="R40">
       <value>41k2</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D63E2C</tstamp>
     </comp>
     <comp ref="R39">
       <value>13k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D63E32</tstamp>
     </comp>
     <comp ref="R56">
-      <value>3k</value>
+      <value>10R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D86BBC</tstamp>
     </comp>
-    <comp ref="R57">
-      <value>3k</value>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>55D87633</tstamp>
-    </comp>
     <comp ref="R59">
-      <value>3k</value>
+      <value>10R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D87639</tstamp>
     </comp>
     <comp ref="R58">
-      <value>3k</value>
+      <value>10R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
       <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D8763F</tstamp>
     </comp>
     <comp ref="P2">
       <value>CONN_8</value>
+      <footprint>LercheTech:Lerche_8P_CONN_3,5mm</footprint>
       <libsource lib="3DPCB_4L-cache" part="CONN_8"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55DA95AB</tstamp>
     </comp>
     <comp ref="FID1">
       <value>FIDUCIAL</value>
-      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <footprint>LercheTech:Lerche_Fiducial</footprint>
+      <libsource lib="lerchetech" part="FIDUCIAL"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55F69685</tstamp>
     </comp>
     <comp ref="FID2">
       <value>FIDUCIAL</value>
-      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <footprint>LercheTech:Lerche_Fiducial</footprint>
+      <libsource lib="lerchetech" part="FIDUCIAL"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55F69692</tstamp>
     </comp>
     <comp ref="FID3">
       <value>FIDUCIAL</value>
-      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <footprint>LercheTech:Lerche_Fiducial</footprint>
+      <libsource lib="lerchetech" part="FIDUCIAL"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55F69698</tstamp>
     </comp>
     <comp ref="FID4">
       <value>FIDUCIAL</value>
-      <libsource lib="3DPCB_4L-cache" part="FIDUCIAL"/>
+      <footprint>LercheTech:Lerche_Fiducial</footprint>
+      <libsource lib="lerchetech" part="FIDUCIAL"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55F6969E</tstamp>
     </comp>
+    <comp ref="R16">
+      <value>47k</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>524C0A1F</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>10R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55D87633</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>580648B6</tstamp>
+    </comp>
+    <comp ref="C47">
+      <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5806D094</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>TC4427</value>
+      <footprint>SMD_Packages:SOIC-8-N</footprint>
+      <libsource lib="lerchetech" part="TC4427"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58103095</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>TC4427</value>
+      <footprint>SMD_Packages:SOIC-8-N</footprint>
+      <libsource lib="lerchetech" part="TC4427"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581062EB</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>Vz10V/0.5W</value>
+      <footprint>Diodes_SMD:SMA_Standard</footprint>
+      <libsource lib="device" part="ZENERsmall"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5811364C</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5811A0A4</tstamp>
+    </comp>
+    <comp ref="C49">
+      <value>1uF</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58060414</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_02X03</value>
+      <footprint>LercheTech:Lerche_Molex_Microfit_0430450607</footprint>
+      <libsource lib="conn" part="CONN_02X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>582DF4EB</tstamp>
+    </comp>
+    <comp ref="IC5">
+      <value>A5984_LP</value>
+      <footprint>LercheTech:Lerche_TSSOP24_EP</footprint>
+      <libsource lib="lerchetech" part="A5984_LP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58498C5F</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>A5984_LP</value>
+      <footprint>LercheTech:Lerche_TSSOP24_EP</footprint>
+      <libsource lib="lerchetech" part="A5984_LP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584C38BF</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value> </value>
+      <footprint>LercheTech:Lerche_2PsolderJumper</footprint>
+      <libsource lib="lerchetech" part="SOLDER_JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>538A86B7</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>A5984_LP</value>
+      <footprint>LercheTech:Lerche_TSSOP24_EP</footprint>
+      <libsource lib="lerchetech" part="A5984_LP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584E73F3</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>A5984_LP</value>
+      <footprint>LercheTech:Lerche_TSSOP24_EP</footprint>
+      <libsource lib="lerchetech" part="A5984_LP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58503005</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>A5984_LP</value>
+      <footprint>LercheTech:Lerche_TSSOP24_EP</footprint>
+      <libsource lib="lerchetech" part="A5984_LP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5851E067</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>0R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5851CAAF</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>0R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5851E6EB</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>0R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58526A4E</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>0R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58528BDB</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>0R</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5852AFE8</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58779D11</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>4k7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5879127B</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587971F1</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>4k7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5879B769</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5879BFF3</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>4k7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5879F744</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5879F9AC</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>4k7</value>
+      <footprint>LercheTech:Lerche_R0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A1BB4</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A1E30</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>100n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587D374F</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>220n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B5A292</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>220n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B5B680</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>220n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B5DB46</tstamp>
+    </comp>
+    <comp ref="C48">
+      <value>220n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B6132C</tstamp>
+    </comp>
+    <comp ref="C55">
+      <value>220n</value>
+      <footprint>LercheTech:Lerche_C0603</footprint>
+      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B63D7F</tstamp>
+    </comp>
   </components>
   <libparts>
-    <libpart lib="3DPCB_4L-cache" part="BSS84">
+    <libpart lib="lerchetech" part="A5984_LP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">A5984_LP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CP1" type="input"/>
+        <pin num="2" name="CP2" type="input"/>
+        <pin num="3" name="VCP" type="input"/>
+        <pin num="4" name="~FAULT" type="openCol"/>
+        <pin num="5" name="MS1" type="input"/>
+        <pin num="6" name="MS2" type="input"/>
+        <pin num="7" name="~RESET" type="input"/>
+        <pin num="8" name="ROSC" type="input"/>
+        <pin num="9" name="~SLEEP" type="input"/>
+        <pin num="10" name="MS3" type="input"/>
+        <pin num="11" name="STEP" type="input"/>
+        <pin num="12" name="REF" type="input"/>
+        <pin num="13" name="GND" type="input"/>
+        <pin num="14" name="DIR" type="input"/>
+        <pin num="15" name="OUT1B" type="input"/>
+        <pin num="16" name="VBB1" type="input"/>
+        <pin num="17" name="SENSE1" type="input"/>
+        <pin num="18" name="OUT1A" type="input"/>
+        <pin num="19" name="OUT2A" type="input"/>
+        <pin num="20" name="SENSE2" type="input"/>
+        <pin num="21" name="VBB2" type="input"/>
+        <pin num="22" name="OUT2B" type="input"/>
+        <pin num="23" name="~ENABLE" type="input"/>
+        <pin num="24" name="GND" type="input"/>
+        <pin num="25" name="PAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="lerchetech" part="BSS84">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">BSS84</field>
@@ -1116,6 +1471,24 @@
         <pin num="1" name="G" type="input"/>
         <pin num="2" name="S" type="input"/>
         <pin num="3" name="D" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L">
@@ -1133,14 +1506,42 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="CONN_2">
+    <libpart lib="conn" part="CONN_01X02">
+      <description>Connector, single row, 01x02</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
       <fields>
         <field name="Reference">P</field>
-        <field name="Value">CONN_2</field>
+        <field name="Value">CONN_01X02</field>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>
-        <pin num="2" name="PM" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X03">
+      <description>Connector, double row, 02x03</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X03</fp>
+        <fp>Pin_Header_Angled_2X03</fp>
+        <fp>Socket_Strip_Straight_2X03</fp>
+        <fp>Socket_Strip_Angled_2X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="3DPCB_4L-cache" part="CONN_3">
@@ -1180,7 +1581,7 @@
         <pin num="4" name="P4" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="CONN_4_LERCHE">
+    <libpart lib="lerchetech" part="CONN_4_LERCHE">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">CONN_4_LERCHE</field>
@@ -1236,49 +1637,17 @@
         <pin num="2" name="K" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="DRV8825">
-      <fields>
-        <field name="Reference">IC</field>
-        <field name="Value">DRV8825</field>
-      </fields>
-      <pins>
-        <pin num="1" name="CP1" type="BiDi"/>
-        <pin num="2" name="CP2" type="BiDi"/>
-        <pin num="3" name="VCP" type="BiDi"/>
-        <pin num="4" name="VMA" type="power_in"/>
-        <pin num="5" name="AOUT1" type="output"/>
-        <pin num="6" name="ISENA" type="BiDi"/>
-        <pin num="7" name="AOUT2" type="output"/>
-        <pin num="8" name="BOUT2" type="output"/>
-        <pin num="9" name="ISENB" type="BiDi"/>
-        <pin num="10" name="BOUT1" type="output"/>
-        <pin num="11" name="VMB" type="power_in"/>
-        <pin num="12" name="AVREF" type="input"/>
-        <pin num="13" name="BVREF" type="input"/>
-        <pin num="14" name="GND" type="power_in"/>
-        <pin num="15" name="V3P3OUT" type="power_out"/>
-        <pin num="16" name="~RESET" type="input"/>
-        <pin num="17" name="~SLEEP" type="input"/>
-        <pin num="18" name="~FAULT" type="openCol"/>
-        <pin num="19" name="DECAY" type="input"/>
-        <pin num="20" name="DIR" type="input"/>
-        <pin num="21" name="~ENBL" type="input"/>
-        <pin num="22" name="STEP" type="input"/>
-        <pin num="24" name="MODE0" type="input"/>
-        <pin num="25" name="MODE1" type="input"/>
-        <pin num="26" name="MODE2" type="input"/>
-        <pin num="27" name="~HOME" type="openCol"/>
-        <pin num="28" name="GND" type="power_in"/>
-        <pin num="PAD" name="PAD" type="power_in"/>
-      </pins>
-    </libpart>
-    <libpart lib="3DPCB_4L-cache" part="FIDUCIAL">
+    <libpart lib="lerchetech" part="FIDUCIAL">
       <fields>
         <field name="Reference">FID</field>
         <field name="Value">FIDUCIAL</field>
       </fields>
     </libpart>
     <libpart lib="device" part="INDUCTOR">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+      </footprints>
       <fields>
         <field name="Reference">L</field>
         <field name="Value">INDUCTOR</field>
@@ -1307,7 +1676,7 @@
         <pin num="2" name="K" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="LPC1768_TQFP100">
+    <libpart lib="lerchetech" part="LPC1768_TQFP100">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">LPC1768_TQFP100</field>
@@ -1415,7 +1784,7 @@
         <pin num="100" name="RTCK" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="MCP4728">
+    <libpart lib="lerchetech" part="MCP4728">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">MCP4728</field>
@@ -1433,7 +1802,7 @@
         <pin num="10" name="GND" type="power_in"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="MICRO-SD">
+    <libpart lib="lerchetech" part="MICRO-SD">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">MICRO-SD</field>
@@ -1453,7 +1822,7 @@
         <pin num="14" name="Shield" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="MOS_NFET">
+    <libpart lib="lerchetech" part="MOS_NFET">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">MOS_NFET</field>
@@ -1464,7 +1833,7 @@
         <pin num="3" name="D" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="MP9943">
+    <libpart lib="lerchetech" part="MP9943">
       <fields>
         <field name="Reference">IC</field>
         <field name="Value">MP9943</field>
@@ -1480,7 +1849,7 @@
         <pin num="8" name="PG" type="output"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="QX2">
+    <libpart lib="lerchetech" part="QX2">
       <fields>
         <field name="Reference">OSC</field>
         <field name="Value">QX2</field>
@@ -1490,6 +1859,21 @@
         <pin num="2" name="GND" type="power_in"/>
         <pin num="3" name="OUT" type="output"/>
         <pin num="4" name="VDC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L">
@@ -1509,7 +1893,7 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="SOLDER_JUMPER">
+    <libpart lib="lerchetech" part="SOLDER_JUMPER">
       <fields>
         <field name="Reference">J</field>
         <field name="Value">SOLDER_JUMPER</field>
@@ -1519,7 +1903,7 @@
         <pin num="2" name="~" type="BiDi"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="SPST_MOMENTARY">
+    <libpart lib="lerchetech" part="SPST_MOMENTARY">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">SPST_MOMENTARY</field>
@@ -1529,7 +1913,7 @@
         <pin num="2" name="~" type="BiDi"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="TC4427">
+    <libpart lib="lerchetech" part="TC4427">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">TC4427</field>
@@ -1543,7 +1927,7 @@
         <pin num="7" name="OUT" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-cache" part="USB_MINI">
+    <libpart lib="lerchetech" part="USB_MINI">
       <fields>
         <field name="Reference">CONN</field>
         <field name="Value">USB_MINI</field>
@@ -1557,1130 +1941,1172 @@
         <pin num="Shie" name="Shield" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="device" part="ZENERsmall">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ZENERsmall</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
+    <library logical="3DPCB_4L-rescue">
+      <uri>C:\Users\chlso\GitHub\3DPCB-4LAYER\3DPCB_4L-rescue.lib</uri>
+    </library>
     <library logical="device">
       <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
     </library>
-    <library logical="3DPCB_4L-rescue">
-      <uri>C:\Users\Ejer\Google Drev\3DPCB\3DPCB_C_4L\3DPCB_C_4L\3DPCB_4L-rescue.lib</uri>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="lerchetech">
+      <uri>C:\Users\chlso\GitHub\LercheTech_KiCAD\lerchetech.lib</uri>
     </library>
     <library logical="3DPCB_4L-cache">
-      <uri>C:\Users\Ejer\Google Drev\3DPCB\3DPCB_C_4L\3DPCB_C_4L\3DPCB_4L-cache.lib</uri>
+      <uri>C:\Users\chlso\GitHub\3DPCB-4LAYER\3DPCB_4L-cache.lib</uri>
     </library>
   </libraries>
   <nets>
-    <net code="1" name="~ISP">
-      <node ref="U6" pin="53"/>
-      <node ref="R9" pin="2"/>
+    <net code="1" name="VREF7">
+      <node ref="K9" pin="2"/>
+      <node ref="U12" pin="7"/>
     </net>
-    <net code="2" name="VREF1">
-      <node ref="IC1" pin="13"/>
-      <node ref="IC1" pin="12"/>
-      <node ref="C51" pin="1"/>
-      <node ref="U23" pin="9"/>
+    <net code="2" name="Net-(IC6-Pad8)">
+      <node ref="IC6" pin="8"/>
     </net>
-    <net code="3" name="Net-(IC1-Pad5)">
-      <node ref="IC1" pin="5"/>
-      <node ref="P9" pin="1"/>
+    <net code="3" name="Net-(IC6-Pad4)">
+      <node ref="IC6" pin="4"/>
+      <node ref="R36" pin="1"/>
     </net>
-    <net code="4" name="Net-(IC1-Pad6)">
-      <node ref="IC1" pin="6"/>
-      <node ref="R37" pin="1"/>
+    <net code="4" name="Net-(IC6-Pad1)">
+      <node ref="R38" pin="1"/>
+      <node ref="IC6" pin="1"/>
     </net>
-    <net code="5" name="Net-(IC1-Pad9)">
-      <node ref="IC1" pin="9"/>
-      <node ref="R33" pin="1"/>
-    </net>
-    <net code="6" name="Net-(C8-Pad2)">
-      <node ref="C8" pin="2"/>
-      <node ref="IC1" pin="2"/>
-    </net>
-    <net code="7" name="Net-(C8-Pad1)">
-      <node ref="C8" pin="1"/>
-      <node ref="IC1" pin="1"/>
-    </net>
-    <net code="8" name="Net-(C39-Pad2)">
-      <node ref="C39" pin="2"/>
-      <node ref="IC1" pin="3"/>
-    </net>
-    <net code="9" name="TH4">
-      <node ref="C10" pin="1"/>
-      <node ref="P1" pin="8"/>
-      <node ref="U6" pin="6"/>
-      <node ref="R13" pin="2"/>
-    </net>
-    <net code="10" name="Net-(IC3-Pad7)">
-      <node ref="P6" pin="2"/>
-      <node ref="IC3" pin="7"/>
-    </net>
-    <net code="11" name="Net-(C54-Pad2)">
-      <node ref="C54" pin="2"/>
-      <node ref="IC4" pin="3"/>
-    </net>
-    <net code="12" name="Net-(IC3-Pad5)">
-      <node ref="P6" pin="1"/>
-      <node ref="IC3" pin="5"/>
-    </net>
-    <net code="13" name="Net-(IC3-Pad6)">
-      <node ref="R29" pin="1"/>
-      <node ref="IC3" pin="6"/>
-    </net>
-    <net code="14" name="Net-(IC3-Pad9)">
-      <node ref="R22" pin="1"/>
-      <node ref="IC3" pin="9"/>
-    </net>
-    <net code="15" name="Net-(C37-Pad2)">
-      <node ref="C37" pin="2"/>
-      <node ref="IC3" pin="2"/>
-    </net>
-    <net code="16" name="Net-(IC4-Pad7)">
-      <node ref="P7" pin="2"/>
-      <node ref="IC4" pin="7"/>
-    </net>
-    <net code="17" name="Net-(IC4-Pad5)">
-      <node ref="IC4" pin="5"/>
-      <node ref="P7" pin="1"/>
-    </net>
-    <net code="18" name="Net-(C37-Pad1)">
-      <node ref="IC3" pin="1"/>
-      <node ref="C37" pin="1"/>
-    </net>
-    <net code="19" name="Net-(IC4-Pad6)">
-      <node ref="IC4" pin="6"/>
-      <node ref="R30" pin="1"/>
-    </net>
-    <net code="20" name="Net-(IC4-Pad9)">
-      <node ref="IC4" pin="9"/>
-      <node ref="R23" pin="1"/>
-    </net>
-    <net code="21" name="Net-(C38-Pad2)">
-      <node ref="C38" pin="2"/>
-      <node ref="IC4" pin="2"/>
-    </net>
-    <net code="22" name="Net-(C38-Pad1)">
-      <node ref="IC4" pin="1"/>
-      <node ref="C38" pin="1"/>
-    </net>
-    <net code="23" name="VREF4">
-      <node ref="IC4" pin="12"/>
+    <net code="5" name="GND">
+      <node ref="D10" pin="2"/>
       <node ref="IC4" pin="13"/>
-      <node ref="U23" pin="6"/>
-      <node ref="C34" pin="1"/>
-    </net>
-    <net code="24" name="Net-(IC2-Pad6)">
-      <node ref="IC2" pin="6"/>
-      <node ref="R24" pin="1"/>
-    </net>
-    <net code="25" name="Net-(IC2-Pad9)">
-      <node ref="R21" pin="1"/>
-      <node ref="IC2" pin="9"/>
-    </net>
-    <net code="26" name="Net-(C36-Pad2)">
-      <node ref="IC2" pin="2"/>
-      <node ref="C36" pin="2"/>
-    </net>
-    <net code="27" name="Net-(C36-Pad1)">
-      <node ref="IC2" pin="1"/>
-      <node ref="C36" pin="1"/>
-    </net>
-    <net code="28" name="VREF2">
-      <node ref="C32" pin="1"/>
-      <node ref="U23" pin="8"/>
-      <node ref="IC2" pin="13"/>
-      <node ref="IC2" pin="12"/>
-    </net>
-    <net code="29" name="Net-(C52-Pad2)">
-      <node ref="C52" pin="2"/>
-      <node ref="IC2" pin="3"/>
-    </net>
-    <net code="30" name="Net-(IC1-Pad7)">
-      <node ref="P9" pin="2"/>
-      <node ref="IC1" pin="7"/>
-    </net>
-    <net code="31" name="VREF3">
-      <node ref="U23" pin="7"/>
-      <node ref="IC3" pin="12"/>
-      <node ref="IC3" pin="13"/>
-      <node ref="C33" pin="1"/>
-    </net>
-    <net code="32" name="Net-(C53-Pad2)">
-      <node ref="C53" pin="2"/>
-      <node ref="IC3" pin="3"/>
-    </net>
-    <net code="33" name="TH3">
-      <node ref="R12" pin="2"/>
-      <node ref="C7" pin="1"/>
-      <node ref="P1" pin="6"/>
-      <node ref="U6" pin="7"/>
-    </net>
-    <net code="34" name="Net-(IC2-Pad7)">
-      <node ref="P5" pin="2"/>
-      <node ref="IC2" pin="7"/>
-    </net>
-    <net code="35" name="Net-(IC2-Pad5)">
-      <node ref="IC2" pin="5"/>
-      <node ref="P5" pin="1"/>
-    </net>
-    <net code="36" name="GND">
-      <node ref="C26" pin="2"/>
-      <node ref="C25" pin="2"/>
-      <node ref="C24" pin="2"/>
-      <node ref="R20" pin="2"/>
+      <node ref="C46" pin="2"/>
       <node ref="K6" pin="2"/>
       <node ref="K5" pin="2"/>
-      <node ref="OSC1" pin="2"/>
-      <node ref="C3" pin="2"/>
-      <node ref="K3" pin="2"/>
-      <node ref="U8" pin="2"/>
-      <node ref="C16" pin="2"/>
-      <node ref="R16" pin="2"/>
-      <node ref="C14" pin="2"/>
-      <node ref="C15" pin="2"/>
-      <node ref="R14" pin="2"/>
-      <node ref="C23" pin="2"/>
-      <node ref="D4" pin="2"/>
       <node ref="K4" pin="2"/>
-      <node ref="U22" pin="4"/>
+      <node ref="K3" pin="2"/>
       <node ref="K2" pin="2"/>
       <node ref="K1" pin="2"/>
-      <node ref="D1" pin="2"/>
-      <node ref="D2" pin="2"/>
-      <node ref="D3" pin="2"/>
+      <node ref="P8" pin="6"/>
+      <node ref="P8" pin="4"/>
+      <node ref="P8" pin="1"/>
+      <node ref="C49" pin="2"/>
+      <node ref="IC3" pin="25"/>
+      <node ref="IC3" pin="24"/>
+      <node ref="IC3" pin="13"/>
+      <node ref="IC4" pin="25"/>
+      <node ref="IC4" pin="24"/>
+      <node ref="R37" pin="2"/>
       <node ref="U10" pin="14"/>
-      <node ref="U10" pin="13"/>
+      <node ref="C24" pin="2"/>
+      <node ref="R33" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="K7" pin="3"/>
+      <node ref="P1" pin="3"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="P1" pin="7"/>
+      <node ref="P1" pin="5"/>
+      <node ref="P1" pin="1"/>
       <node ref="U10" pin="12"/>
       <node ref="U10" pin="11"/>
       <node ref="U10" pin="10"/>
       <node ref="U10" pin="6"/>
-      <node ref="C70" pin="2"/>
-      <node ref="R39" pin="2"/>
-      <node ref="C71" pin="2"/>
-      <node ref="C27" pin="2"/>
-      <node ref="U11" pin="3"/>
-      <node ref="U23" pin="10"/>
+      <node ref="U10" pin="13"/>
+      <node ref="D1" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="D11" pin="2"/>
+      <node ref="C40" pin="2"/>
+      <node ref="C35" pin="2"/>
+      <node ref="D12" pin="2"/>
+      <node ref="C55" pin="2"/>
+      <node ref="C48" pin="2"/>
+      <node ref="IC1" pin="24"/>
+      <node ref="U22" pin="4"/>
+      <node ref="IC1" pin="25"/>
+      <node ref="C42" pin="2"/>
+      <node ref="IC1" pin="13"/>
+      <node ref="IC2" pin="25"/>
+      <node ref="IC2" pin="24"/>
+      <node ref="IC2" pin="13"/>
+      <node ref="P3" pin="2"/>
+      <node ref="R47" pin="2"/>
+      <node ref="IC5" pin="25"/>
+      <node ref="IC5" pin="24"/>
+      <node ref="IC5" pin="13"/>
+      <node ref="R26" pin="2"/>
+      <node ref="C41" pin="2"/>
+      <node ref="R46" pin="2"/>
+      <node ref="R48" pin="2"/>
+      <node ref="R25" pin="2"/>
+      <node ref="D14" pin="2"/>
+      <node ref="D13" pin="2"/>
+      <node ref="U12" pin="10"/>
+      <node ref="U12" pin="4"/>
       <node ref="C50" pin="2"/>
-      <node ref="C51" pin="2"/>
-      <node ref="IC2" pin="PAD"/>
-      <node ref="IC2" pin="28"/>
-      <node ref="C11" pin="2"/>
-      <node ref="IC1" pin="14"/>
-      <node ref="U1" pin="4"/>
-      <node ref="IC1" pin="PAD"/>
-      <node ref="IC1" pin="28"/>
-      <node ref="C19" pin="1"/>
-      <node ref="U21" pin="4"/>
-      <node ref="C30" pin="2"/>
-      <node ref="U24" pin="2"/>
-      <node ref="C64" pin="2"/>
+      <node ref="U23" pin="10"/>
       <node ref="U23" pin="4"/>
-      <node ref="C32" pin="2"/>
-      <node ref="U17" pin="3"/>
+      <node ref="R24" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="U21" pin="4"/>
+      <node ref="U1" pin="4"/>
       <node ref="D8" pin="2"/>
       <node ref="D7" pin="2"/>
       <node ref="U25" pin="4"/>
-      <node ref="C9" pin="2"/>
-      <node ref="R37" pin="2"/>
-      <node ref="R24" pin="2"/>
-      <node ref="R21" pin="2"/>
-      <node ref="C40" pin="2"/>
-      <node ref="R29" pin="2"/>
-      <node ref="C41" pin="2"/>
-      <node ref="R22" pin="2"/>
-      <node ref="IC4" pin="PAD"/>
-      <node ref="IC4" pin="28"/>
-      <node ref="R30" pin="2"/>
-      <node ref="IC4" pin="14"/>
-      <node ref="P11" pin="5"/>
-      <node ref="P8" pin="1"/>
+      <node ref="U24" pin="2"/>
+      <node ref="R20" pin="2"/>
+      <node ref="C51" pin="2"/>
       <node ref="U16" pin="4"/>
-      <node ref="C33" pin="2"/>
-      <node ref="C34" pin="2"/>
-      <node ref="C42" pin="2"/>
-      <node ref="R23" pin="2"/>
-      <node ref="C46" pin="2"/>
-      <node ref="C4" pin="2"/>
-      <node ref="C44" pin="2"/>
-      <node ref="P1" pin="7"/>
-      <node ref="C45" pin="2"/>
-      <node ref="P1" pin="5"/>
-      <node ref="P1" pin="3"/>
-      <node ref="P1" pin="1"/>
-      <node ref="U7" pin="2"/>
-      <node ref="U5" pin="2"/>
-      <node ref="K7" pin="3"/>
-      <node ref="C31" pin="2"/>
-      <node ref="R15" pin="2"/>
-      <node ref="C29" pin="2"/>
-      <node ref="C28" pin="2"/>
-      <node ref="C12" pin="2"/>
-      <node ref="C13" pin="2"/>
-      <node ref="U15" pin="2"/>
-      <node ref="C10" pin="2"/>
-      <node ref="C7" pin="2"/>
-      <node ref="C43" pin="2"/>
-      <node ref="U6" pin="31"/>
-      <node ref="U6" pin="11"/>
-      <node ref="C1" pin="2"/>
-      <node ref="R33" pin="2"/>
-      <node ref="C5" pin="2"/>
-      <node ref="U6" pin="41"/>
-      <node ref="C2" pin="2"/>
-      <node ref="C6" pin="2"/>
-      <node ref="C17" pin="2"/>
-      <node ref="U6" pin="55"/>
+      <node ref="P11" pin="5"/>
+      <node ref="U8" pin="2"/>
       <node ref="U6" pin="15"/>
+      <node ref="U6" pin="55"/>
       <node ref="U6" pin="83"/>
       <node ref="U6" pin="97"/>
       <node ref="U2" pin="2"/>
-      <node ref="C35" pin="2"/>
-      <node ref="C22" pin="2"/>
       <node ref="CONN1" pin="Shie"/>
       <node ref="CONN1" pin="Shie"/>
       <node ref="CONN1" pin="Shie"/>
       <node ref="CONN1" pin="5"/>
       <node ref="U6" pin="72"/>
-      <node ref="R31" pin="2"/>
-      <node ref="C68" pin="2"/>
+      <node ref="U6" pin="41"/>
+      <node ref="U6" pin="31"/>
+      <node ref="U6" pin="11"/>
+      <node ref="D4" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C44" pin="2"/>
+      <node ref="C43" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R15" pin="2"/>
+      <node ref="U7" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="R29" pin="2"/>
+      <node ref="R22" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="R30" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U15" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C45" pin="2"/>
       <node ref="R32" pin="2"/>
-      <node ref="IC3" pin="28"/>
-      <node ref="C65" pin="2"/>
-      <node ref="IC5" pin="14"/>
-      <node ref="IC3" pin="14"/>
+      <node ref="R31" pin="2"/>
+      <node ref="C34" pin="2"/>
       <node ref="U13" pin="4"/>
-      <node ref="IC5" pin="28"/>
-      <node ref="IC5" pin="PAD"/>
+      <node ref="C65" pin="2"/>
+      <node ref="C47" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C70" pin="2"/>
+      <node ref="U9" pin="3"/>
+      <node ref="R16" pin="2"/>
+      <node ref="OSC1" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C19" pin="1"/>
+      <node ref="U11" pin="3"/>
+      <node ref="C64" pin="2"/>
       <node ref="IC6" pin="5"/>
-      <node ref="U12" pin="10"/>
-      <node ref="U12" pin="4"/>
-      <node ref="IC3" pin="PAD"/>
-      <node ref="IC2" pin="14"/>
+      <node ref="R39" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C71" pin="2"/>
+      <node ref="C3" pin="2"/>
     </net>
-    <net code="37" name="DIR5">
-      <node ref="IC5" pin="20"/>
-      <node ref="U13" pin="3"/>
-      <node ref="U6" pin="58"/>
-    </net>
-    <net code="38" name="EN5">
-      <node ref="U13" pin="2"/>
-      <node ref="U6" pin="57"/>
-      <node ref="IC5" pin="21"/>
-    </net>
-    <net code="39" name="STP5">
-      <node ref="U13" pin="1"/>
-      <node ref="IC5" pin="22"/>
-      <node ref="U6" pin="56"/>
-    </net>
-    <net code="40" name="Net-(IC5-Pad26)">
-      <node ref="IC5" pin="26"/>
-      <node ref="J16" pin="2"/>
-    </net>
-    <net code="41" name="Net-(IC5-Pad19)">
-      <node ref="IC5" pin="19"/>
-    </net>
-    <net code="42" name="~FAULT5">
-      <node ref="IC5" pin="18"/>
-    </net>
-    <net code="43" name="~HOME5">
-      <node ref="IC5" pin="27"/>
-    </net>
-    <net code="44" name="Net-(IC5-Pad25)">
-      <node ref="IC5" pin="25"/>
-      <node ref="J15" pin="2"/>
-    </net>
-    <net code="45" name="~RESET">
-      <node ref="U2" pin="1"/>
-      <node ref="R1" pin="2"/>
-      <node ref="C1" pin="1"/>
-      <node ref="U6" pin="17"/>
-    </net>
-    <net code="46" name="Net-(C68-Pad1)">
-      <node ref="IC5" pin="15"/>
-      <node ref="C68" pin="1"/>
-    </net>
-    <net code="47" name="+3.3V">
-      <node ref="C45" pin="1"/>
-      <node ref="C44" pin="1"/>
-      <node ref="R27" pin="1"/>
-      <node ref="C46" pin="1"/>
-      <node ref="C43" pin="1"/>
-      <node ref="R9" pin="1"/>
-      <node ref="C16" pin="1"/>
-      <node ref="C15" pin="1"/>
-      <node ref="R10" pin="1"/>
-      <node ref="C13" pin="1"/>
-      <node ref="C12" pin="1"/>
-      <node ref="J3" pin="1"/>
-      <node ref="J2" pin="1"/>
-      <node ref="C22" pin="1"/>
-      <node ref="C23" pin="1"/>
-      <node ref="K3" pin="1"/>
-      <node ref="K4" pin="1"/>
-      <node ref="K6" pin="1"/>
-      <node ref="C50" pin="1"/>
-      <node ref="K2" pin="1"/>
-      <node ref="R18" pin="2"/>
-      <node ref="K5" pin="1"/>
-      <node ref="R19" pin="2"/>
-      <node ref="J16" pin="1"/>
-      <node ref="U23" pin="1"/>
-      <node ref="U10" pin="4"/>
-      <node ref="U3" pin="2"/>
-      <node ref="C14" pin="1"/>
-      <node ref="K1" pin="1"/>
-      <node ref="L2" pin="2"/>
-      <node ref="J13" pin="1"/>
-      <node ref="L1" pin="1"/>
-      <node ref="C6" pin="1"/>
-      <node ref="U6" pin="19"/>
-      <node ref="R1" pin="1"/>
-      <node ref="IC4" pin="17"/>
-      <node ref="IC4" pin="16"/>
-      <node ref="J9" pin="1"/>
-      <node ref="J8" pin="1"/>
-      <node ref="R2" pin="1"/>
-      <node ref="J5" pin="1"/>
-      <node ref="J6" pin="1"/>
-      <node ref="J7" pin="1"/>
-      <node ref="IC5" pin="17"/>
-      <node ref="U6" pin="28"/>
-      <node ref="IC5" pin="16"/>
-      <node ref="J4" pin="1"/>
-      <node ref="P11" pin="6"/>
-      <node ref="J12" pin="1"/>
-      <node ref="U12" pin="1"/>
-      <node ref="J11" pin="1"/>
-      <node ref="J15" pin="1"/>
-      <node ref="R28" pin="1"/>
-      <node ref="R13" pin="1"/>
-      <node ref="J14" pin="1"/>
-      <node ref="R45" pin="1"/>
-      <node ref="U6" pin="71"/>
-      <node ref="U6" pin="42"/>
-      <node ref="J10" pin="1"/>
-      <node ref="U16" pin="1"/>
-      <node ref="U6" pin="96"/>
-      <node ref="R44" pin="1"/>
-      <node ref="R43" pin="1"/>
-      <node ref="IC2" pin="16"/>
-      <node ref="R42" pin="1"/>
-      <node ref="U6" pin="54"/>
-      <node ref="U6" pin="84"/>
-      <node ref="R41" pin="1"/>
-      <node ref="R12" pin="1"/>
-      <node ref="IC1" pin="17"/>
-      <node ref="IC1" pin="16"/>
-      <node ref="R40" pin="1"/>
-      <node ref="OSC1" pin="4"/>
-      <node ref="OSC1" pin="1"/>
-      <node ref="IC3" pin="17"/>
-      <node ref="IC3" pin="16"/>
-      <node ref="C64" pin="1"/>
-      <node ref="C19" pin="2"/>
-      <node ref="R34" pin="1"/>
-      <node ref="IC2" pin="17"/>
-    </net>
-    <net code="48" name="Net-(U12-Pad5)">
-      <node ref="U12" pin="5"/>
-    </net>
-    <net code="49" name="Net-(IC5-Pad9)">
-      <node ref="R31" pin="1"/>
-      <node ref="IC5" pin="9"/>
-    </net>
-    <net code="50" name="Net-(IC5-Pad6)">
-      <node ref="R32" pin="1"/>
-      <node ref="IC5" pin="6"/>
-    </net>
-    <net code="51" name="Net-(C67-Pad2)">
-      <node ref="IC5" pin="2"/>
-      <node ref="C67" pin="2"/>
-    </net>
-    <net code="52" name="Net-(IC5-Pad10)">
-      <node ref="IC5" pin="10"/>
-      <node ref="P13" pin="4"/>
-    </net>
-    <net code="53" name="Net-(IC5-Pad24)">
-      <node ref="J14" pin="2"/>
-      <node ref="IC5" pin="24"/>
-    </net>
-    <net code="54" name="+12V">
-      <node ref="IC5" pin="11"/>
-      <node ref="IC2" pin="4"/>
-      <node ref="C52" pin="1"/>
-      <node ref="U11" pin="6"/>
-      <node ref="R55" pin="1"/>
-      <node ref="C27" pin="1"/>
-      <node ref="C71" pin="1"/>
-      <node ref="IC3" pin="4"/>
-      <node ref="IC2" pin="11"/>
-      <node ref="IC3" pin="11"/>
-      <node ref="C69" pin="1"/>
-      <node ref="C39" pin="1"/>
-      <node ref="P8" pin="2"/>
-      <node ref="P2" pin="4"/>
-      <node ref="U17" pin="6"/>
-      <node ref="P2" pin="6"/>
-      <node ref="P2" pin="8"/>
-      <node ref="P2" pin="2"/>
-      <node ref="IC4" pin="4"/>
-      <node ref="C70" pin="1"/>
-      <node ref="C54" pin="1"/>
-      <node ref="IC4" pin="11"/>
-      <node ref="C53" pin="1"/>
-      <node ref="C28" pin="1"/>
-      <node ref="IC5" pin="4"/>
-      <node ref="C30" pin="1"/>
-      <node ref="IC1" pin="11"/>
-      <node ref="C31" pin="1"/>
-      <node ref="D9" pin="1"/>
-      <node ref="C29" pin="1"/>
-      <node ref="C24" pin="1"/>
-      <node ref="IC1" pin="4"/>
-      <node ref="C25" pin="1"/>
-      <node ref="C26" pin="1"/>
-    </net>
-    <net code="55" name="Net-(IC5-Pad8)">
-      <node ref="P13" pin="3"/>
-      <node ref="IC5" pin="8"/>
-    </net>
-    <net code="56" name="Net-(IC5-Pad5)">
-      <node ref="IC5" pin="5"/>
-      <node ref="P13" pin="1"/>
-    </net>
-    <net code="57" name="Net-(C69-Pad2)">
-      <node ref="IC5" pin="3"/>
-      <node ref="C69" pin="2"/>
-    </net>
-    <net code="58" name="Net-(C67-Pad1)">
-      <node ref="IC5" pin="1"/>
-      <node ref="C67" pin="1"/>
-    </net>
-    <net code="59" name="TH2">
-      <node ref="U6" pin="8"/>
-      <node ref="R10" pin="2"/>
-      <node ref="P1" pin="4"/>
-      <node ref="C4" pin="1"/>
-    </net>
-    <net code="60" name="Net-(C17-Pad1)">
-      <node ref="L1" pin="2"/>
-      <node ref="U6" pin="12"/>
-      <node ref="U6" pin="10"/>
-      <node ref="C17" pin="1"/>
-    </net>
-    <net code="61" name="Net-(D1-Pad1)">
-      <node ref="R3" pin="1"/>
-      <node ref="D1" pin="1"/>
-    </net>
-    <net code="62" name="Net-(D2-Pad1)">
-      <node ref="D2" pin="1"/>
-      <node ref="R4" pin="1"/>
-    </net>
-    <net code="63" name="Net-(D3-Pad1)">
-      <node ref="D3" pin="1"/>
-      <node ref="R5" pin="1"/>
-    </net>
-    <net code="64" name="Net-(IC3-Pad19)">
-      <node ref="IC3" pin="19"/>
-    </net>
-    <net code="65" name="~FAULT3">
-      <node ref="IC3" pin="18"/>
-    </net>
-    <net code="66" name="~HOME3">
-      <node ref="IC3" pin="27"/>
-    </net>
-    <net code="67" name="Net-(IC3-Pad26)">
-      <node ref="J10" pin="2"/>
-      <node ref="IC3" pin="26"/>
-    </net>
-    <net code="68" name="Net-(IC3-Pad25)">
-      <node ref="J9" pin="2"/>
-      <node ref="IC3" pin="25"/>
-    </net>
-    <net code="69" name="Net-(C41-Pad1)">
-      <node ref="C41" pin="1"/>
-      <node ref="IC3" pin="15"/>
-    </net>
-    <net code="70" name="Net-(IC3-Pad24)">
-      <node ref="J8" pin="2"/>
-      <node ref="IC3" pin="24"/>
-    </net>
-    <net code="71" name="Net-(C2-Pad1)">
-      <node ref="C2" pin="1"/>
-      <node ref="IC6" pin="2"/>
-    </net>
-    <net code="72" name="Net-(IC6-Pad8)">
-      <node ref="IC6" pin="8"/>
-    </net>
-    <net code="73" name="Net-(IC6-Pad4)">
-      <node ref="IC6" pin="4"/>
-      <node ref="R36" pin="1"/>
-    </net>
-    <net code="74" name="Net-(IC6-Pad3)">
-      <node ref="R35" pin="1"/>
-      <node ref="IC6" pin="3"/>
-    </net>
-    <net code="75" name="Net-(IC6-Pad1)">
-      <node ref="IC6" pin="1"/>
-      <node ref="R38" pin="1"/>
-    </net>
-    <net code="76" name="VREF8">
-      <node ref="K9" pin="3"/>
+    <net code="6" name="VREF8">
       <node ref="U12" pin="6"/>
+      <node ref="K9" pin="3"/>
     </net>
-    <net code="77" name="VREF7">
-      <node ref="U12" pin="7"/>
-      <node ref="K9" pin="2"/>
-    </net>
-    <net code="78" name="VREF6">
+    <net code="7" name="VREF6">
       <node ref="K9" pin="1"/>
       <node ref="U12" pin="8"/>
     </net>
-    <net code="79" name="Net-(IC2-Pad25)">
-      <node ref="IC2" pin="25"/>
-      <node ref="J6" pin="2"/>
+    <net code="8" name="Net-(IC6-Pad3)">
+      <node ref="IC6" pin="3"/>
+      <node ref="R35" pin="1"/>
     </net>
-    <net code="80" name="Net-(C40-Pad1)">
-      <node ref="C40" pin="1"/>
-      <node ref="IC2" pin="15"/>
+    <net code="9" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1"/>
+      <node ref="R36" pin="2"/>
     </net>
-    <net code="81" name="Net-(IC2-Pad24)">
-      <node ref="J5" pin="2"/>
-      <node ref="IC2" pin="24"/>
+    <net code="10" name="Net-(C20-Pad2)">
+      <node ref="L2" pin="1"/>
+      <node ref="C20" pin="2"/>
+      <node ref="IC6" pin="6"/>
     </net>
-    <net code="82" name="Net-(IC2-Pad19)">
-      <node ref="IC2" pin="19"/>
+    <net code="11" name="Net-(C2-Pad1)">
+      <node ref="IC6" pin="2"/>
+      <node ref="C2" pin="1"/>
     </net>
-    <net code="83" name="~FAULT2">
-      <node ref="IC2" pin="18"/>
+    <net code="12" name="TH1">
+      <node ref="P1" pin="2"/>
+      <node ref="U6" pin="9"/>
+      <node ref="R34" pin="2"/>
+      <node ref="C3" pin="1"/>
     </net>
-    <net code="84" name="~HOME2">
-      <node ref="IC2" pin="27"/>
+    <net code="13" name="Net-(IC5-Pad22)">
+      <node ref="IC5" pin="22"/>
+      <node ref="P13" pin="4"/>
     </net>
-    <net code="85" name="Net-(IC2-Pad26)">
-      <node ref="J7" pin="2"/>
-      <node ref="IC2" pin="26"/>
+    <net code="14" name="Net-(IC4-Pad22)">
+      <node ref="IC4" pin="22"/>
+      <node ref="P7" pin="4"/>
     </net>
-    <net code="86" name="Net-(R16-Pad1)">
-      <node ref="R16" pin="1"/>
-      <node ref="R57" pin="2"/>
-      <node ref="U8" pin="1"/>
+    <net code="15" name="Net-(IC4-Pad19)">
+      <node ref="P7" pin="3"/>
+      <node ref="IC4" pin="19"/>
     </net>
-    <net code="87" name="Net-(R58-Pad1)">
-      <node ref="U17" pin="5"/>
+    <net code="16" name="Net-(IC3-Pad22)">
+      <node ref="IC3" pin="22"/>
+      <node ref="P6" pin="4"/>
+    </net>
+    <net code="17" name="SD_MOSI">
+      <node ref="U10" pin="3"/>
+      <node ref="U6" pin="76"/>
+      <node ref="R41" pin="2"/>
+      <node ref="K8" pin="3"/>
+    </net>
+    <net code="18" name="SD_MISO">
+      <node ref="R42" pin="2"/>
+      <node ref="K8" pin="2"/>
+      <node ref="U6" pin="77"/>
+      <node ref="U10" pin="7"/>
+    </net>
+    <net code="19" name="SD_SCK">
+      <node ref="U10" pin="5"/>
+      <node ref="U6" pin="78"/>
+      <node ref="K8" pin="1"/>
+    </net>
+    <net code="20" name="Net-(C18-Pad1)">
+      <node ref="OSC1" pin="3"/>
+      <node ref="C18" pin="1"/>
+    </net>
+    <net code="21" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2"/>
+      <node ref="U6" pin="22"/>
+    </net>
+    <net code="22" name="Net-(R57-Pad1)">
+      <node ref="R57" pin="1"/>
+      <node ref="U11" pin="7"/>
+    </net>
+    <net code="24" name="P2.6">
+      <node ref="U6" pin="67"/>
+      <node ref="U11" pin="2"/>
+    </net>
+    <net code="26" name="Net-(R58-Pad1)">
+      <node ref="U9" pin="5"/>
       <node ref="R58" pin="1"/>
     </net>
-    <net code="88" name="Net-(R59-Pad1)">
-      <node ref="U11" pin="5"/>
+    <net code="27" name="P2.5">
+      <node ref="U9" pin="4"/>
+      <node ref="U6" pin="68"/>
+    </net>
+    <net code="29" name="Net-(R56-Pad1)">
+      <node ref="U9" pin="7"/>
+      <node ref="R56" pin="1"/>
+    </net>
+    <net code="30" name="P2.4">
+      <node ref="U9" pin="2"/>
+      <node ref="U6" pin="69"/>
+    </net>
+    <net code="31" name="MOSVCC">
+      <node ref="D10" pin="1"/>
+      <node ref="U11" pin="6"/>
+      <node ref="C49" pin="1"/>
+      <node ref="R17" pin="2"/>
+      <node ref="U9" pin="6"/>
+      <node ref="C47" pin="1"/>
+      <node ref="C21" pin="1"/>
+    </net>
+    <net code="32" name="Net-(R59-Pad1)">
       <node ref="R59" pin="1"/>
+      <node ref="U11" pin="5"/>
     </net>
-    <net code="89" name="Net-(R57-Pad1)">
-      <node ref="U11" pin="7"/>
-      <node ref="R57" pin="1"/>
+    <net code="33" name="Net-(R14-Pad1)">
+      <node ref="R56" pin="2"/>
+      <node ref="U5" pin="1"/>
+      <node ref="R49" pin="1"/>
+      <node ref="R14" pin="1"/>
     </net>
-    <net code="90" name="Net-(R20-Pad1)">
+    <net code="34" name="Net-(R38-Pad2)">
+      <node ref="R38" pin="2"/>
+      <node ref="R39" pin="1"/>
+      <node ref="R40" pin="2"/>
+    </net>
+    <net code="35" name="Net-(R16-Pad1)">
+      <node ref="R57" pin="2"/>
+      <node ref="R16" pin="1"/>
+      <node ref="U8" pin="1"/>
+      <node ref="R51" pin="1"/>
+    </net>
+    <net code="36" name="Net-(R20-Pad1)">
+      <node ref="R52" pin="1"/>
       <node ref="R59" pin="2"/>
       <node ref="R20" pin="1"/>
       <node ref="U24" pin="1"/>
     </net>
-    <net code="91" name="Net-(R15-Pad1)">
-      <node ref="R15" pin="1"/>
-      <node ref="U7" pin="1"/>
+    <net code="37" name="Net-(R15-Pad1)">
       <node ref="R58" pin="2"/>
+      <node ref="R15" pin="1"/>
+      <node ref="R50" pin="1"/>
+      <node ref="U7" pin="1"/>
     </net>
-    <net code="92" name="Net-(R56-Pad1)">
-      <node ref="U17" pin="7"/>
-      <node ref="R56" pin="1"/>
+    <net code="38" name="~ISP">
+      <node ref="U6" pin="53"/>
+      <node ref="R9" pin="2"/>
     </net>
-    <net code="93" name="Net-(C20-Pad1)">
-      <node ref="C20" pin="1"/>
-      <node ref="R36" pin="2"/>
-    </net>
-    <net code="94" name="Net-(C20-Pad2)">
-      <node ref="C20" pin="2"/>
-      <node ref="L2" pin="1"/>
-      <node ref="IC6" pin="6"/>
-    </net>
-    <net code="95" name="Net-(R14-Pad1)">
-      <node ref="U5" pin="1"/>
-      <node ref="R56" pin="2"/>
-      <node ref="R14" pin="1"/>
-    </net>
-    <net code="96" name="Net-(R38-Pad2)">
-      <node ref="R39" pin="1"/>
-      <node ref="R40" pin="2"/>
-      <node ref="R38" pin="2"/>
-    </net>
-    <net code="97" name="P2.6">
-      <node ref="U6" pin="67"/>
-      <node ref="U11" pin="2"/>
-    </net>
-    <net code="98" name="Net-(IC1-Pad8)">
-      <node ref="P9" pin="3"/>
-      <node ref="IC1" pin="8"/>
-    </net>
-    <net code="99" name="Net-(IC3-Pad8)">
-      <node ref="P6" pin="3"/>
-      <node ref="IC3" pin="8"/>
-    </net>
-    <net code="100" name="Net-(IC3-Pad10)">
-      <node ref="IC3" pin="10"/>
-      <node ref="P6" pin="4"/>
-    </net>
-    <net code="101" name="Net-(IC2-Pad8)">
-      <node ref="IC2" pin="8"/>
-      <node ref="P5" pin="3"/>
-    </net>
-    <net code="102" name="Net-(IC2-Pad10)">
-      <node ref="P5" pin="4"/>
-      <node ref="IC2" pin="10"/>
-    </net>
-    <net code="103" name="Net-(IC1-Pad10)">
-      <node ref="P9" pin="4"/>
-      <node ref="IC1" pin="10"/>
-    </net>
-    <net code="104" name="Net-(IC5-Pad7)">
-      <node ref="IC5" pin="7"/>
-      <node ref="P13" pin="2"/>
-    </net>
-    <net code="105" name="VREF5">
-      <node ref="IC5" pin="13"/>
-      <node ref="IC5" pin="12"/>
-      <node ref="C65" pin="1"/>
-      <node ref="U12" pin="9"/>
-    </net>
-    <net code="106" name="SD_MOSI">
-      <node ref="R41" pin="2"/>
-      <node ref="U6" pin="76"/>
-      <node ref="U10" pin="3"/>
-      <node ref="K8" pin="3"/>
-    </net>
-    <net code="107" name="SD_MISO">
-      <node ref="R42" pin="2"/>
-      <node ref="U6" pin="77"/>
-      <node ref="K8" pin="2"/>
-      <node ref="U10" pin="7"/>
-    </net>
-    <net code="108" name="SD_SCK">
-      <node ref="U6" pin="78"/>
-      <node ref="U10" pin="5"/>
-      <node ref="K8" pin="1"/>
-    </net>
-    <net code="109" name="Net-(C18-Pad1)">
-      <node ref="C18" pin="1"/>
-      <node ref="OSC1" pin="3"/>
-    </net>
-    <net code="110" name="Net-(C18-Pad2)">
-      <node ref="C18" pin="2"/>
-      <node ref="U6" pin="22"/>
-    </net>
-    <net code="111" name="Net-(IC1-Pad19)">
-      <node ref="IC1" pin="19"/>
-    </net>
-    <net code="112" name="~FAULT1">
+    <net code="39" name="Net-(IC1-Pad18)">
+      <node ref="P9" pin="2"/>
       <node ref="IC1" pin="18"/>
     </net>
-    <net code="113" name="~HOME1">
-      <node ref="IC1" pin="27"/>
-    </net>
-    <net code="114" name="Net-(IC1-Pad26)">
-      <node ref="IC1" pin="26"/>
-      <node ref="J4" pin="2"/>
-    </net>
-    <net code="115" name="Net-(IC1-Pad25)">
-      <node ref="IC1" pin="25"/>
-      <node ref="J3" pin="2"/>
-    </net>
-    <net code="116" name="Net-(C35-Pad1)">
+    <net code="40" name="Net-(IC1-Pad15)">
       <node ref="IC1" pin="15"/>
-      <node ref="C35" pin="1"/>
+      <node ref="P9" pin="1"/>
     </net>
-    <net code="117" name="Net-(IC1-Pad24)">
-      <node ref="IC1" pin="24"/>
-      <node ref="J2" pin="2"/>
+    <net code="41" name="Net-(IC1-Pad17)">
+      <node ref="IC1" pin="17"/>
+      <node ref="R37" pin="1"/>
     </net>
-    <net code="118" name="STP1">
-      <node ref="IC1" pin="22"/>
-      <node ref="U6" pin="75"/>
-      <node ref="U1" pin="1"/>
-    </net>
-    <net code="119" name="EN1">
-      <node ref="U6" pin="81"/>
-      <node ref="U1" pin="2"/>
-      <node ref="IC1" pin="21"/>
-    </net>
-    <net code="120" name="DIR1">
-      <node ref="U6" pin="80"/>
+    <net code="42" name="Net-(IC1-Pad20)">
+      <node ref="R33" pin="1"/>
       <node ref="IC1" pin="20"/>
+    </net>
+    <net code="43" name="Net-(C39-Pad2)">
+      <node ref="C39" pin="2"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="44" name="TH4">
+      <node ref="P1" pin="8"/>
+      <node ref="U6" pin="6"/>
+      <node ref="C10" pin="1"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="45" name="TH3">
+      <node ref="P1" pin="6"/>
+      <node ref="R12" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="46" name="TH2">
+      <node ref="P1" pin="4"/>
+      <node ref="U6" pin="8"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="47" name="Net-(U12-Pad5)">
+      <node ref="U12" pin="5"/>
+    </net>
+    <net code="48" name="Net-(IC5-Pad18)">
+      <node ref="IC5" pin="18"/>
+      <node ref="P13" pin="2"/>
+    </net>
+    <net code="49" name="Net-(IC5-Pad15)">
+      <node ref="P13" pin="1"/>
+      <node ref="IC5" pin="15"/>
+    </net>
+    <net code="50" name="Net-(IC5-Pad17)">
+      <node ref="R32" pin="1"/>
+      <node ref="IC5" pin="17"/>
+    </net>
+    <net code="51" name="Net-(IC5-Pad20)">
+      <node ref="IC5" pin="20"/>
+      <node ref="R31" pin="1"/>
+    </net>
+    <net code="52" name="Net-(C69-Pad2)">
+      <node ref="IC5" pin="3"/>
+      <node ref="C69" pin="2"/>
+    </net>
+    <net code="53" name="Net-(IC2-Pad15)">
+      <node ref="IC2" pin="15"/>
+      <node ref="P5" pin="1"/>
+    </net>
+    <net code="54" name="Net-(IC3-Pad17)">
+      <node ref="R29" pin="1"/>
+      <node ref="IC3" pin="17"/>
+    </net>
+    <net code="55" name="Net-(IC3-Pad20)">
+      <node ref="IC3" pin="20"/>
+      <node ref="R22" pin="1"/>
+    </net>
+    <net code="56" name="Net-(C53-Pad2)">
+      <node ref="IC3" pin="3"/>
+      <node ref="C53" pin="2"/>
+    </net>
+    <net code="57" name="Net-(IC2-Pad18)">
+      <node ref="IC2" pin="18"/>
+      <node ref="P5" pin="2"/>
+    </net>
+    <net code="58" name="Net-(IC2-Pad17)">
+      <node ref="R24" pin="1"/>
+      <node ref="IC2" pin="17"/>
+    </net>
+    <net code="59" name="Net-(IC2-Pad20)">
+      <node ref="R21" pin="1"/>
+      <node ref="IC2" pin="20"/>
+    </net>
+    <net code="60" name="Net-(C52-Pad2)">
+      <node ref="C52" pin="2"/>
+      <node ref="IC2" pin="3"/>
+    </net>
+    <net code="61" name="Net-(IC4-Pad18)">
+      <node ref="P7" pin="2"/>
+      <node ref="IC4" pin="18"/>
+    </net>
+    <net code="62" name="Net-(IC4-Pad15)">
+      <node ref="IC4" pin="15"/>
+      <node ref="P7" pin="1"/>
+    </net>
+    <net code="63" name="Net-(IC4-Pad17)">
+      <node ref="IC4" pin="17"/>
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="64" name="Net-(IC4-Pad20)">
+      <node ref="IC4" pin="20"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="66" name="Net-(C54-Pad2)">
+      <node ref="IC4" pin="3"/>
+      <node ref="C54" pin="2"/>
+    </net>
+    <net code="67" name="Net-(IC3-Pad18)">
+      <node ref="P6" pin="2"/>
+      <node ref="IC3" pin="18"/>
+    </net>
+    <net code="68" name="Net-(IC3-Pad15)">
+      <node ref="IC3" pin="15"/>
+      <node ref="P6" pin="1"/>
+    </net>
+    <net code="69" name="VREF1">
+      <node ref="IC1" pin="12"/>
+      <node ref="U23" pin="9"/>
+      <node ref="C51" pin="1"/>
+    </net>
+    <net code="70" name="DIR1">
+      <node ref="U1" pin="2"/>
+      <node ref="U6" pin="81"/>
+      <node ref="IC1" pin="14"/>
+    </net>
+    <net code="71" name="EN1">
+      <node ref="IC1" pin="23"/>
+      <node ref="U6" pin="80"/>
       <node ref="U1" pin="3"/>
     </net>
-    <net code="121" name="Net-(IC4-Pad8)">
-      <node ref="P7" pin="3"/>
+    <net code="72" name="Net-(IC1-Pad22)">
+      <node ref="P9" pin="4"/>
+      <node ref="IC1" pin="22"/>
+    </net>
+    <net code="73" name="Net-(IC3-Pad19)">
+      <node ref="IC3" pin="19"/>
+      <node ref="P6" pin="3"/>
+    </net>
+    <net code="74" name="Net-(IC2-Pad22)">
+      <node ref="P5" pin="4"/>
+      <node ref="IC2" pin="22"/>
+    </net>
+    <net code="75" name="Net-(IC2-Pad19)">
+      <node ref="IC2" pin="19"/>
+      <node ref="P5" pin="3"/>
+    </net>
+    <net code="76" name="STP1">
+      <node ref="U6" pin="75"/>
+      <node ref="IC1" pin="11"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="77" name="Net-(IC1-Pad19)">
+      <node ref="P9" pin="3"/>
+      <node ref="IC1" pin="19"/>
+    </net>
+    <net code="78" name="Net-(C8-Pad1)">
+      <node ref="IC1" pin="1"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="79" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="80" name="Net-(C36-Pad2)">
+      <node ref="C36" pin="2"/>
+      <node ref="IC2" pin="2"/>
+    </net>
+    <net code="81" name="Net-(C36-Pad1)">
+      <node ref="C36" pin="1"/>
+      <node ref="IC2" pin="1"/>
+    </net>
+    <net code="82" name="Net-(IC2-Pad10)">
+      <node ref="IC2" pin="10"/>
+      <node ref="J7" pin="2"/>
+    </net>
+    <net code="83" name="Net-(IC1-Pad10)">
+      <node ref="IC1" pin="10"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="84" name="Net-(IC1-Pad8)">
+      <node ref="IC1" pin="8"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="85" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6"/>
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="86" name="Net-(IC1-Pad5)">
+      <node ref="J2" pin="2"/>
+      <node ref="IC1" pin="5"/>
+    </net>
+    <net code="87" name="VREF2">
+      <node ref="U23" pin="8"/>
+      <node ref="C32" pin="1"/>
+      <node ref="IC2" pin="12"/>
+    </net>
+    <net code="88" name="Net-(C40-Pad1)">
+      <node ref="C40" pin="1"/>
+      <node ref="IC1" pin="4"/>
+    </net>
+    <net code="89" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1"/>
+      <node ref="R52" pin="2"/>
+    </net>
+    <net code="90" name="Net-(D11-Pad1)">
+      <node ref="R50" pin="2"/>
+      <node ref="D11" pin="1"/>
+    </net>
+    <net code="91" name="Net-(D14-Pad1)">
+      <node ref="R51" pin="2"/>
+      <node ref="D14" pin="1"/>
+    </net>
+    <net code="92" name="Net-(C55-Pad1)">
+      <node ref="IC5" pin="4"/>
+      <node ref="C55" pin="1"/>
+    </net>
+    <net code="93" name="Net-(C48-Pad1)">
+      <node ref="C48" pin="1"/>
+      <node ref="IC4" pin="4"/>
+    </net>
+    <net code="94" name="Net-(C42-Pad1)">
+      <node ref="IC3" pin="4"/>
+      <node ref="C42" pin="1"/>
+    </net>
+    <net code="95" name="Net-(C41-Pad1)">
+      <node ref="C41" pin="1"/>
+      <node ref="IC2" pin="4"/>
+    </net>
+    <net code="96" name="Net-(IC4-Pad8)">
       <node ref="IC4" pin="8"/>
+      <node ref="R46" pin="1"/>
     </net>
-    <net code="122" name="Net-(IC4-Pad10)">
+    <net code="97" name="Net-(IC3-Pad8)">
+      <node ref="R26" pin="1"/>
+      <node ref="IC3" pin="8"/>
+    </net>
+    <net code="98" name="Net-(IC2-Pad8)">
+      <node ref="IC2" pin="8"/>
+      <node ref="R48" pin="1"/>
+    </net>
+    <net code="99" name="Net-(IC5-Pad19)">
+      <node ref="P13" pin="3"/>
+      <node ref="IC5" pin="19"/>
+    </net>
+    <net code="100" name="Net-(D13-Pad1)">
+      <node ref="R49" pin="2"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="101" name="Net-(IC5-Pad8)">
+      <node ref="R47" pin="1"/>
+      <node ref="IC5" pin="8"/>
+    </net>
+    <net code="102" name="Net-(IC5-Pad10)">
+      <node ref="J16" pin="2"/>
+      <node ref="IC5" pin="10"/>
+    </net>
+    <net code="103" name="Net-(IC5-Pad6)">
+      <node ref="J15" pin="2"/>
+      <node ref="IC5" pin="6"/>
+    </net>
+    <net code="104" name="Net-(IC5-Pad5)">
+      <node ref="IC5" pin="5"/>
+      <node ref="J14" pin="2"/>
+    </net>
+    <net code="105" name="Net-(C67-Pad2)">
+      <node ref="C67" pin="2"/>
+      <node ref="IC5" pin="2"/>
+    </net>
+    <net code="106" name="Net-(C67-Pad1)">
+      <node ref="IC5" pin="1"/>
+      <node ref="C67" pin="1"/>
+    </net>
+    <net code="107" name="+3.3V">
+      <node ref="U6" pin="71"/>
+      <node ref="U6" pin="42"/>
+      <node ref="R28" pin="1"/>
+      <node ref="J5" pin="1"/>
+      <node ref="U6" pin="84"/>
+      <node ref="U6" pin="28"/>
+      <node ref="U6" pin="19"/>
+      <node ref="U23" pin="1"/>
+      <node ref="R34" pin="1"/>
+      <node ref="U6" pin="54"/>
+      <node ref="R43" pin="1"/>
+      <node ref="U16" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R40" pin="1"/>
+      <node ref="R42" pin="1"/>
+      <node ref="U6" pin="96"/>
+      <node ref="R19" pin="2"/>
+      <node ref="R18" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="C50" pin="1"/>
+      <node ref="R41" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="OSC1" pin="1"/>
+      <node ref="OSC1" pin="4"/>
+      <node ref="C19" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J12" pin="1"/>
+      <node ref="J11" pin="1"/>
+      <node ref="J16" pin="1"/>
+      <node ref="J15" pin="1"/>
+      <node ref="J14" pin="1"/>
+      <node ref="J7" pin="1"/>
+      <node ref="U12" pin="1"/>
+      <node ref="J10" pin="1"/>
+      <node ref="J9" pin="1"/>
+      <node ref="P11" pin="6"/>
+      <node ref="L1" pin="1"/>
+      <node ref="R45" pin="1"/>
+      <node ref="J13" pin="1"/>
+      <node ref="U3" pin="2"/>
+      <node ref="L2" pin="2"/>
+      <node ref="R27" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R44" pin="1"/>
+      <node ref="C45" pin="1"/>
+      <node ref="IC4" pin="9"/>
+      <node ref="IC4" pin="7"/>
+      <node ref="C22" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="J8" pin="1"/>
+      <node ref="C43" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="J3" pin="1"/>
+      <node ref="C44" pin="1"/>
+      <node ref="C46" pin="1"/>
+      <node ref="IC3" pin="9"/>
+      <node ref="IC3" pin="7"/>
+      <node ref="IC2" pin="7"/>
+      <node ref="K3" pin="1"/>
+      <node ref="K4" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="K6" pin="1"/>
+      <node ref="K5" pin="1"/>
+      <node ref="K2" pin="1"/>
+      <node ref="K1" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="U10" pin="4"/>
+      <node ref="C64" pin="1"/>
+      <node ref="IC2" pin="9"/>
+      <node ref="IC1" pin="9"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="R13" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C15" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="IC5" pin="7"/>
+      <node ref="IC5" pin="9"/>
+    </net>
+    <net code="108" name="Net-(C38-Pad2)">
+      <node ref="C38" pin="2"/>
+      <node ref="IC4" pin="2"/>
+    </net>
+    <net code="109" name="Net-(C38-Pad1)">
+      <node ref="IC4" pin="1"/>
+      <node ref="C38" pin="1"/>
+    </net>
+    <net code="110" name="V_MOSFET">
+      <node ref="P8" pin="3"/>
+      <node ref="P2" pin="2"/>
+      <node ref="P2" pin="8"/>
+      <node ref="P2" pin="6"/>
+      <node ref="P2" pin="4"/>
+      <node ref="P8" pin="5"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="111" name="Net-(IC4-Pad5)">
+      <node ref="J11" pin="2"/>
+      <node ref="IC4" pin="5"/>
+    </net>
+    <net code="112" name="VREF3">
+      <node ref="U23" pin="7"/>
+      <node ref="C33" pin="1"/>
+      <node ref="IC3" pin="12"/>
+    </net>
+    <net code="113" name="Net-(C37-Pad2)">
+      <node ref="IC3" pin="2"/>
+      <node ref="C37" pin="2"/>
+    </net>
+    <net code="114" name="Net-(C37-Pad1)">
+      <node ref="IC3" pin="1"/>
+      <node ref="C37" pin="1"/>
+    </net>
+    <net code="115" name="Net-(IC3-Pad10)">
+      <node ref="J10" pin="2"/>
+      <node ref="IC3" pin="10"/>
+    </net>
+    <net code="116" name="Net-(IC3-Pad6)">
+      <node ref="IC3" pin="6"/>
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="117" name="Net-(IC3-Pad5)">
+      <node ref="J8" pin="2"/>
+      <node ref="IC3" pin="5"/>
+    </net>
+    <net code="118" name="Net-(IC2-Pad6)">
+      <node ref="J6" pin="2"/>
+      <node ref="IC2" pin="6"/>
+    </net>
+    <net code="119" name="Net-(IC2-Pad5)">
+      <node ref="IC2" pin="5"/>
+      <node ref="J5" pin="2"/>
+    </net>
+    <net code="120" name="VREF4">
+      <node ref="C34" pin="1"/>
+      <node ref="IC4" pin="12"/>
+      <node ref="U23" pin="6"/>
+    </net>
+    <net code="121" name="Net-(IC4-Pad10)">
       <node ref="IC4" pin="10"/>
-      <node ref="P7" pin="4"/>
+      <node ref="J13" pin="2"/>
     </net>
-    <net code="123" name="TH1">
-      <node ref="R34" pin="2"/>
-      <node ref="C3" pin="1"/>
-      <node ref="U6" pin="9"/>
-      <node ref="P1" pin="2"/>
+    <net code="122" name="Net-(IC4-Pad6)">
+      <node ref="J12" pin="2"/>
+      <node ref="IC4" pin="6"/>
     </net>
-    <net code="124" name="Net-(D4-Pad1)">
-      <node ref="R6" pin="1"/>
-      <node ref="D4" pin="1"/>
+    <net code="123" name="LED1">
+      <node ref="U6" pin="32"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U4" pin="1"/>
     </net>
-    <net code="125" name="Net-(R11-Pad1)">
-      <node ref="U3" pin="3"/>
-      <node ref="R11" pin="1"/>
-    </net>
-    <net code="126" name="SCON">
-      <node ref="U6" pin="64"/>
-      <node ref="U3" pin="1"/>
-    </net>
-    <net code="127" name="Net-(U10-Pad9)">
+    <net code="124" name="Net-(U10-Pad9)">
       <node ref="U10" pin="9"/>
     </net>
-    <net code="128" name="SD_CS">
+    <net code="125" name="SD_CS">
+      <node ref="U10" pin="2"/>
       <node ref="R43" pin="2"/>
       <node ref="U6" pin="79"/>
-      <node ref="U10" pin="2"/>
     </net>
-    <net code="129" name="LED4">
+    <net code="126" name="LED4">
       <node ref="U4" pin="4"/>
       <node ref="R6" pin="2"/>
       <node ref="U6" pin="35"/>
     </net>
-    <net code="130" name="LED3">
-      <node ref="U4" pin="3"/>
-      <node ref="R5" pin="2"/>
-      <node ref="U6" pin="34"/>
+    <net code="127" name="Net-(D4-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="D4" pin="1"/>
     </net>
-    <net code="131" name="LED2">
-      <node ref="U6" pin="33"/>
-      <node ref="U4" pin="2"/>
-      <node ref="R4" pin="2"/>
+    <net code="128" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="R3" pin="1"/>
     </net>
-    <net code="132" name="LED1">
-      <node ref="R3" pin="2"/>
-      <node ref="U4" pin="1"/>
-      <node ref="U6" pin="32"/>
+    <net code="129" name="Net-(D2-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="D2" pin="1"/>
     </net>
-    <net code="133" name="Z-MIN">
+    <net code="130" name="/P2.6_FET">
+      <node ref="U8" pin="3"/>
+      <node ref="P2" pin="3"/>
+    </net>
+    <net code="131" name="/PWM1_FET">
+      <node ref="P2" pin="5"/>
+      <node ref="U7" pin="3"/>
+    </net>
+    <net code="132" name="/PWM0_FET">
+      <node ref="P2" pin="7"/>
+      <node ref="U5" pin="3"/>
+    </net>
+    <net code="133" name="RX_0">
+      <node ref="K7" pin="2"/>
+      <node ref="U6" pin="99"/>
+    </net>
+    <net code="134" name="TX_0">
+      <node ref="K7" pin="1"/>
+      <node ref="U6" pin="98"/>
+    </net>
+    <net code="135" name="+12V">
+      <node ref="C28" pin="1"/>
+      <node ref="C54" pin="1"/>
+      <node ref="IC4" pin="16"/>
+      <node ref="C30" pin="1"/>
+      <node ref="C29" pin="1"/>
+      <node ref="IC2" pin="16"/>
+      <node ref="IC4" pin="21"/>
+      <node ref="D9" pin="1"/>
+      <node ref="IC1" pin="21"/>
+      <node ref="C31" pin="1"/>
+      <node ref="IC1" pin="16"/>
+      <node ref="IC3" pin="21"/>
+      <node ref="IC3" pin="16"/>
+      <node ref="R55" pin="1"/>
+      <node ref="IC2" pin="21"/>
+      <node ref="C39" pin="1"/>
+      <node ref="C52" pin="1"/>
+      <node ref="P8" pin="2"/>
+      <node ref="C70" pin="1"/>
+      <node ref="IC5" pin="21"/>
+      <node ref="IC5" pin="16"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C53" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="C69" pin="1"/>
+      <node ref="C71" pin="1"/>
+      <node ref="C27" pin="1"/>
+    </net>
+    <net code="136" name="P2.7">
+      <node ref="U11" pin="4"/>
+      <node ref="U6" pin="66"/>
+    </net>
+    <net code="137" name="STP5">
+      <node ref="U6" pin="56"/>
+      <node ref="IC5" pin="11"/>
+      <node ref="U13" pin="1"/>
+    </net>
+    <net code="138" name="DAC_SDA">
+      <node ref="U6" pin="46"/>
+      <node ref="R18" pin="1"/>
+      <node ref="U23" pin="3"/>
+      <node ref="U12" pin="3"/>
+    </net>
+    <net code="139" name="P1.22">
+      <node ref="U6" pin="36"/>
+    </net>
+    <net code="140" name="PLAY_LED">
+      <node ref="D6" pin="2"/>
+      <node ref="U6" pin="26"/>
+    </net>
+    <net code="141" name="Net-(U6-Pad16)">
+      <node ref="U6" pin="16"/>
+    </net>
+    <net code="142" name="Net-(U6-Pad95)">
+      <node ref="U6" pin="95"/>
+    </net>
+    <net code="143" name="EN4">
+      <node ref="U25" pin="3"/>
+      <node ref="IC4" pin="23"/>
+      <node ref="U6" pin="85"/>
+    </net>
+    <net code="144" name="DIR4">
+      <node ref="U6" pin="65"/>
+      <node ref="IC4" pin="14"/>
+      <node ref="U25" pin="2"/>
+    </net>
+    <net code="145" name="Z-MAX">
+      <node ref="K6" pin="3"/>
+      <node ref="U6" pin="45"/>
+    </net>
+    <net code="146" name="SDA">
+      <node ref="R44" pin="2"/>
+      <node ref="U16" pin="2"/>
+      <node ref="U6" pin="25"/>
+    </net>
+    <net code="147" name="EN3">
+      <node ref="U6" pin="74"/>
+      <node ref="IC3" pin="23"/>
+      <node ref="U22" pin="3"/>
+    </net>
+    <net code="148" name="Z-MIN">
       <node ref="U6" pin="44"/>
       <node ref="K5" pin="3"/>
     </net>
-    <net code="134" name="DIR4">
-      <node ref="U6" pin="85"/>
-      <node ref="U25" pin="3"/>
-      <node ref="IC4" pin="20"/>
-    </net>
-    <net code="135" name="EN4">
-      <node ref="U6" pin="65"/>
-      <node ref="IC4" pin="21"/>
-      <node ref="U25" pin="2"/>
-    </net>
-    <net code="136" name="Z-MAX">
-      <node ref="U6" pin="45"/>
-      <node ref="K6" pin="3"/>
-    </net>
-    <net code="137" name="SDA">
-      <node ref="U16" pin="2"/>
-      <node ref="U6" pin="25"/>
-      <node ref="R44" pin="2"/>
-    </net>
-    <net code="138" name="DIR3">
-      <node ref="U6" pin="74"/>
-      <node ref="IC3" pin="20"/>
-      <node ref="U22" pin="3"/>
-    </net>
-    <net code="139" name="Net-(U6-Pad95)">
-      <node ref="U6" pin="95"/>
-    </net>
-    <net code="140" name="SCL">
+    <net code="149" name="SCL">
       <node ref="U6" pin="24"/>
-      <node ref="R45" pin="2"/>
       <node ref="U16" pin="3"/>
+      <node ref="R45" pin="2"/>
     </net>
-    <net code="141" name="Net-(U6-Pad14)">
+    <net code="150" name="Net-(U6-Pad14)">
       <node ref="U6" pin="14"/>
     </net>
-    <net code="142" name="EN3">
-      <node ref="U22" pin="2"/>
+    <net code="151" name="DIR3">
+      <node ref="IC3" pin="14"/>
       <node ref="U6" pin="73"/>
-      <node ref="IC3" pin="21"/>
+      <node ref="U22" pin="2"/>
     </net>
-    <net code="143" name="SSEL1">
-      <node ref="U6" pin="63"/>
+    <net code="152" name="SSEL1">
       <node ref="P11" pin="2"/>
+      <node ref="U6" pin="63"/>
     </net>
-    <net code="144" name="Y-MAX">
-      <node ref="K4" pin="3"/>
-      <node ref="U6" pin="43"/>
-    </net>
-    <net code="145" name="Net-(U6-Pad23)">
-      <node ref="U6" pin="23"/>
-    </net>
-    <net code="146" name="Net-(U6-Pad13)">
-      <node ref="U6" pin="13"/>
-    </net>
-    <net code="147" name="DAC_SCL">
-      <node ref="U6" pin="47"/>
-      <node ref="U12" pin="2"/>
-      <node ref="R19" pin="1"/>
-      <node ref="U23" pin="2"/>
-    </net>
-    <net code="148" name="DIR2">
-      <node ref="IC2" pin="20"/>
-      <node ref="U6" pin="48"/>
-      <node ref="U21" pin="3"/>
-    </net>
-    <net code="149" name="X-MIN">
+    <net code="153" name="X-MIN">
       <node ref="U6" pin="38"/>
       <node ref="K1" pin="3"/>
     </net>
-    <net code="150" name="Net-(U6-Pad18)">
+    <net code="154" name="STP4">
+      <node ref="U6" pin="59"/>
+      <node ref="IC4" pin="11"/>
+      <node ref="U25" pin="1"/>
+    </net>
+    <net code="155" name="DIR2">
+      <node ref="U21" pin="2"/>
+      <node ref="IC2" pin="14"/>
+      <node ref="U6" pin="49"/>
+    </net>
+    <net code="156" name="X-MAX">
+      <node ref="U6" pin="39"/>
+      <node ref="K2" pin="3"/>
+    </net>
+    <net code="157" name="USB_D+">
+      <node ref="U6" pin="29"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="158" name="EN5">
+      <node ref="U6" pin="58"/>
+      <node ref="U13" pin="3"/>
+      <node ref="IC5" pin="23"/>
+    </net>
+    <net code="159" name="EN2">
+      <node ref="U6" pin="48"/>
+      <node ref="U21" pin="3"/>
+      <node ref="IC2" pin="23"/>
+    </net>
+    <net code="160" name="Net-(U6-Pad18)">
       <node ref="U6" pin="18"/>
     </net>
-    <net code="151" name="Net-(U6-Pad92)">
-      <node ref="U6" pin="92"/>
+    <net code="161" name="P1.16">
+      <node ref="P12" pin="5"/>
+      <node ref="U6" pin="87"/>
     </net>
-    <net code="152" name="P1.23">
+    <net code="162" name="DIR5">
+      <node ref="U6" pin="57"/>
+      <node ref="IC5" pin="14"/>
+      <node ref="U13" pin="2"/>
+    </net>
+    <net code="163" name="DAC_SCL">
+      <node ref="U6" pin="47"/>
+      <node ref="U23" pin="2"/>
+      <node ref="U12" pin="2"/>
+      <node ref="R19" pin="1"/>
+    </net>
+    <net code="164" name="P1.23">
       <node ref="U6" pin="37"/>
     </net>
-    <net code="153" name="SD_IRQ">
+    <net code="165" name="SD_IRQ">
       <node ref="U6" pin="27"/>
     </net>
-    <net code="154" name="Net-(U6-Pad86)">
+    <net code="166" name="Net-(U6-Pad86)">
       <node ref="U6" pin="86"/>
     </net>
-    <net code="155" name="P2.7">
-      <node ref="U6" pin="66"/>
-      <node ref="U11" pin="4"/>
-    </net>
-    <net code="156" name="DAC_SDA">
-      <node ref="U23" pin="3"/>
-      <node ref="U6" pin="46"/>
-      <node ref="U12" pin="3"/>
-      <node ref="R18" pin="1"/>
-    </net>
-    <net code="157" name="P1.22">
-      <node ref="U6" pin="36"/>
-    </net>
-    <net code="158" name="PLAY_LED">
-      <node ref="U6" pin="26"/>
-      <node ref="D6" pin="2"/>
-    </net>
-    <net code="159" name="Net-(U6-Pad16)">
-      <node ref="U6" pin="16"/>
-    </net>
-    <net code="160" name="Net-(U6-Pad5)">
-      <node ref="U6" pin="5"/>
-    </net>
-    <net code="161" name="Net-(U6-Pad4)">
-      <node ref="U6" pin="4"/>
-    </net>
-    <net code="162" name="Net-(U6-Pad3)">
-      <node ref="U6" pin="3"/>
-    </net>
-    <net code="163" name="Net-(U6-Pad2)">
-      <node ref="U6" pin="2"/>
-    </net>
-    <net code="164" name="Net-(U6-Pad1)">
-      <node ref="U6" pin="1"/>
-    </net>
-    <net code="165" name="Net-(CONN1-Pad4)">
-      <node ref="CONN1" pin="4"/>
-    </net>
-    <net code="166" name="Net-(CONN1-Pad3)">
-      <node ref="CONN1" pin="3"/>
-      <node ref="R8" pin="1"/>
-    </net>
-    <net code="167" name="Net-(CONN1-Pad2)">
-      <node ref="R7" pin="1"/>
-      <node ref="CONN1" pin="2"/>
-    </net>
-    <net code="168" name="PLAY">
-      <node ref="R27" pin="2"/>
-      <node ref="U15" pin="1"/>
-      <node ref="U6" pin="51"/>
-    </net>
-    <net code="169" name="Net-(U6-Pad82)">
-      <node ref="U6" pin="82"/>
-    </net>
-    <net code="170" name="SCK1">
-      <node ref="U6" pin="62"/>
-      <node ref="P11" pin="4"/>
-    </net>
-    <net code="171" name="SD_CD">
-      <node ref="U6" pin="52"/>
-    </net>
-    <net code="172" name="MISO1">
-      <node ref="P11" pin="1"/>
-      <node ref="U6" pin="61"/>
-    </net>
-    <net code="173" name="P1.30">
-      <node ref="U6" pin="21"/>
-    </net>
-    <net code="174" name="STP3">
-      <node ref="U6" pin="70"/>
-      <node ref="U22" pin="1"/>
-      <node ref="IC3" pin="22"/>
-    </net>
-    <net code="175" name="MOSI1">
-      <node ref="U6" pin="60"/>
-      <node ref="P11" pin="3"/>
-    </net>
-    <net code="176" name="STP2">
-      <node ref="U21" pin="1"/>
-      <node ref="IC2" pin="22"/>
-      <node ref="U6" pin="50"/>
-    </net>
-    <net code="177" name="Y-MIN">
-      <node ref="K3" pin="3"/>
-      <node ref="U6" pin="40"/>
-    </net>
-    <net code="178" name="USB_D-">
+    <net code="167" name="USB_D-">
       <node ref="U6" pin="30"/>
       <node ref="C9" pin="1"/>
       <node ref="R7" pin="2"/>
     </net>
-    <net code="179" name="P1.31">
+    <net code="168" name="P1.31">
       <node ref="U6" pin="20"/>
     </net>
-    <net code="180" name="VDCVDC">
-      <node ref="C11" pin="1"/>
-      <node ref="R35" pin="2"/>
+    <net code="169" name="Net-(U6-Pad5)">
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="170" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="171" name="Net-(U6-Pad3)">
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="172" name="Net-(U6-Pad2)">
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="173" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="174" name="Y-MIN">
+      <node ref="K3" pin="3"/>
+      <node ref="U6" pin="40"/>
+    </net>
+    <net code="175" name="Net-(CONN1-Pad4)">
+      <node ref="CONN1" pin="4"/>
+    </net>
+    <net code="176" name="Net-(CONN1-Pad3)">
+      <node ref="CONN1" pin="3"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="177" name="Net-(CONN1-Pad2)">
+      <node ref="CONN1" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="178" name="Y-MAX">
+      <node ref="U6" pin="43"/>
+      <node ref="K4" pin="3"/>
+    </net>
+    <net code="179" name="Net-(U6-Pad23)">
+      <node ref="U6" pin="23"/>
+    </net>
+    <net code="180" name="Net-(U6-Pad13)">
+      <node ref="U6" pin="13"/>
+    </net>
+    <net code="181" name="Net-(U6-Pad92)">
+      <node ref="U6" pin="92"/>
+    </net>
+    <net code="182" name="Net-(U6-Pad82)">
+      <node ref="U6" pin="82"/>
+    </net>
+    <net code="183" name="SCK1">
+      <node ref="P11" pin="4"/>
+      <node ref="U6" pin="62"/>
+    </net>
+    <net code="184" name="P2.11">
+      <node ref="U6" pin="52"/>
+    </net>
+    <net code="185" name="Net-(U6-Pad89)">
+      <node ref="U6" pin="89"/>
+    </net>
+    <net code="186" name="MISO1">
+      <node ref="P11" pin="1"/>
+      <node ref="U6" pin="61"/>
+    </net>
+    <net code="187" name="PLAY">
+      <node ref="U6" pin="51"/>
+      <node ref="U15" pin="1"/>
+      <node ref="R27" pin="2"/>
+    </net>
+    <net code="188" name="P1.30">
+      <node ref="U6" pin="21"/>
+    </net>
+    <net code="189" name="STP3">
+      <node ref="U22" pin="1"/>
+      <node ref="U6" pin="70"/>
+      <node ref="IC3" pin="11"/>
+    </net>
+    <net code="190" name="MOSI1">
+      <node ref="U6" pin="60"/>
+      <node ref="P11" pin="3"/>
+    </net>
+    <net code="191" name="STP2">
+      <node ref="U6" pin="50"/>
+      <node ref="U21" pin="1"/>
+      <node ref="IC2" pin="11"/>
+    </net>
+    <net code="192" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="193" name="LED3">
+      <node ref="U6" pin="34"/>
+      <node ref="U4" pin="3"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="194" name="LED2">
+      <node ref="R4" pin="2"/>
+      <node ref="U6" pin="33"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="195" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="196" name="SCON">
+      <node ref="U3" pin="1"/>
+      <node ref="U6" pin="64"/>
+    </net>
+    <net code="197" name="VDCVDC">
       <node ref="D5" pin="2"/>
       <node ref="D9" pin="2"/>
       <node ref="IC6" pin="7"/>
+      <node ref="R35" pin="2"/>
+      <node ref="C11" pin="1"/>
     </net>
-    <net code="181" name="Net-(CONN1-Pad1)">
+    <net code="198" name="Net-(CONN1-Pad1)">
       <node ref="CONN1" pin="1"/>
       <node ref="D5" pin="1"/>
     </net>
-    <net code="182" name="Net-(U6-Pad100)">
+    <net code="199" name="Net-(U6-Pad100)">
       <node ref="U6" pin="100"/>
     </net>
-    <net code="183" name="RX_0">
-      <node ref="U6" pin="99"/>
-      <node ref="K7" pin="2"/>
+    <net code="200" name="~RESET">
+      <node ref="U2" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U6" pin="17"/>
+      <node ref="C1" pin="1"/>
     </net>
-    <net code="184" name="Net-(U6-Pad89)">
-      <node ref="U6" pin="89"/>
+    <net code="201" name="Net-(C17-Pad1)">
+      <node ref="U6" pin="12"/>
+      <node ref="U6" pin="10"/>
+      <node ref="C35" pin="1"/>
+      <node ref="L1" pin="2"/>
+      <node ref="P3" pin="1"/>
+      <node ref="C17" pin="1"/>
     </net>
-    <net code="185" name="STP4">
-      <node ref="IC4" pin="22"/>
-      <node ref="U6" pin="59"/>
-      <node ref="U25" pin="1"/>
+    <net code="202" name="VREF5">
+      <node ref="IC5" pin="12"/>
+      <node ref="C65" pin="1"/>
+      <node ref="U12" pin="9"/>
     </net>
-    <net code="186" name="EN2">
-      <node ref="U21" pin="2"/>
-      <node ref="U6" pin="49"/>
-      <node ref="IC2" pin="21"/>
+    <net code="203" name="Net-(U23-Pad5)">
+      <node ref="U23" pin="5"/>
     </net>
-    <net code="187" name="X-MAX">
-      <node ref="K2" pin="3"/>
-      <node ref="U6" pin="39"/>
-    </net>
-    <net code="188" name="USB_D+">
-      <node ref="R11" pin="2"/>
-      <node ref="C5" pin="1"/>
-      <node ref="R8" pin="2"/>
-      <node ref="U6" pin="29"/>
-    </net>
-    <net code="189" name="TX_0">
-      <node ref="U6" pin="98"/>
-      <node ref="K7" pin="1"/>
-    </net>
-    <net code="190" name="Net-(D7-Pad1)">
-      <node ref="R2" pin="2"/>
-      <node ref="D7" pin="1"/>
-    </net>
-    <net code="191" name="Net-(D8-Pad1)">
-      <node ref="R55" pin="2"/>
-      <node ref="D8" pin="1"/>
-    </net>
-    <net code="192" name="P1.10">
-      <node ref="P12" pin="3"/>
-      <node ref="U6" pin="90"/>
-    </net>
-    <net code="193" name="P1.15">
-      <node ref="P12" pin="6"/>
-      <node ref="U6" pin="88"/>
-    </net>
-    <net code="194" name="P1.16">
-      <node ref="U6" pin="87"/>
-      <node ref="P12" pin="5"/>
-    </net>
-    <net code="195" name="P1.9">
-      <node ref="P12" pin="4"/>
-      <node ref="U6" pin="91"/>
-    </net>
-    <net code="196" name="P1.1">
-      <node ref="P12" pin="2"/>
-      <node ref="U6" pin="94"/>
-    </net>
-    <net code="197" name="P1.4">
-      <node ref="U6" pin="93"/>
-      <node ref="P12" pin="1"/>
-    </net>
-    <net code="198" name="Net-(IC4-Pad25)">
-      <node ref="J12" pin="2"/>
-      <node ref="IC4" pin="25"/>
-    </net>
-    <net code="199" name="Net-(IC4-Pad24)">
-      <node ref="J11" pin="2"/>
-      <node ref="IC4" pin="24"/>
-    </net>
-    <net code="200" name="Net-(IC4-Pad26)">
-      <node ref="J13" pin="2"/>
-      <node ref="IC4" pin="26"/>
-    </net>
-    <net code="201" name="Net-(IC4-Pad19)">
-      <node ref="IC4" pin="19"/>
-    </net>
-    <net code="202" name="~FAULT4">
-      <node ref="IC4" pin="18"/>
-    </net>
-    <net code="203" name="~HOME4">
-      <node ref="IC4" pin="27"/>
-    </net>
-    <net code="204" name="Net-(C42-Pad1)">
-      <node ref="C42" pin="1"/>
-      <node ref="IC4" pin="15"/>
+    <net code="204" name="/P2.7_FET">
+      <node ref="U24" pin="3"/>
+      <node ref="P2" pin="1"/>
     </net>
     <net code="205" name="Net-(D6-Pad1)">
       <node ref="R28" pin="2"/>
       <node ref="D6" pin="1"/>
     </net>
-    <net code="206" name="P2.4">
-      <node ref="U17" pin="2"/>
-      <node ref="U6" pin="69"/>
+    <net code="206" name="P1.10">
+      <node ref="P12" pin="3"/>
+      <node ref="U6" pin="90"/>
     </net>
-    <net code="207" name="P2.5">
-      <node ref="U17" pin="4"/>
-      <node ref="U6" pin="68"/>
+    <net code="207" name="P1.15">
+      <node ref="P12" pin="6"/>
+      <node ref="U6" pin="88"/>
     </net>
-    <net code="208" name="/P2.6_FET">
-      <node ref="U8" pin="3"/>
-      <node ref="P2" pin="3"/>
+    <net code="208" name="P1.9">
+      <node ref="U6" pin="91"/>
+      <node ref="P12" pin="4"/>
     </net>
-    <net code="209" name="/PWM1_FET">
-      <node ref="U7" pin="3"/>
-      <node ref="P2" pin="5"/>
+    <net code="209" name="P1.1">
+      <node ref="U6" pin="94"/>
+      <node ref="P12" pin="2"/>
     </net>
-    <net code="210" name="/PWM0_FET">
-      <node ref="P2" pin="7"/>
-      <node ref="U5" pin="3"/>
+    <net code="210" name="P1.4">
+      <node ref="P12" pin="1"/>
+      <node ref="U6" pin="93"/>
     </net>
-    <net code="211" name="Net-(U23-Pad5)">
-      <node ref="U23" pin="5"/>
+    <net code="211" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1"/>
+      <node ref="R55" pin="2"/>
     </net>
-    <net code="212" name="/P2.7_FET">
-      <node ref="U24" pin="3"/>
-      <node ref="P2" pin="1"/>
+    <net code="212" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1"/>
+      <node ref="R2" pin="2"/>
     </net>
   </nets>
 </export>

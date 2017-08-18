@@ -1,51 +1,56 @@
-Direkte link	Varenummer	Id	Designator	Package	Quantity	Designation	Supplier and ref																																																																																																																																																																																																																																												
-http://dk.rs-online.com/web/p/memory-og-sim-kort-stik/7206072/	720-6072 	4	U10	Lerche_Molex_502774-0891	1	MICRO-SD																																																																																																																																																																																																																																													
-http://dk.rs-online.com/web/p/mikrokontrollere/7257742/	725-7742 	6	U6	TQFP_100	1	LPC1769_TQFP100																																																																																																																																																																																																																																													
-		7	U2	U15	Lerche_SPST_ITEAD	2	SPST_MOMENTARY																																																																																																																																																																																																																																												
-		8	CONN1	Lerche_MINI_USB	1	USB_MINI																																																																																																																																																																																																																																													
-		9	D3	D4	D2	D1	D6	D7	D8	LED-0603	7	LED																																																																																																																																																																																																																																							
-		10	C10	C7	C4	C3	c_tant_A	4	10uF																																																																																																																																																																																																																																										
-		11	U3	Lerche_SOT23-3	1	BSS84																																																																																																																																																																																																																																													
-		12	C43	c_elec_5x5.8	1	47uF																																																																																																																																																																																																																																													
-		13	P8	Lerche_2P_5MM	1	CONN_2																																																																																																																																																																																																																																													
-http://www.aliexpress.com/item/IX4427N-IC-MOSFET-DRIVER-1-5A-8SOIC-4427-IX4427-10pcs/32446556231.html?spm=2114.031010208.3.11.Dhpt9y&ws_ab_test=201556_1,201527_1_71_72_73_74_75,0_0	IX4427	14	U17	U11	so-8	2	IX4427																																																																																																																																																																																																																																												
-http://dk.rs-online.com/web/p/tradviklede-spoler-til-overflademontering/7486707/	748-6707 	15	L2	Lerche_IHLP-1212BZ-11_Inductor	1	IHLP1212-10uH																																																																																																																																																																																																																																													
-		16	U23	U12	Lerche_MSOP-10	2	MCP4728																																																																																																																																																																																																																																												
-		17	J8	J6	J5	J3	J2	J11	J12	J9	J4	J7	J10	J13	J15	J16	J14	Lerche_2PsolderJumper	15	 																																																																																																																																																																																																																															
-		20	P12	Lerche_6P_1.6mm_2ROW	1	CONN_3X2																																																																																																																																																																																																																																													
-http://dk.rs-online.com/web/p/motor-driver-icer/7422873/	742-2873 	21	IC1	IC2	IC3	IC4	IC5	Lerche_TSSOP28_EP	5	DRV8825																																																																																																																																																																																																																																									
-		22	U1	U21	U22	U25	U13	U4	PIN_ARRAY_4x1	6	CONN_4_LERCHE																																																																																																																																																																																																																																								
-		23	P9	P5	P6	P7	P13	PIN_ARRAY_4x1	5	CONN_4																																																																																																																																																																																																																																									
-		24	K2	K4	K6	K1	K3	K5	K8	K9	PIN_ARRAY_3X1	8	CONN_3																																																																																																																																																																																																																																						
-		25	P1	Lerche_8P_2.54mm	1	CONN_8																																																																																																																																																																																																																																													
-		26																																																																																																																																																																																																																																															Lerche_via_0.35mm_GND_MaskOver	238	VAL**
-		27	U16	Lerche_4P_2.54mm	1	CONN_4_LERCHE																																																																																																																																																																																																																																													
-		28	U5	U7	U8	U24	Lerche_PQFN_5x6B	4	IRFH5302																																																																																																																																																																																																																																										
-		30	R3	R28	R2	R6	R5	R4	Lerche_R0603	6	1k																																																																																																																																																																																																																																								
-		31	R34	R10	R13	R12	Lerche_R0603	4	4K7																																																																																																																																																																																																																																										
-		32	R55	Lerche_R0603	1	5k8																																																																																																																																																																																																																																													
-		33	R9	R43	R42	R41	R27	R19	R18	R1	Lerche_R0603	8	10k																																																																																																																																																																																																																																						
-		34	R20	R14	R15	R16	Lerche_R0603	4	9k																																																																																																																																																																																																																																										
-		35	R45	R44	Lerche_R0603	2	3k3																																																																																																																																																																																																																																												
-		36	L1	Lerche_R0603	1	1uH																																																																																																																																																																																																																																													
-		37	R7	R8	Lerche_R0603	2	33R																																																																																																																																																																																																																																												
-		38	R11	Lerche_R0603	1	1k5																																																																																																																																																																																																																																													
-		39	C64	C69	C71	C65	C54	C53	C51	C52	C50	C46	C45	C44	C39	C34	C33	C32	C1	C2	C6	C17	C19	C22	C31	C30	C29	C28	C12	C13	C23	C15	C16	C14	C20	Lerche_C0603	33	100n																																																																																																																																																																																																													
-		40	C35	C68	C40	C42	C41	Lerche_C0603	5	470n																																																																																																																																																																																																																																									
-		41	C67	C8	C36	C38	C37	Lerche_C0603	5	10n																																																																																																																																																																																																																																									
-		42	C9	C5	Lerche_C0603	2	18p																																																																																																																																																																																																																																												
-		43	C18	Lerche_C0603	1	100pF																																																																																																																																																																																																																																													
-		44	D5	D9	Lerche_SOD323	2	DIODESCH																																																																																																																																																																																																																																												
-http://dk.rs-online.com/web/p/krystaloscillatorer/6719772/	671-9772 	45	OSC1	Lerche_Oscillator_2.5x2.0mm	1	QX2																																																																																																																																																																																																																																													
-		46	R35	Lerche_R0603	1	1M																																																																																																																																																																																																																																													
-		47	R36	Lerche_R0603	1	20R																																																																																																																																																																																																																																													
-		48	R38	Lerche_R0603	1	51k																																																																																																																																																																																																																																													
-		49	R40	Lerche_R0603	1	41k2																																																																																																																																																																																																																																													
-		50	R39	Lerche_R0603	1	13k																																																																																																																																																																																																																																													
-		51	IC6	Lerche_MP9943	1	MP9943																																																																																																																																																																																																																																													
-		52	C27	C24	C26	C25	C70	C11	C1V7	6	100uF																																																																																																																																																																																																																																								
-		53	K7	Lerche_3P_1.27MM	1	CONN_3																																																																																																																																																																																																																																													
-		54	R56	R57	R59	R58	Lerche_R0603	4	3k																																																																																																																																																																																																																																										
-		55	P11	pin_array_3x2	1	CONN_3X2																																																																																																																																																																																																																																													
-		56	P2	Lerche_8P_CONN_3	5mm	1	CONN_8																																																																																																																																																																																																																																												
-		57	R32	R31	R23	R29	R21	R24	R30	R22	R37	R33	Lerche_R1206	10	0R1																																																																																																																																																																																																																																				
+Id;Designator;Package;Quantity;Designation;Supplier and ref
+5;C39,C71,C69,C67,C65,C64,C54,C53,C52,C51,C50,C47,C46,C45,C44,C34,C33,C32,C31,C30,C29,C28,C23,C22,C21,C20,C19,C17,C16,C15,C14,C13,C12,C6,C2,C1,C35;Lerche_C0603;37;100n;
+6;U10;Lerche_Molex_502774-0891;1;MICRO-SD;
+11;C3,C4,C7,C10;TantalC_SizeA_EIA-3216_Reflow;4;10uF;
+12;C11,C24,C25,C26,C27,C70;C_Radial_D6.3_L11.2_P2.5;6;100uF;
+13;C43;c_elec_5x5.8;1;47uF;
+14;CONN1;Lerche_MINI_USB;1;USB_MINI;
+15;D5,D9;Lerche_SOD323;2;DIODESCH;
+16;FID1,FID2,FID3,FID4;Lerche_Fiducial;4;FIDUCIAL;
+17;IC6;Lerche_MP9943;1;MP9943;
+19;K7;Lerche_3P_1.27MM;1;CONN_3;
+20;L2;Lerche_IHLP-1212BZ-11_Inductor;1;IHLP1212BZER2R2M11;
+21;OSC1;Lerche_Oscillator_2.5x2.0mm;1;QX2;
+22;P1;Lerche_8P_2.54mm;1;CONN_8;
+23;P2;Lerche_8P_CONN_3,5mm;1;CONN_8;
+24;P5,P6,P7,P9,P13;Lerche_4P_2.54mm;5;CONN_4;
+25;P11;Pin_Header_Straight_2x03;1;CONN_3X2;
+26;P12;Lerche_6P_1.6mm_2ROW;1;CONN_3X2;
+27;U1,U4,U13,U16,U21,U22,U25;Lerche_4P_2.54mm;7;CONN_4_LERCHE;
+28;U2,U15;Lerche_SPST_ITEAD;2;SPST_MOMENTARY;
+29;U3;Lerche_SOT23-3;1;BSS84;
+30;U5,U7,U8,U24;Lerche_PQFN_5x6B;4;IRFH5302;
+31;U6;TQFP-100_14x14mm_Pitch0.5mm;1;LPC1768_TQFP100;
+32;U12,U23;Lerche_MSOP-10;2;MCP4728;
+33;C9,C5;Lerche_C0603;2;18p;
+34;C49;Lerche_C0603;1;1uF;
+35;C38;Lerche_C0603;1;10n;
+36;C37,C36,C8;Lerche_C0603;3;100nF;
+37;C18;Lerche_C0603;1;100pF;
+38;R59,R58,R57,R56;Lerche_R0603;4;10R;
+39;R55;Lerche_R0603;1;5k8;
+40;R45,R44;Lerche_R0603;2;3k3;
+41;R43,R42,R41,R27,R19,R18,R9,R1;Lerche_R0603;8;10k;
+42;R40;Lerche_R0603;1;41k2;
+43;R39;Lerche_R0603;1;13k;
+44;R38;Lerche_R0603;1;51k;
+45;R36;Lerche_R0603;1;20R;
+46;R35;Lerche_R0603;1;1M;
+47;R34,R13,R12,R10;Lerche_R0603;4;4K7;
+48;R28,R6,R5,R4,R3,R2;Lerche_R0603;6;1k;
+49;R20,R16,R15,R14;Lerche_R0603;4;47k;
+50;R11;Lerche_R0603;1;1k5;
+51;R8,R7;Lerche_R0603;2;33R;
+52;L1;Lerche_R0603;1;INDUCTOR;
+53;R37,R33,R32,R31,R30,R29,R24,R23,R22,R21;Lerche_R1206;10;0R05;
+54;R17;R_0805;1;1k;
+55;D10;SOD-123;1;Vz10V/0.5W;
+56;U9,U11;SOIC-8_3.9x4.9mm_Pitch1.27mm;2;TC4427;
+57;P8;Lerche_2x3P_3.5mm_Molex_UltraFit;1;CONN_02X03;
+58;R25,R26,R46,R47,R48;Lerche_R0603;5;0R;
+59;R49,R50,R51,R52;Lerche_R0603;4;4k7;
+60;D13,D14,D12,D11,D8,D7,D6,D4,D3,D2,D1;LED_0603;11;LED;
+61;C40,C41,C42,C48,C55;Lerche_C0603;5;220n;
+62;IC5,IC4,IC3,IC2,IC1;Lerche_TSSOP24_EP;5;A5984_LP;
+63;K1,K2,K3,K4,K5,K6,K8,K9;Lerche_3P_2.54mm;8;CONN_3;
+64;P3;Lerche_2P_2.54mm;1;CONN_01X02;

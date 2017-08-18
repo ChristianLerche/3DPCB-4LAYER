@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.2-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.4-stable)
 
   (general
     (links 1102)
     (no_connects 0)
-    (area 129.949999 135.449999 230.050001 195.550001)
+    (area 126.3326 131.4126 237.651491 199.8958)
     (thickness 1.6)
     (drawings 214)
     (tracks 1762)
@@ -74,6 +74,7 @@
     (pad_size 1.25 1.8)
     (pad_drill 0)
     (pad_to_mask_clearance 0)
+    (pad_to_paste_clearance_ratio -0.05)
     (aux_axis_origin 130 195.5)
     (grid_origin 130 195.5)
     (visible_elements 7FFC7FFF)
@@ -1049,6 +1050,7 @@
     (at 147.7 152 270)
     (tags "capacitor, 0603, ceramic")
     (path /524B3A72)
+    (attr smd)
     (fp_text reference C39 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -1227,6 +1229,7 @@
   (module LercheTech:Lerche_Molex_502774-0891 (layer F.Cu) (tedit 5281CFD1) (tstamp 5802B1C0)
     (at 190.1 187.5 180)
     (path /524B4F0F)
+    (attr smd)
     (fp_text reference U10 (at 9.7 0 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9107,6 +9110,7 @@
   (module LercheTech:Lerche_SOD323 (layer F.Cu) (tedit 52289617) (tstamp 5802AE59)
     (at 198.5 189.738 90)
     (path /524AC414)
+    (attr smd)
     (fp_text reference D5 (at 0 -5.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9126,6 +9130,7 @@
   (module LercheTech:Lerche_SOD323 (layer F.Cu) (tedit 52289617) (tstamp 5802AE6D)
     (at 210 167.6 180)
     (path /54FB2322)
+    (attr smd)
     (fp_text reference D9 (at 0 -5.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9145,6 +9150,7 @@
   (module LercheTech:Lerche_Fiducial (layer F.Cu) (tedit 54BD4A40) (tstamp 5802AE76)
     (at 138.9 190.6)
     (path /55F69685)
+    (attr smd)
     (fp_text reference FID1 (at -0.2 -3.4) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9158,6 +9164,7 @@
   (module LercheTech:Lerche_Fiducial (layer F.Cu) (tedit 54BD4A40) (tstamp 5802AE7B)
     (at 138.5 137.8)
     (path /55F69692)
+    (attr smd)
     (fp_text reference FID2 (at -0.2 -3.4) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9171,6 +9178,7 @@
   (module LercheTech:Lerche_Fiducial (layer F.Cu) (tedit 54BD4A40) (tstamp 5802AE80)
     (at 221 140.9)
     (path /55F69698)
+    (attr smd)
     (fp_text reference FID3 (at -0.2 -3.4) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9184,6 +9192,7 @@
   (module LercheTech:Lerche_Fiducial (layer F.Cu) (tedit 54BD4A40) (tstamp 5802AE85)
     (at 225.6 187.5)
     (path /55F6969E)
+    (attr smd)
     (fp_text reference FID4 (at -0.2 -3.4) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9197,6 +9206,7 @@
   (module LercheTech:Lerche_MP9943 (layer F.Cu) (tedit 55D82B97) (tstamp 5802AF26)
     (at 206.5 165.1 270)
     (path /55D6086C)
+    (attr smd)
     (fp_text reference IC6 (at 0 -4 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9229,6 +9239,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF4F)
     (at 148.9 151.9 90)
     (path /524B51BD)
+    (attr smd)
     (fp_text reference J2 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9244,6 +9255,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF54)
     (at 150.2 151.9 90)
     (path /524B51C3)
+    (attr smd)
     (fp_text reference J3 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9259,6 +9271,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF59)
     (at 151.5 151.9 90)
     (path /538A3718)
+    (attr smd)
     (fp_text reference J4 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9274,6 +9287,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF5E)
     (at 164.5 151.9 90)
     (path /538A861F)
+    (attr smd)
     (fp_text reference J5 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9289,6 +9303,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF63)
     (at 165.8 151.9 90)
     (path /538A8625)
+    (attr smd)
     (fp_text reference J6 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9304,6 +9319,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF68)
     (at 167.1 151.9 90)
     (path /538A8645)
+    (attr smd)
     (fp_text reference J7 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9319,6 +9335,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF6D)
     (at 180.1 151.9 90)
     (path /538A86B7)
+    (attr smd)
     (fp_text reference J8 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9334,6 +9351,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF72)
     (at 181.4 151.9 90)
     (path /538A86BD)
+    (attr smd)
     (fp_text reference J9 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9349,6 +9367,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF77)
     (at 182.7 151.9 90)
     (path /538A86DD)
+    (attr smd)
     (fp_text reference J10 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9364,6 +9383,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF7C)
     (at 195.7 151.9 90)
     (path /538A874F)
+    (attr smd)
     (fp_text reference J11 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9379,6 +9399,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF81)
     (at 197 151.9 90)
     (path /538A8755)
+    (attr smd)
     (fp_text reference J12 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9394,6 +9415,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF86)
     (at 198.3 151.9 90)
     (path /538A8775)
+    (attr smd)
     (fp_text reference J13 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9409,6 +9431,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF8B)
     (at 211.3 151.9 90)
     (path /53E4EAF7)
+    (attr smd)
     (fp_text reference J14 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9424,6 +9447,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF90)
     (at 212.6 151.9 90)
     (path /53E4EAFD)
+    (attr smd)
     (fp_text reference J15 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9439,6 +9463,7 @@
   (module LercheTech:Lerche_2PsolderJumper (layer F.Cu) (tedit 52E913BE) (tstamp 5802AF95)
     (at 213.9 151.9 90)
     (path /53E4EB1D)
+    (attr smd)
     (fp_text reference J16 (at 0 -5.4991 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9471,6 +9496,7 @@
   (module LercheTech:Lerche_IHLP-1212BZ-11_Inductor (layer F.Cu) (tedit 582EC3E1) (tstamp 5802AFD5)
     (at 202.5 168.4 180)
     (path /5260BF3A)
+    (attr smd)
     (fp_text reference L2 (at 2.9 -2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9492,6 +9518,7 @@
   (module LercheTech:Lerche_Oscillator_2.5x2.0mm (layer F.Cu) (tedit 550277C5) (tstamp 5802AFDA)
     (at 152.527 168.021 225)
     (path /55028477)
+    (attr smd)
     (fp_text reference OSC1 (at 0 -3.7 225) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -9785,6 +9812,7 @@
   (module LercheTech:Lerche_SPST_ITEAD (layer F.Cu) (tedit 51BFEFE6) (tstamp 5802B123)
     (at 218 190.3)
     (path /520119D9)
+    (attr smd)
     (fp_text reference U2 (at 0.29972 -14.351) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9806,6 +9834,7 @@
   (module LercheTech:Lerche_SOT23-3 (layer F.Cu) (tedit 51C07334) (tstamp 5802B128)
     (at 152.5 182.9 180)
     (path /524B1CD6)
+    (attr smd)
     (fp_text reference U3 (at 0 -6.59892 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -9852,6 +9881,7 @@
     (at 222.8 159.5)
     (tags IRFH5304TR2PBF)
     (path /524BF956)
+    (attr smd)
     (fp_text reference U5 (at 0 -5.6) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -10102,6 +10132,7 @@
     (at 222.8 167.5)
     (tags IRFH5304TR2PBF)
     (path /524BFC45)
+    (attr smd)
     (fp_text reference U7 (at 0 -5.6) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -10134,6 +10165,7 @@
     (at 222.8 175.5)
     (tags IRFH5304TR2PBF)
     (path /524C0A12)
+    (attr smd)
     (fp_text reference U8 (at 0 -5.6) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -10165,6 +10197,7 @@
   (module LercheTech:Lerche_MSOP-10 (layer F.Cu) (tedit 5269026E) (tstamp 5802B1D1)
     (at 182.372 167.894 270)
     (path /53E5DFFA)
+    (attr smd)
     (fp_text reference U12 (at -0.1 -9.5 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -10224,6 +10257,7 @@
   (module LercheTech:Lerche_SPST_ITEAD (layer F.Cu) (tedit 58CA5193) (tstamp 5802B1E5)
     (at 136.1 184.6 180)
     (path /52581C12)
+    (attr smd)
     (fp_text reference U15 (at 0.29972 -14.351 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.3048)))
     )
@@ -10314,6 +10348,7 @@
   (module LercheTech:Lerche_MSOP-10 (layer F.Cu) (tedit 5269026E) (tstamp 5802B1FF)
     (at 182.3 164.7 270)
     (path /5269312C)
+    (attr smd)
     (fp_text reference U23 (at -0.1 -9.5 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -10351,6 +10386,7 @@
     (at 222.8 183.5)
     (tags IRFH5304TR2PBF)
     (path /527BAFCD)
+    (attr smd)
     (fp_text reference U24 (at 0 -5.6) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -10406,6 +10442,7 @@
     (at 145.3 182.8 90)
     (tags "capacitor, 0603, ceramic")
     (path /524AC704)
+    (attr smd)
     (fp_text reference C9 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10429,6 +10466,7 @@
     (at 204.3 146.6 90)
     (tags "capacitor, 0603, ceramic")
     (path /53E62C00)
+    (attr smd)
     (fp_text reference C71 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10452,6 +10490,7 @@
     (at 210.1 152 270)
     (tags "capacitor, 0603, ceramic")
     (path /53E4EAE5)
+    (attr smd)
     (fp_text reference C69 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10475,6 +10514,7 @@
     (at 208.5 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /53E4EAF1)
+    (attr smd)
     (fp_text reference C67 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10498,6 +10538,7 @@
     (at 216.1 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /53E4EB04)
+    (attr smd)
     (fp_text reference C65 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10521,6 +10562,7 @@
     (at 132.8 181.4)
     (tags "capacitor, 0603, ceramic")
     (path /53E5FD48)
+    (attr smd)
     (fp_text reference C64 (at 0 -2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10544,6 +10586,7 @@
     (at 194.5 152 270)
     (tags "capacitor, 0603, ceramic")
     (path /538A873D)
+    (attr smd)
     (fp_text reference C54 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10567,6 +10610,7 @@
     (at 178.9 152 270)
     (tags "capacitor, 0603, ceramic")
     (path /538A86A5)
+    (attr smd)
     (fp_text reference C53 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10590,6 +10634,7 @@
     (at 163.3 152 270)
     (tags "capacitor, 0603, ceramic")
     (path /538A860D)
+    (attr smd)
     (fp_text reference C52 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10613,6 +10658,7 @@
     (at 153.7 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /52696F13)
+    (attr smd)
     (fp_text reference C51 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10636,6 +10682,7 @@
     (at 175.3 162.3)
     (tags "capacitor, 0603, ceramic")
     (path /52695CF1)
+    (attr smd)
     (fp_text reference C50 (at 0 -2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10659,6 +10706,7 @@
     (at 202.8 187.5)
     (tags "capacitor, 0603, ceramic")
     (path /58060414)
+    (attr smd)
     (fp_text reference C49 (at 0 -2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10682,6 +10730,7 @@
     (at 209.2 179.4 180)
     (tags "capacitor, 0603, ceramic")
     (path /5806D094)
+    (attr smd)
     (fp_text reference C47 (at 0 -2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10705,6 +10754,7 @@
     (at 186.1 176.5 90)
     (tags "capacitor, 0603, ceramic")
     (path /524E857C)
+    (attr smd)
     (fp_text reference C46 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10728,6 +10778,7 @@
     (at 136.2 156.1 270)
     (tags "capacitor, 0603, ceramic")
     (path /524E8576)
+    (attr smd)
     (fp_text reference C45 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10751,6 +10802,7 @@
     (at 189.5 176.2 270)
     (tags "capacitor, 0603, ceramic")
     (path /524E8570)
+    (attr smd)
     (fp_text reference C44 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10774,6 +10826,7 @@
     (at 192.9 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /538A8749)
+    (attr smd)
     (fp_text reference C38 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10797,6 +10850,7 @@
     (at 177.3 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /538A86B1)
+    (attr smd)
     (fp_text reference C37 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10820,6 +10874,7 @@
     (at 161.7 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /538A8619)
+    (attr smd)
     (fp_text reference C36 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10843,6 +10898,7 @@
     (at 200.5 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /538A875C)
+    (attr smd)
     (fp_text reference C34 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10866,6 +10922,7 @@
     (at 184.9 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /538A86C4)
+    (attr smd)
     (fp_text reference C33 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10889,6 +10946,7 @@
     (at 169.3 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /538A862C)
+    (attr smd)
     (fp_text reference C32 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10912,6 +10970,7 @@
     (at 157.5 146.6 90)
     (tags "capacitor, 0603, ceramic")
     (path /524C2981)
+    (attr smd)
     (fp_text reference C31 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10935,6 +10994,7 @@
     (at 141.9 146.6 90)
     (tags "capacitor, 0603, ceramic")
     (path /524C297B)
+    (attr smd)
     (fp_text reference C30 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10958,6 +11018,7 @@
     (at 188.7 146.6 90)
     (tags "capacitor, 0603, ceramic")
     (path /524C2975)
+    (attr smd)
     (fp_text reference C29 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -10981,6 +11042,7 @@
     (at 173.1 146.6 90)
     (tags "capacitor, 0603, ceramic")
     (path /524C263D)
+    (attr smd)
     (fp_text reference C28 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11004,6 +11066,7 @@
     (at 198.8 168.4)
     (tags "capacitor, 0603, ceramic")
     (path /524C31FD)
+    (attr smd)
     (fp_text reference C23 (at 0 -2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11027,6 +11090,7 @@
     (at 151.5 177 45)
     (tags "capacitor, 0603, ceramic")
     (path /524C31F7)
+    (attr smd)
     (fp_text reference C22 (at 0 -2 45) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11050,6 +11114,7 @@
     (at 209.2 184.8 180)
     (tags "capacitor, 0603, ceramic")
     (path /580648B6)
+    (attr smd)
     (fp_text reference C21 (at 0 -2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11073,6 +11138,7 @@
     (at 203.1 165.7 180)
     (tags "capacitor, 0603, ceramic")
     (path /55D62D53)
+    (attr smd)
     (fp_text reference C20 (at 0 -2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11096,6 +11162,7 @@
     (at 151.003 166.497 225)
     (tags "capacitor, 0603, ceramic")
     (path /5502848E)
+    (attr smd)
     (fp_text reference C19 (at 0 -2 225) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11119,6 +11186,7 @@
     (at 150.876 169.799 135)
     (tags "capacitor, 0603, ceramic")
     (path /524AC0CF)
+    (attr smd)
     (fp_text reference C18 (at 0 -2 135) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11142,6 +11210,7 @@
     (at 153.3 163.5 315)
     (tags "capacitor, 0603, ceramic")
     (path /524ACD38)
+    (attr smd)
     (fp_text reference C17 (at 0 -2 315) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11165,6 +11234,7 @@
     (at 166.7 163.2 225)
     (tags "capacitor, 0603, ceramic")
     (path /524C17C4)
+    (attr smd)
     (fp_text reference C16 (at 0 -2 225) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11188,6 +11258,7 @@
     (at 154.3 166.3 315)
     (tags "capacitor, 0603, ceramic")
     (path /524C17CA)
+    (attr smd)
     (fp_text reference C15 (at 0 -2 315) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11211,6 +11282,7 @@
     (at 173.6 177.5 180)
     (tags "capacitor, 0603, ceramic")
     (path /524C17D0)
+    (attr smd)
     (fp_text reference C14 (at 0 -2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11234,6 +11306,7 @@
     (at 166.5 183.5 135)
     (tags "capacitor, 0603, ceramic")
     (path /524C17D6)
+    (attr smd)
     (fp_text reference C13 (at 0 -2 135) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11257,6 +11330,7 @@
     (at 154.9 182.4 90)
     (tags "capacitor, 0603, ceramic")
     (path /524C17DC)
+    (attr smd)
     (fp_text reference C12 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11280,6 +11354,7 @@
     (at 146.1 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /524B3DEF)
+    (attr smd)
     (fp_text reference C8 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11303,6 +11378,7 @@
     (at 171.3 167.9 225)
     (tags "capacitor, 0603, ceramic")
     (path /524AD2DD)
+    (attr smd)
     (fp_text reference C6 (at 0 -2 225) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11326,6 +11402,7 @@
     (at 148.9 182.8 90)
     (tags "capacitor, 0603, ceramic")
     (path /524AC6FE)
+    (attr smd)
     (fp_text reference C5 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11349,6 +11426,7 @@
     (at 208 162 180)
     (tags "capacitor, 0603, ceramic")
     (path /524AD38F)
+    (attr smd)
     (fp_text reference C2 (at 0 -2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11372,6 +11450,7 @@
     (at 157 163.6 315)
     (tags "capacitor, 0603, ceramic")
     (path /524ADFCF)
+    (attr smd)
     (fp_text reference C1 (at 0 -2 315) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11394,6 +11473,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B117)
     (at 209.2 186.1)
     (path /55D87639)
+    (attr smd)
     (fp_text reference R59 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11416,6 +11496,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B112)
     (at 209.2 180.9)
     (path /55D8763F)
+    (attr smd)
     (fp_text reference R58 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11438,6 +11519,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B10D)
     (at 209.2 183.5)
     (path /55D87633)
+    (attr smd)
     (fp_text reference R57 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11460,6 +11542,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B108)
     (at 209.2 178.1)
     (path /55D86BBC)
+    (attr smd)
     (fp_text reference R56 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11482,6 +11565,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B103)
     (at 205.1 160.4 180)
     (path /5343EF38)
+    (attr smd)
     (fp_text reference R55 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11504,6 +11588,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0FE)
     (at 142.4 180.7 90)
     (path /5258FC56)
+    (attr smd)
     (fp_text reference R45 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11526,6 +11611,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0F9)
     (at 143.9 180.7 90)
     (path /5258FBE5)
+    (attr smd)
     (fp_text reference R44 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11548,6 +11634,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0F4)
     (at 186.8 174.4)
     (path /52584B66)
+    (attr smd)
     (fp_text reference R43 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11570,6 +11657,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0EF)
     (at 191.7 174.3 90)
     (path /52584B60)
+    (attr smd)
     (fp_text reference R42 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11592,6 +11680,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0EA)
     (at 186.8 173.2)
     (path /52584B5A)
+    (attr smd)
     (fp_text reference R41 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11614,6 +11703,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0E5)
     (at 212.9 165 270)
     (path /55D63E2C)
+    (attr smd)
     (fp_text reference R40 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11636,6 +11726,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0E0)
     (at 211.7 165 90)
     (path /55D63E32)
+    (attr smd)
     (fp_text reference R39 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11658,6 +11749,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0DB)
     (at 210.5 165 270)
     (path /55D63E21)
+    (attr smd)
     (fp_text reference R38 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11680,6 +11772,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0D1)
     (at 203.1 164 180)
     (path /55D62FF8)
+    (attr smd)
     (fp_text reference R36 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11702,6 +11795,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0CC)
     (at 209.3 165 270)
     (path /55D62441)
+    (attr smd)
     (fp_text reference R35 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11724,6 +11818,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0C7)
     (at 136.2 174.1 270)
     (path /53F7343E)
+    (attr smd)
     (fp_text reference R34 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11746,6 +11841,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0A9)
     (at 138.4 180.6 270)
     (path /52582C86)
+    (attr smd)
     (fp_text reference R28 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11768,6 +11864,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B0A4)
     (at 140 180.6 270)
     (path /52581C18)
+    (attr smd)
     (fp_text reference R27 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11790,6 +11887,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B08B)
     (at 216.4 185.4 180)
     (path /527BAFDA)
+    (attr smd)
     (fp_text reference R20 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11812,6 +11910,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B086)
     (at 175.3 163.5 180)
     (path /52693379)
+    (attr smd)
     (fp_text reference R19 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11834,6 +11933,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B081)
     (at 175.3 164.7 180)
     (path /5269337F)
+    (attr smd)
     (fp_text reference R18 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11856,6 +11956,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B07C)
     (at 216.4 177.4 180)
     (path /524C0A1F)
+    (attr smd)
     (fp_text reference R16 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11878,6 +11979,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B077)
     (at 216.4 169.4 180)
     (path /524BFF2E)
+    (attr smd)
     (fp_text reference R15 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11900,6 +12002,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B072)
     (at 216.4 161.4 180)
     (path /524BFF34)
+    (attr smd)
     (fp_text reference R14 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11922,6 +12025,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B06D)
     (at 136.2 158.9 270)
     (path /524BE1D8)
+    (attr smd)
     (fp_text reference R13 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11944,6 +12048,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B068)
     (at 136.2 163.9 270)
     (path /524BE1D2)
+    (attr smd)
     (fp_text reference R12 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11966,6 +12071,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B063)
     (at 150.1 182.8 90)
     (path /524B1CE3)
+    (attr smd)
     (fp_text reference R11 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -11988,6 +12094,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B05E)
     (at 136.2 169 270)
     (path /524BE1CC)
+    (attr smd)
     (fp_text reference R10 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12010,6 +12117,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B059)
     (at 165.7 184.3 135)
     (path /52E2658F)
+    (attr smd)
     (fp_text reference R9 (at 0 -2.1 135) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12032,6 +12140,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B054)
     (at 147.7 182.8 90)
     (path /524AC611)
+    (attr smd)
     (fp_text reference R8 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12054,6 +12163,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B04F)
     (at 146.5 182.8 90)
     (path /524AC60B)
+    (attr smd)
     (fp_text reference R7 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12076,6 +12186,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B04A)
     (at 134.8 152.2 180)
     (path /524B2393)
+    (attr smd)
     (fp_text reference R6 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12098,6 +12209,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B045)
     (at 134.8 149.7 180)
     (path /524B23B4)
+    (attr smd)
     (fp_text reference R5 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12120,6 +12232,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B040)
     (at 134.8 147.2 180)
     (path /524B23BA)
+    (attr smd)
     (fp_text reference R4 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12142,6 +12255,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B03B)
     (at 134.8 144.6 180)
     (path /524B23C0)
+    (attr smd)
     (fp_text reference R3 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12164,6 +12278,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B036)
     (at 205.1 162 180)
     (path /5343EF32)
+    (attr smd)
     (fp_text reference R2 (at 0 -2.1 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12186,6 +12301,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802B031)
     (at 156.1 164.5 315)
     (path /524AC30E)
+    (attr smd)
     (fp_text reference R1 (at 0 -2.1 315) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12208,6 +12324,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5802AFD0)
     (at 155.2 165.4 315)
     (path /524AC987)
+    (attr smd)
     (fp_text reference L1 (at 0 -2.1 315) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12230,6 +12347,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA35E) (tstamp 5802B0D6)
     (at 152.41 140.46)
     (path /524B2E46)
+    (attr smd)
     (fp_text reference R37 (at 0 -3.2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12252,6 +12370,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA357) (tstamp 5802B0C2)
     (at 146.99 140.46 180)
     (path /524B2E40)
+    (attr smd)
     (fp_text reference R33 (at 0 -3.2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12274,6 +12393,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA395) (tstamp 5802B0BD)
     (at 214.81 140.46)
     (path /53E4EAD3)
+    (attr smd)
     (fp_text reference R32 (at 0 -3.2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12296,6 +12416,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA390) (tstamp 5802B0B8)
     (at 209.39 140.46 180)
     (path /53E4EACD)
+    (attr smd)
     (fp_text reference R31 (at 0 -3.2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12318,6 +12439,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA389) (tstamp 5802B0B3)
     (at 199.21 140.46)
     (path /538A872B)
+    (attr smd)
     (fp_text reference R30 (at 0 -3.2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12340,6 +12462,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA37D) (tstamp 5802B0AE)
     (at 183.61 140.46)
     (path /538A8693)
+    (attr smd)
     (fp_text reference R29 (at 0 -3.2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12362,6 +12485,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA36D) (tstamp 5802B09F)
     (at 168.01 140.46)
     (path /538A85FB)
+    (attr smd)
     (fp_text reference R24 (at 0 -3.2) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12384,6 +12508,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA382) (tstamp 5802B09A)
     (at 193.79 140.46 180)
     (path /538A8725)
+    (attr smd)
     (fp_text reference R23 (at 0 -3.2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12406,6 +12531,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA378) (tstamp 5802B095)
     (at 178.19 140.46 180)
     (path /538A868D)
+    (attr smd)
     (fp_text reference R22 (at 0 -3.2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12428,6 +12554,7 @@
   (module LercheTech:Lerche_R1206 (layer F.Cu) (tedit 584AA366) (tstamp 5802B090)
     (at 162.59 140.46 180)
     (path /538A85F5)
+    (attr smd)
     (fp_text reference R21 (at 0 -3.2 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     )
@@ -12648,6 +12775,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5851C660)
     (at 156.5 152 270)
     (path /5851CAAF)
+    (attr smd)
     (fp_text reference R25 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12670,6 +12798,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5851C668)
     (at 187.7 152 270)
     (path /58526A4E)
+    (attr smd)
     (fp_text reference R26 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12692,6 +12821,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5851C670)
     (at 203.3 152 270)
     (path /58528BDB)
+    (attr smd)
     (fp_text reference R46 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12714,6 +12844,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5851C678)
     (at 218.5 152 270)
     (path /5852AFE8)
+    (attr smd)
     (fp_text reference R47 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12736,6 +12867,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 5851C680)
     (at 172.1 152 270)
     (path /5851E6EB)
+    (attr smd)
     (fp_text reference R48 (at 0 -2.1 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12758,6 +12890,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 58777D36)
     (at 218.4 163.6)
     (path /5879127B)
+    (attr smd)
     (fp_text reference R49 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12780,6 +12913,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 58777D3C)
     (at 219.8 170.7)
     (path /5879F744)
+    (attr smd)
     (fp_text reference R50 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12802,6 +12936,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 58777D42)
     (at 219.6 178.6)
     (path /5879B769)
+    (attr smd)
     (fp_text reference R51 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -12824,6 +12959,7 @@
   (module LercheTech:Lerche_R0603 (layer F.Cu) (tedit 53F71D9E) (tstamp 58777D48)
     (at 219.7 186.8)
     (path /587A1BB4)
+    (attr smd)
     (fp_text reference R52 (at 0 -2.1) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -13265,6 +13401,7 @@
     (at 143.6 156.2 270)
     (tags "capacitor, 0603, ceramic")
     (path /587D374F)
+    (attr smd)
     (fp_text reference C35 (at 0 -2 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -13288,6 +13425,7 @@
     (at 144.6 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /58B5A292)
+    (attr smd)
     (fp_text reference C40 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -13311,6 +13449,7 @@
     (at 160.2 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /58B5B680)
+    (attr smd)
     (fp_text reference C41 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -13334,6 +13473,7 @@
     (at 175.8 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /58B5DB46)
+    (attr smd)
     (fp_text reference C42 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -13357,6 +13497,7 @@
     (at 191.4 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /58B6132C)
+    (attr smd)
     (fp_text reference C48 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -13380,6 +13521,7 @@
     (at 207 152 90)
     (tags "capacitor, 0603, ceramic")
     (path /58B63D7F)
+    (attr smd)
     (fp_text reference C55 (at 0 -2 90) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
@@ -13402,6 +13544,7 @@
   (module LercheTech:Lerche_TSSOP24_EP (layer F.Cu) (tedit 58CA5341) (tstamp 5847FE7F)
     (at 212.1 146.3)
     (path /58498C5F)
+    (attr smd)
     (fp_text reference IC5 (at 0 -6.8) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -13475,6 +13618,7 @@
   (module LercheTech:Lerche_TSSOP24_EP (layer F.Cu) (tedit 58CA5341) (tstamp 5847FE57)
     (at 196.5 146.3)
     (path /584C38BF)
+    (attr smd)
     (fp_text reference IC4 (at 0 -6.8) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -13548,6 +13692,7 @@
   (module LercheTech:Lerche_TSSOP24_EP (layer F.Cu) (tedit 58CA5341) (tstamp 5847FE2F)
     (at 180.9 146.3)
     (path /584E73F3)
+    (attr smd)
     (fp_text reference IC3 (at 0 -6.8) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -13621,6 +13766,7 @@
   (module LercheTech:Lerche_TSSOP24_EP (layer F.Cu) (tedit 58CA5341) (tstamp 5847FE07)
     (at 165.3 146.3)
     (path /58503005)
+    (attr smd)
     (fp_text reference IC2 (at 0 -6.8) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -13694,6 +13840,7 @@
   (module LercheTech:Lerche_TSSOP24_EP (layer F.Cu) (tedit 58CA5341) (tstamp 5847FDDF)
     (at 149.7 146.3)
     (path /5851E067)
+    (attr smd)
     (fp_text reference IC1 (at 0 -6.8) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
@@ -13983,6 +14130,7 @@
 
   (module LercheTech:3DPCB_LOGO (layer F.Cu) (tedit 58CB8B76) (tstamp 58CBA1F0)
     (at 177 178.2 45)
+    (attr smd)
     (fp_text reference G*** (at 0 -6.35 45) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )

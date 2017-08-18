@@ -1,0 +1,448 @@
+### Module positions - created on 03/31/17 13:35:17 ###
+### Printed by Pcbnew version kicad 4.0.4-stable
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                              PosX       PosY       Rot  Side
+C1        100n                Lerche_C0603                      27.0000    31.9000  315.0000  top
+C2        100n                Lerche_C0603                      78.0000    33.5000  180.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    56.4000    57.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    56.4000    56.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    45.4000    56.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    45.4000    57.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.8000    56.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.8000    57.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    29.8000    56.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    29.8000    57.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.2000    56.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.2000    57.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    14.2000    56.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    14.2000    57.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    92.5000    15.0000    0.0000  top
+C7        10uF                TantalC_SizeA_EIA-3216_Reflow      4.5000    29.4000  270.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.0000    57.5000    0.0000  top
+C3        10uF                TantalC_SizeA_EIA-3216_Reflow      4.5000    19.2000  270.0000  top
+C4        10uF                TantalC_SizeA_EIA-3216_Reflow      4.5000    24.3000  270.0000  top
+C5        18p                 Lerche_C0603                      18.9000    12.7000   90.0000  top
+C6        100n                Lerche_C0603                      41.3000    27.6000  225.0000  top
+C8        100nF               Lerche_C0603                      16.1000    43.5000   90.0000  top
+C9        18p                 Lerche_C0603                      15.3000    12.7000   90.0000  top
+C10       10uF                TantalC_SizeA_EIA-3216_Reflow      4.5000    34.5000  270.0000  top
+C12       100n                Lerche_C0603                      24.9000    13.1000   90.0000  top
+C13       100n                Lerche_C0603                      36.5000    12.0000  135.0000  top
+C14       100n                Lerche_C0603                      43.6000    18.0000  180.0000  top
+C15       100n                Lerche_C0603                      24.3000    29.2000  315.0000  top
+C16       100n                Lerche_C0603                      36.7000    32.3000  225.0000  top
+C17       100n                Lerche_C0603                      23.3000    32.0000  315.0000  top
+C18       100pF               Lerche_C0603                      20.8760    25.7010  135.0000  top
+C19       100n                Lerche_C0603                      21.0030    29.0030  225.0000  top
+C20       100n                Lerche_C0603                      73.1000    29.8000  180.0000  top
+C21       100n                Lerche_C0603                      79.2000    10.7000  180.0000  top
+C22       100n                Lerche_C0603                      21.5000    18.5000   45.0000  top
+C23       100n                Lerche_C0603                      68.8000    27.1000    0.0000  top
+C28       100n                Lerche_C0603                      43.1000    48.9000   90.0000  top
+C29       100n                Lerche_C0603                      58.7000    48.9000   90.0000  top
+C30       100n                Lerche_C0603                      11.9000    48.9000   90.0000  top
+C31       100n                Lerche_C0603                      27.5000    48.9000   90.0000  top
+C32       100n                Lerche_C0603                      39.3000    43.5000   90.0000  top
+C33       100n                Lerche_C0603                      54.9000    43.5000   90.0000  top
+C34       100n                Lerche_C0603                      70.5000    43.5000   90.0000  top
+C36       100nF               Lerche_C0603                      31.7000    43.5000   90.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    67.2000     3.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    83.9000    10.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    83.1000    17.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    82.5000    15.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    82.7000    19.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    86.2000    24.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    93.8000    32.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    35.0000    26.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    36.8000    24.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    64.7000     1.1000    0.0000  top
+C35       100n                Lerche_C0603                      13.6000    39.3000  270.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    80.4000    35.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    64.7000     3.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.4000     3.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    58.0000     3.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    56.5000    47.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.9000    21.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver     7.3000    21.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver     2.0000    12.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver     9.0000    19.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver     6.0000    19.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.5000     8.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    41.5000    41.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.0000    56.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    72.0000    57.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    72.0000    56.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    76.6000    56.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    76.6000    57.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.6000    56.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.6000    57.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    71.6000    42.3500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    57.1000    41.8500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    56.2000    45.0000    0.0000  top
+C37       100nF               Lerche_C0603                      47.3000    43.5000   90.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.1000    44.7500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    23.0000    48.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    17.1000    37.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    19.3520    38.0200    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    26.8000    46.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    37.4000    42.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    43.4820    41.8300    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    32.8000    39.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    48.4000    39.4000    0.0000  top
+C38       10n                 Lerche_C0603                      62.9000    43.5000   90.0000  top
+C40       220n                Lerche_C0603                      14.6000    43.5000   90.0000  top
+C41       220n                Lerche_C0603                      30.2000    43.5000   90.0000  top
+C42       220n                Lerche_C0603                      45.8000    43.5000   90.0000  top
+C43       47uF                c_elec_5x5.8                      73.1000    22.3000  180.0000  top
+C44       100n                Lerche_C0603                      59.5000    19.3000  270.0000  top
+C45       100n                Lerche_C0603                       6.2000    39.4000  270.0000  top
+C46       100n                Lerche_C0603                      56.1000    19.0000   90.0000  top
+C47       100n                Lerche_C0603                      79.2000    16.1000  180.0000  top
+C48       220n                Lerche_C0603                      61.4000    43.5000   90.0000  top
+C49       1uF                 Lerche_C0603                      72.8000     8.0000    0.0000  top
+C50       100n                Lerche_C0603                      45.3000    33.2000    0.0000  top
+C51       100n                Lerche_C0603                      23.7000    43.5000   90.0000  top
+C52       100n                Lerche_C0603                      33.3000    43.5000  270.0000  top
+C53       100n                Lerche_C0603                      48.9000    43.5000  270.0000  top
+C54       100n                Lerche_C0603                      64.5000    43.5000  270.0000  top
+C55       220n                Lerche_C0603                      77.0000    43.5000   90.0000  top
+C64       100n                Lerche_C0603                       2.8000    14.1000    0.0000  top
+C65       100n                Lerche_C0603                      86.1000    43.5000   90.0000  top
+C67       100n                Lerche_C0603                      78.5000    43.5000   90.0000  top
+C69       100n                Lerche_C0603                      80.1000    43.5000  270.0000  top
+C71       100n                Lerche_C0603                      74.3000    48.9000   90.0000  top
+D1        LED                 LED_0603                           7.5000    50.9000    0.0000  top
+D2        LED                 LED_0603                           7.5000    48.3000    0.0000  top
+D3        LED                 LED_0603                           7.5000    45.8000    0.0000  top
+D4        LED                 LED_0603                           7.5000    43.3000    0.0000  top
+D5        DIODESCH            Lerche_SOD323                     68.5000     5.7620   90.0000  top
+D6        LED                 LED_0603                           6.1000    14.1000  180.0000  top
+D7        LED                 LED_0603                          71.6000    33.5000  180.0000  top
+D8        LED                 LED_0603                          71.6000    35.1000  180.0000  top
+D9        DIODESCH            Lerche_SOD323                     80.0000    27.9000  180.0000  top
+D10       Vz10V/0.5W          SOD-123                           72.2000     6.4000  180.0000  top
+D11       LED                 LED_0603                          92.7000    24.8000    0.0000  top
+D12       LED                 LED_0603                          93.1000     8.7000    0.0000  top
+D13       LED                 LED_0603                          92.0000    32.7000    0.0000  top
+D14       LED                 LED_0603                          92.3000    16.6000    0.0000  top
+FID1      FIDUCIAL            Lerche_Fiducial                    8.9000     4.9000    0.0000  top
+FID2      FIDUCIAL            Lerche_Fiducial                    8.5000    57.7000    0.0000  top
+FID3      FIDUCIAL            Lerche_Fiducial                   91.0000    54.6000    0.0000  top
+FID4      FIDUCIAL            Lerche_Fiducial                   95.6000     8.0000    0.0000  top
+G***      3DPCB_LOGO          3DPCB_LOGO                        47.0000    17.3000   45.0000  top
+IC1       A5984_LP            Lerche_TSSOP24_EP                 19.7000    49.2000    0.0000  top
+IC2       A5984_LP            Lerche_TSSOP24_EP                 35.3000    49.2000    0.0000  top
+IC3       A5984_LP            Lerche_TSSOP24_EP                 50.9000    49.2000    0.0000  top
+IC4       A5984_LP            Lerche_TSSOP24_EP                 66.5000    49.2000    0.0000  top
+IC5       A5984_LP            Lerche_TSSOP24_EP                 82.1000    49.2000    0.0000  top
+IC6       MP9943              Lerche_MP9943                     76.5000    30.4000  270.0000  top
+J2                            Lerche_2PsolderJumper             18.9000    43.6000   90.0000  top
+J3                            Lerche_2PsolderJumper             20.2000    43.6000   90.0000  top
+J4                            Lerche_2PsolderJumper             21.5000    43.6000   90.0000  top
+J5                            Lerche_2PsolderJumper             34.5000    43.6000   90.0000  top
+J6                            Lerche_2PsolderJumper             35.8000    43.6000   90.0000  top
+J7                            Lerche_2PsolderJumper             37.1000    43.6000   90.0000  top
+J8                            Lerche_2PsolderJumper             50.1000    43.6000   90.0000  top
+J9                            Lerche_2PsolderJumper             51.4000    43.6000   90.0000  top
+J10                           Lerche_2PsolderJumper             52.7000    43.6000   90.0000  top
+J11                           Lerche_2PsolderJumper             65.7000    43.6000   90.0000  top
+J12                           Lerche_2PsolderJumper             67.0000    43.6000   90.0000  top
+J13                           Lerche_2PsolderJumper             68.3000    43.6000   90.0000  top
+J14                           Lerche_2PsolderJumper             81.3000    43.6000   90.0000  top
+J15                           Lerche_2PsolderJumper             82.6000    43.6000   90.0000  top
+J16                           Lerche_2PsolderJumper             83.9000    43.6000   90.0000  top
+L1        INDUCTOR            Lerche_R0603                      25.2000    30.1000  315.0000  top
+L2        IHLP1212BZER2R2M11  Lerche_IHLP-1212BZ-11_Inductor    72.5000    27.1000  180.0000  top
+OSC1      QX2                 Lerche_Oscillator_2.5x2.0mm       22.5270    27.4790  225.0000  top
+R1        10k                 Lerche_R0603                      26.1000    31.0000  315.0000  top
+R2        1k                  Lerche_R0603                      75.1000    33.5000  180.0000  top
+R3        1k                  Lerche_R0603                       4.8000    50.9000  180.0000  top
+R4        1k                  Lerche_R0603                       4.8000    48.3000  180.0000  top
+R5        1k                  Lerche_R0603                       4.8000    45.8000  180.0000  top
+R6        1k                  Lerche_R0603                       4.8000    43.3000  180.0000  top
+R7        33R                 Lerche_R0603                      16.5000    12.7000   90.0000  top
+R8        33R                 Lerche_R0603                      17.7000    12.7000   90.0000  top
+R9        10k                 Lerche_R0603                      35.7000    11.2000  135.0000  top
+R10       4K7                 Lerche_R0603                       6.2000    26.5000  270.0000  top
+R11       1k5                 Lerche_R0603                      20.1000    12.7000   90.0000  top
+R12       4K7                 Lerche_R0603                       6.2000    31.6000  270.0000  top
+R13       4K7                 Lerche_R0603                       6.2000    36.6000  270.0000  top
+R14       47k                 Lerche_R0603                      86.4000    34.1000  180.0000  top
+R15       47k                 Lerche_R0603                      86.4000    26.1000  180.0000  top
+R16       47k                 Lerche_R0603                      86.4000    18.1000  180.0000  top
+R17       1k                  R_0805                            76.5000     6.4000  180.0000  top
+R18       10k                 Lerche_R0603                      45.3000    30.8000  180.0000  top
+R19       10k                 Lerche_R0603                      45.3000    32.0000  180.0000  top
+R20       47k                 Lerche_R0603                      86.4000    10.1000  180.0000  top
+R21       0R05                Lerche_R1206                      32.5900    55.0400  180.0000  top
+R22       0R05                Lerche_R1206                      48.1900    55.0400  180.0000  top
+R23       0R05                Lerche_R1206                      63.7900    55.0400  180.0000  top
+R24       0R05                Lerche_R1206                      38.0100    55.0400    0.0000  top
+R25       0R                  Lerche_R0603                      26.5000    43.5000  270.0000  top
+R26       0R                  Lerche_R0603                      57.7000    43.5000  270.0000  top
+R27       10k                 Lerche_R0603                      10.0000    14.9000  270.0000  top
+R28       1k                  Lerche_R0603                       8.4000    14.9000  270.0000  top
+R29       0R05                Lerche_R1206                      53.6100    55.0400    0.0000  top
+R30       0R05                Lerche_R1206                      69.2100    55.0400    0.0000  top
+R31       0R05                Lerche_R1206                      79.3900    55.0400  180.0000  top
+R32       0R05                Lerche_R1206                      84.8100    55.0400    0.0000  top
+R33       0R05                Lerche_R1206                      16.9900    55.0400  180.0000  top
+R34       4K7                 Lerche_R0603                       6.2000    21.4000  270.0000  top
+R35       1M                  Lerche_R0603                      79.3000    30.5000  270.0000  top
+R36       20R                 Lerche_R0603                      73.1000    31.5000  180.0000  top
+R37       0R05                Lerche_R1206                      22.4100    55.0400    0.0000  top
+R38       51k                 Lerche_R0603                      80.5000    30.5000  270.0000  top
+R39       13k                 Lerche_R0603                      81.7000    30.5000   90.0000  top
+R40       41k2                Lerche_R0603                      82.9000    30.5000  270.0000  top
+R41       10k                 Lerche_R0603                      56.8000    22.3000    0.0000  top
+R42       10k                 Lerche_R0603                      61.7000    21.2000   90.0000  top
+R43       10k                 Lerche_R0603                      56.8000    21.1000    0.0000  top
+R44       3k3                 Lerche_R0603                      13.9000    14.8000   90.0000  top
+R45       3k3                 Lerche_R0603                      12.4000    14.8000   90.0000  top
+R46       0R                  Lerche_R0603                      73.3000    43.5000  270.0000  top
+R47       0R                  Lerche_R0603                      88.5000    43.5000  270.0000  top
+R48       0R                  Lerche_R0603                      42.1000    43.5000  270.0000  top
+R49       4k7                 Lerche_R0603                      88.4000    31.9000    0.0000  top
+R50       4k7                 Lerche_R0603                      89.8000    24.8000    0.0000  top
+R51       4k7                 Lerche_R0603                      89.6000    16.9000    0.0000  top
+R52       4k7                 Lerche_R0603                      89.7000     8.7000    0.0000  top
+R55       5k8                 Lerche_R0603                      75.1000    35.1000  180.0000  top
+R56       10R                 Lerche_R0603                      79.2000    17.4000    0.0000  top
+R57       10R                 Lerche_R0603                      79.2000    12.0000    0.0000  top
+R58       10R                 Lerche_R0603                      79.2000    14.6000    0.0000  top
+R59       10R                 Lerche_R0603                      79.2000     9.4000    0.0000  top
+U2        SPST_MOMENTARY      Lerche_SPST_ITEAD                 88.0000     5.2000    0.0000  top
+U3        BSS84               Lerche_SOT23-3                    22.5000    12.6000  180.0000  top
+U5        IRFH5302            Lerche_PQFN_5x6B                  92.8000    36.0000    0.0000  top
+U6        LPC1768_TQFP100     TQFP-100_14x14mm_Pitch0.5mm       32.5000    22.0000  315.0000  top
+U7        IRFH5302            Lerche_PQFN_5x6B                  92.8000    28.0000    0.0000  top
+U8        IRFH5302            Lerche_PQFN_5x6B                  92.8000    20.0000    0.0000  top
+U9        TC4427              SOIC-8_3.9x4.9mm_Pitch1.27mm      73.4000    16.7000    0.0000  top
+U11       TC4427              SOIC-8_3.9x4.9mm_Pitch1.27mm      73.4000    11.3000    0.0000  top
+U12       MCP4728             Lerche_MSOP-10                    52.3720    27.6060  270.0000  top
+U15       SPST_MOMENTARY      Lerche_SPST_ITEAD                  6.1000    10.9000  180.0000  top
+U23       MCP4728             Lerche_MSOP-10                    52.3000    30.8000  270.0000  top
+U24       IRFH5302            Lerche_PQFN_5x6B                  92.8000    12.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    24.3000    22.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    29.1000    43.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    13.4000    42.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    30.6000    45.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    28.9000    38.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    26.2000    38.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    34.6000    35.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    27.7000    34.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    30.3000    35.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    18.9710    24.0500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.9000    23.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.9000    22.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.3000    21.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    24.9000    23.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.8000    49.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    20.3000    22.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    17.3000    15.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    15.8000    14.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    47.0000    28.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    79.6000     8.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    74.4000    46.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    77.6000    50.6500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    59.8000    50.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    57.9000    45.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    44.2000    50.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.9500    47.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    47.3500    49.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    25.1000    46.7500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    46.9000    35.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    71.7000    45.0500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.0000    47.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    60.3000    41.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.0000    45.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    56.0500    48.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    55.9000    50.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.9500    48.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    42.1000    45.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    45.9000    50.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    44.5000    44.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    42.2000    38.0500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    43.3500    39.3500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    44.8000    37.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    27.5000    47.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    44.9000    35.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    42.3000    33.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    42.7000    35.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.4000    35.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    37.9000    37.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    30.6000    46.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    18.8000    34.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    19.0000    36.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    14.6000    36.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    13.3000    35.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    13.4000    44.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    14.2000    47.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    26.1500    41.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    93.7000    42.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    54.4000    48.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    71.6000    48.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    71.3500    50.5500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    77.3000    38.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    73.3000    40.4500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    67.6500    36.4500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    63.9000    37.8500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    68.8500    37.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    71.0500    30.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.3500    28.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    59.6000    28.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    90.6000    45.3500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    90.6000    42.2000    0.0000  top
+C39       100n                Lerche_C0603                      17.7000    43.5000  270.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    93.7000    45.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    93.7000    48.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    94.9000    49.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    95.3000    52.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    96.9000    52.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    98.6000    52.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    98.7000    50.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.9000    44.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    72.8000    46.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    74.5000    44.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    74.9000    40.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    83.4000    42.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    78.8000    49.2000    0.0000  top
+                              Lerche_via_0.35_GND               75.7000    13.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    11.9000    47.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    12.8000    50.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    47.0000    27.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    47.0000    30.1000    0.0000  top
+                              Lerche_via_0.35_GND               38.3000    23.9000    0.0000  top
+                              Lerche_via_0.35_GND               71.2000    19.0000    0.0000  top
+                              Lerche_via_0.35_GND               74.4000    10.0000    0.0000  top
+                              Lerche_via_0.35_GND               73.3000    11.8000    0.0000  top
+                              Lerche_via_0.35_GND               73.0000     7.9000    0.0000  top
+                              Lerche_via_0.35_GND               79.5000    15.1000    0.0000  top
+                              Lerche_via_0.35_GND               70.2000    19.0000    0.0000  top
+                              Lerche_via_0.35_GND               70.9000    17.2000    0.0000  top
+                              Lerche_via_0.35_GND               71.8000    19.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    71.7000    41.0000    0.0000  top
+                              Lerche_via_0.35_GND               72.2000    14.5000    0.0000  top
+                              Lerche_via_0.35_GND               68.8000    14.7000    0.0000  top
+                              Lerche_via_0.35_GND               67.6000     9.0000    0.0000  top
+                              Lerche_via_0.35_GND               67.6000    10.0000    0.0000  top
+                              Lerche_via_0.35_GND               39.1000    35.3000    0.0000  top
+                              Lerche_via_0.35_GND               38.0000     9.1000    0.0000  top
+                              Lerche_via_0.35_GND               37.2000     9.9000    0.0000  top
+                              Lerche_via_0.35_GND               53.2000    12.2000    0.0000  top
+                              Lerche_via_0.35_GND               52.3000     9.4000    0.0000  top
+                              Lerche_via_0.35_GND               39.2000    24.5000    0.0000  top
+                              Lerche_via_0.35_GND               70.8000    13.6000    0.0000  top
+U10       MICRO-SD            Lerche_Molex_502774-0891          60.1000     8.0000  180.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    67.5000    16.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    75.5000    39.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    58.7500    39.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    56.4000    39.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.6000    39.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    84.1000     3.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    84.2000     6.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    82.5000     3.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    82.0000     0.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    68.4000     1.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    69.8000     5.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    68.2000     2.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    79.1000     5.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    81.2000     6.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    88.3000    50.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    55.2000    15.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver     2.2000    15.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver     7.4000    17.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    16.3000    26.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    16.5000    49.1500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    15.4500    50.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    24.2000    50.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    30.5000    48.0500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    40.5000    50.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    31.8500    49.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    30.7000    50.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    62.0000    50.7500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.0500    48.7500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.4500    43.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    97.5000    10.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    99.2000    10.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    97.1000     9.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.9000    56.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.2000    50.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.2000    51.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.2000    52.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.2000    53.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.2000    54.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.2000    55.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    10.2000    56.2000    0.0000  top
+G***      LOGO                Logo_silk_OSHW_6x6mm              14.0000    27.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.4500    42.2500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    73.2500    50.6500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.4500    45.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    90.6000    48.3500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.4500    46.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    37.7000    20.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    38.7000    24.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    30.8000    24.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    80.1500    33.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.1000    30.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    81.3000    32.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    73.4000    34.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    78.7500    35.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    86.0000    36.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    67.7000    34.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    59.5000    21.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    62.1510    17.3190    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    59.9000    25.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    58.0000    26.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    58.2000    23.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    56.6500    23.2500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    50.7000    32.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.9000    31.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    59.4000    31.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    65.5800    30.1460    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    57.3000    29.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    57.2000    31.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    71.1000    38.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    55.0000    21.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.8000    34.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    59.4000    34.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    57.2000    34.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    55.2000    34.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    69.8000    48.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    65.7000    38.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    59.1000    37.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    55.4000    37.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    86.8000    50.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.4500    48.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    75.3500    50.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    75.8000    41.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    75.4000    45.8000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    47.3000    10.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    76.3500    47.6500    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    87.6500    49.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    85.3920    32.8130    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    88.1000    32.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    88.1000    25.0000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    84.9000    16.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    81.3000     8.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    81.1000     5.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    81.6000    10.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    81.4000    15.5000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    67.8000     8.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    65.6000     8.7000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    62.8000    10.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    84.8000    43.6000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    65.4000    10.4000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    64.9000    12.9000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    64.8180    19.7320    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.6000    25.2000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    63.6750    21.6370    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    63.0400    23.9230    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    64.1830    17.4460    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    61.6430    23.1610    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    51.3000    15.1000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    54.1000    18.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    52.0000    18.3000    0.0000  top
+                              Lerche_via_0.35mm_GND_MaskOver    53.6000    19.9000    0.0000  top
+## End
