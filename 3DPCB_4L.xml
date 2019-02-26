@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:/Users/chlso/GitHub/3DPCB-4LAYER/3DPCB_4L.sch</source>
-    <date>08-06-2017 13:01:23</date>
-    <tool>Eeschema 4.0.4-stable</tool>
+    <source>C:/Users/lerch/OneDrive/Dokumenter/GitHub/3DPCB-4LAYER/3DPCB_4L.sch</source>
+    <date>23-02-2018 09:46:55</date>
+    <tool>Eeschema 4.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>3DPCB</title>
@@ -43,14 +43,14 @@
     <comp ref="C18">
       <value>100pF</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC0CF</tstamp>
     </comp>
     <comp ref="R1">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC30E</tstamp>
     </comp>
@@ -64,77 +64,77 @@
     <comp ref="R7">
       <value>33R</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC60B</tstamp>
     </comp>
     <comp ref="R8">
       <value>33R</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC611</tstamp>
     </comp>
     <comp ref="C5">
       <value>18p</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC6FE</tstamp>
     </comp>
     <comp ref="C9">
       <value>18p</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC704</tstamp>
     </comp>
     <comp ref="L1">
       <value>INDUCTOR</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="device" part="INDUCTOR"/>
+      <libsource lib="3DPCB_4L-rescue" part="INDUCTOR-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AC987</tstamp>
     </comp>
     <comp ref="C17">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524ACD38</tstamp>
     </comp>
     <comp ref="C6">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AD2DD</tstamp>
     </comp>
     <comp ref="C2">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524AD38F</tstamp>
     </comp>
     <comp ref="C1">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524ADFCF</tstamp>
     </comp>
     <comp ref="U3">
       <value>BSS84</value>
       <footprint>LercheTech:Lerche_SOT23-3</footprint>
-      <libsource lib="lerchetech" part="BSS84"/>
+      <libsource lib="3DPCB_4L-rescue" part="BSS84-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B1CD6</tstamp>
     </comp>
     <comp ref="R11">
       <value>1k5</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B1CE3</tstamp>
     </comp>
@@ -148,56 +148,56 @@
     <comp ref="D4">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B20F1</tstamp>
     </comp>
     <comp ref="D3">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2100</tstamp>
     </comp>
     <comp ref="D2">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2117</tstamp>
     </comp>
     <comp ref="D1">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B211D</tstamp>
     </comp>
     <comp ref="R6">
       <value>1k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2393</tstamp>
     </comp>
     <comp ref="R5">
       <value>1k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B23B4</tstamp>
     </comp>
     <comp ref="R4">
       <value>1k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B23BA</tstamp>
     </comp>
     <comp ref="R3">
       <value>1k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B23C0</tstamp>
     </comp>
@@ -218,21 +218,21 @@
     <comp ref="C24">
       <value>100uF</value>
       <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8C9F</tstamp>
     </comp>
     <comp ref="C25">
       <value>100uF</value>
       <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8CAC</tstamp>
     </comp>
     <comp ref="C26">
       <value>100uF</value>
       <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8CB2</tstamp>
     </comp>
@@ -288,42 +288,42 @@
     <comp ref="C4">
       <value>10uF</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1A8</tstamp>
     </comp>
     <comp ref="C7">
       <value>10uF</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1B4</tstamp>
     </comp>
     <comp ref="C10">
       <value>10uF</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1C0</tstamp>
     </comp>
     <comp ref="R10">
       <value>4K7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1CC</tstamp>
     </comp>
     <comp ref="R12">
       <value>4K7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1D2</tstamp>
     </comp>
     <comp ref="R13">
       <value>4K7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BE1D8</tstamp>
     </comp>
@@ -344,14 +344,14 @@
     <comp ref="R15">
       <value>47k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BFF2E</tstamp>
     </comp>
     <comp ref="R14">
       <value>47k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524BFF34</tstamp>
     </comp>
@@ -365,105 +365,105 @@
     <comp ref="C16">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17C4</tstamp>
     </comp>
     <comp ref="C15">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17CA</tstamp>
     </comp>
     <comp ref="C14">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17D0</tstamp>
     </comp>
     <comp ref="C13">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17D6</tstamp>
     </comp>
     <comp ref="C12">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C17DC</tstamp>
     </comp>
     <comp ref="C28">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C263D</tstamp>
     </comp>
     <comp ref="C29">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C2975</tstamp>
     </comp>
     <comp ref="C30">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C297B</tstamp>
     </comp>
     <comp ref="C31">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C2981</tstamp>
     </comp>
     <comp ref="C22">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C31F7</tstamp>
     </comp>
     <comp ref="C23">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C31FD</tstamp>
     </comp>
     <comp ref="R33">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2E40</tstamp>
     </comp>
     <comp ref="R37">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B2E46</tstamp>
     </comp>
     <comp ref="C39">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B3A72</tstamp>
     </comp>
     <comp ref="C8">
       <value>100nF</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B3DEF</tstamp>
     </comp>
@@ -484,28 +484,28 @@
     <comp ref="C43">
       <value>47uF</value>
       <footprint>Capacitors_SMD:c_elec_5x5.8</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E8190</tstamp>
     </comp>
     <comp ref="C44">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E8570</tstamp>
     </comp>
     <comp ref="C45">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E8576</tstamp>
     </comp>
     <comp ref="C46">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524E857C</tstamp>
     </comp>
@@ -526,42 +526,42 @@
     <comp ref="R27">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52581C18</tstamp>
     </comp>
     <comp ref="D6">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52582C80</tstamp>
     </comp>
     <comp ref="R28">
       <value>1k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52582C86</tstamp>
     </comp>
     <comp ref="R41">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52584B5A</tstamp>
     </comp>
     <comp ref="R42">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52584B60</tstamp>
     </comp>
     <comp ref="R43">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52584B66</tstamp>
     </comp>
@@ -575,14 +575,14 @@
     <comp ref="R44">
       <value>3k3</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5258FBE5</tstamp>
     </comp>
     <comp ref="R45">
       <value>3k3</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5258FC56</tstamp>
     </comp>
@@ -590,42 +590,42 @@
       <value>IHLP1212BZER2R2M11</value>
       <footprint>LercheTech:Lerche_IHLP-1212BZ-11_Inductor</footprint>
       <datasheet>http://www.vishay.com/docs/34289/lp12bz11.pdf</datasheet>
-      <libsource lib="device" part="INDUCTOR"/>
+      <libsource lib="3DPCB_4L-rescue" part="INDUCTOR-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5260BF3A</tstamp>
     </comp>
     <comp ref="U23">
       <value>MCP4728</value>
       <footprint>LercheTech:Lerche_MSOP-10</footprint>
-      <libsource lib="lerchetech" part="MCP4728"/>
+      <libsource lib="3DPCB_4L-rescue" part="MCP4728-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5269312C</tstamp>
     </comp>
     <comp ref="R19">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52693379</tstamp>
     </comp>
     <comp ref="R18">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5269337F</tstamp>
     </comp>
     <comp ref="C50">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52695CF1</tstamp>
     </comp>
     <comp ref="C51">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52696F13</tstamp>
     </comp>
@@ -639,14 +639,14 @@
     <comp ref="R20">
       <value>47k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>527BAFDA</tstamp>
     </comp>
     <comp ref="R9">
       <value>10k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>52E2658F</tstamp>
     </comp>
@@ -681,28 +681,28 @@
     <comp ref="D7">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343E976</tstamp>
     </comp>
     <comp ref="D8">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343E97C</tstamp>
     </comp>
     <comp ref="R2">
       <value>1k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343EF32</tstamp>
     </comp>
     <comp ref="R55">
       <value>5k8</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5343EF38</tstamp>
     </comp>
@@ -737,28 +737,28 @@
     <comp ref="R21">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A85F5</tstamp>
     </comp>
     <comp ref="R24">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A85FB</tstamp>
     </comp>
     <comp ref="C52">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A860D</tstamp>
     </comp>
     <comp ref="C36">
       <value>100nF</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8619</tstamp>
     </comp>
@@ -779,7 +779,7 @@
     <comp ref="C32">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A862C</tstamp>
     </comp>
@@ -800,28 +800,28 @@
     <comp ref="R22">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A868D</tstamp>
     </comp>
     <comp ref="R29">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8693</tstamp>
     </comp>
     <comp ref="C53">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86A5</tstamp>
     </comp>
     <comp ref="C37">
       <value>100nF</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86B1</tstamp>
     </comp>
@@ -835,7 +835,7 @@
     <comp ref="C33">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A86C4</tstamp>
     </comp>
@@ -856,28 +856,28 @@
     <comp ref="R23">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8725</tstamp>
     </comp>
     <comp ref="R30">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A872B</tstamp>
     </comp>
     <comp ref="C54">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A873D</tstamp>
     </comp>
     <comp ref="C38">
       <value>10n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A8749</tstamp>
     </comp>
@@ -898,7 +898,7 @@
     <comp ref="C34">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>538A875C</tstamp>
     </comp>
@@ -919,28 +919,28 @@
     <comp ref="R31">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EACD</tstamp>
     </comp>
     <comp ref="R32">
       <value>0R05</value>
       <footprint>LercheTech:Lerche_R1206</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAD3</tstamp>
     </comp>
     <comp ref="C69">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAE5</tstamp>
     </comp>
     <comp ref="C67">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EAF1</tstamp>
     </comp>
@@ -961,7 +961,7 @@
     <comp ref="C65">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E4EB04</tstamp>
     </comp>
@@ -982,49 +982,49 @@
     <comp ref="U12">
       <value>MCP4728</value>
       <footprint>LercheTech:Lerche_MSOP-10</footprint>
-      <libsource lib="lerchetech" part="MCP4728"/>
+      <libsource lib="3DPCB_4L-rescue" part="MCP4728-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E5DFFA</tstamp>
     </comp>
     <comp ref="C64">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E5FD48</tstamp>
     </comp>
     <comp ref="C27">
       <value>100uF</value>
       <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524B8CB8</tstamp>
     </comp>
     <comp ref="C71">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E62C00</tstamp>
     </comp>
     <comp ref="C70">
       <value>100uF</value>
       <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53E62C06</tstamp>
     </comp>
     <comp ref="C3">
       <value>10uF</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53F73184</tstamp>
     </comp>
     <comp ref="R34">
       <value>4K7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>53F7343E</tstamp>
     </comp>
@@ -1045,7 +1045,7 @@
     <comp ref="C19">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5502848E</tstamp>
     </comp>
@@ -1073,70 +1073,70 @@
     <comp ref="C11">
       <value>100uF</value>
       <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D61144</tstamp>
     </comp>
     <comp ref="R35">
       <value>1M</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D62441</tstamp>
     </comp>
     <comp ref="C20">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D62D53</tstamp>
     </comp>
     <comp ref="R36">
       <value>20R</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D62FF8</tstamp>
     </comp>
     <comp ref="R38">
       <value>51k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D63E21</tstamp>
     </comp>
     <comp ref="R40">
       <value>41k2</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D63E2C</tstamp>
     </comp>
     <comp ref="R39">
       <value>13k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D63E32</tstamp>
     </comp>
     <comp ref="R56">
       <value>10R</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D86BBC</tstamp>
     </comp>
     <comp ref="R59">
       <value>10R</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D87639</tstamp>
     </comp>
     <comp ref="R58">
       <value>10R</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D8763F</tstamp>
     </comp>
@@ -1178,28 +1178,28 @@
     <comp ref="R16">
       <value>47k</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>524C0A1F</tstamp>
     </comp>
     <comp ref="R57">
       <value>10R</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>55D87633</tstamp>
     </comp>
     <comp ref="C21">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>580648B6</tstamp>
     </comp>
     <comp ref="C47">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5806D094</tstamp>
     </comp>
@@ -1220,7 +1220,7 @@
     <comp ref="D10">
       <value>Vz10V/0.5W</value>
       <footprint>Diodes_SMD:SMA_Standard</footprint>
-      <libsource lib="device" part="ZENERsmall"/>
+      <libsource lib="3DPCB_4L-cache" part="ZENERsmall"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5811364C</tstamp>
     </comp>
@@ -1241,7 +1241,7 @@
     <comp ref="P8">
       <value>CONN_02X03</value>
       <footprint>LercheTech:Lerche_Molex_Microfit_0430450607</footprint>
-      <libsource lib="conn" part="CONN_02X03"/>
+      <libsource lib="3DPCB_4L-cache" part="CONN_02X03"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>582DF4EB</tstamp>
     </comp>
@@ -1325,105 +1325,105 @@
     <comp ref="P3">
       <value>CONN_01X02</value>
       <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
-      <libsource lib="conn" part="CONN_01X02"/>
+      <libsource lib="3DPCB_4L-cache" part="CONN_01X02"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58779D11</tstamp>
     </comp>
     <comp ref="R49">
       <value>4k7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5879127B</tstamp>
     </comp>
     <comp ref="D13">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>587971F1</tstamp>
     </comp>
     <comp ref="R51">
       <value>4k7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5879B769</tstamp>
     </comp>
     <comp ref="D14">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5879BFF3</tstamp>
     </comp>
     <comp ref="R50">
       <value>4k7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5879F744</tstamp>
     </comp>
     <comp ref="D11">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5879F9AC</tstamp>
     </comp>
     <comp ref="R52">
       <value>4k7</value>
       <footprint>LercheTech:Lerche_R0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>587A1BB4</tstamp>
     </comp>
     <comp ref="D12">
       <value>LED</value>
       <footprint>LEDs:LED_0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>587A1E30</tstamp>
     </comp>
     <comp ref="C35">
       <value>100n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>587D374F</tstamp>
     </comp>
     <comp ref="C40">
       <value>220n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58B5A292</tstamp>
     </comp>
     <comp ref="C41">
       <value>220n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58B5B680</tstamp>
     </comp>
     <comp ref="C42">
       <value>220n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58B5DB46</tstamp>
     </comp>
     <comp ref="C48">
       <value>220n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58B6132C</tstamp>
     </comp>
     <comp ref="C55">
       <value>220n</value>
       <footprint>LercheTech:Lerche_C0603</footprint>
-      <libsource lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L"/>
+      <libsource lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58B63D7F</tstamp>
     </comp>
@@ -1462,10 +1462,10 @@
         <pin num="25" name="PAD" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="lerchetech" part="BSS84">
+    <libpart lib="3DPCB_4L-rescue" part="BSS84-RESCUE-3DPCB_4L">
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">BSS84</field>
+        <field name="Value">BSS84-RESCUE-3DPCB_4L</field>
       </fields>
       <pins>
         <pin num="1" name="G" type="input"/>
@@ -1476,11 +1476,7 @@
     <libpart lib="device" part="C">
       <description>Unpolarized capacitor</description>
       <footprints>
-        <fp>C?</fp>
-        <fp>C_????_*</fp>
-        <fp>C_????</fp>
-        <fp>SMD*_c</fp>
-        <fp>Capacitor*</fp>
+        <fp>C_*</fp>
       </footprints>
       <fields>
         <field name="Reference">C</field>
@@ -1491,7 +1487,7 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-rescue" part="C-RESCUE-3DPCB_4L">
+    <libpart lib="3DPCB_4L-cache" part="C-RESCUE-3DPCB_4L">
       <footprints>
         <fp>SM*</fp>
         <fp>C?</fp>
@@ -1506,8 +1502,7 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="conn" part="CONN_01X02">
-      <description>Connector, single row, 01x02</description>
+    <libpart lib="3DPCB_4L-cache" part="CONN_01X02">
       <footprints>
         <fp>Pin_Header_Straight_1X02</fp>
         <fp>Pin_Header_Angled_1X02</fp>
@@ -1523,8 +1518,7 @@
         <pin num="2" name="P2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="conn" part="CONN_02X03">
-      <description>Connector, double row, 02x03</description>
+    <libpart lib="3DPCB_4L-cache" part="CONN_02X03">
       <footprints>
         <fp>Pin_Header_Straight_2X03</fp>
         <fp>Pin_Header_Angled_2X03</fp>
@@ -1609,7 +1603,7 @@
         <pin num="8" name="P8" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-rescue" part="CP-RESCUE-3DPCB_4L">
+    <libpart lib="3DPCB_4L-cache" part="CP-RESCUE-3DPCB_4L">
       <footprints>
         <fp>CP*</fp>
         <fp>SM*</fp>
@@ -1643,21 +1637,17 @@
         <field name="Value">FIDUCIAL</field>
       </fields>
     </libpart>
-    <libpart lib="device" part="INDUCTOR">
-      <footprints>
-        <fp>Choke_*</fp>
-        <fp>*Coil*</fp>
-      </footprints>
+    <libpart lib="3DPCB_4L-rescue" part="INDUCTOR-RESCUE-3DPCB_4L">
       <fields>
         <field name="Reference">L</field>
-        <field name="Value">INDUCTOR</field>
+        <field name="Value">INDUCTOR-RESCUE-3DPCB_4L</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-rescue" part="LED-RESCUE-3DPCB_4L">
+    <libpart lib="3DPCB_4L-cache" part="LED-RESCUE-3DPCB_4L">
       <footprints>
         <fp>LED-3MM</fp>
         <fp>LED-5MM</fp>
@@ -1784,10 +1774,10 @@
         <pin num="100" name="RTCK" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="lerchetech" part="MCP4728">
+    <libpart lib="3DPCB_4L-rescue" part="MCP4728-RESCUE-3DPCB_4L">
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">MCP4728</field>
+        <field name="Value">MCP4728-RESCUE-3DPCB_4L</field>
       </fields>
       <pins>
         <pin num="1" name="Vdd" type="power_in"/>
@@ -1865,7 +1855,7 @@
       <description>Resistor</description>
       <footprints>
         <fp>R_*</fp>
-        <fp>Resistor_*</fp>
+        <fp>R_*</fp>
       </footprints>
       <fields>
         <field name="Reference">R</field>
@@ -1876,7 +1866,7 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="3DPCB_4L-rescue" part="R-RESCUE-3DPCB_4L">
+    <libpart lib="3DPCB_4L-cache" part="R-RESCUE-3DPCB_4L">
       <footprints>
         <fp>R?</fp>
         <fp>SM0603</fp>
@@ -1941,7 +1931,7 @@
         <pin num="Shie" name="Shield" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="device" part="ZENERsmall">
+    <libpart lib="3DPCB_4L-cache" part="ZENERsmall">
       <footprints>
         <fp>D?</fp>
         <fp>SO*</fp>
@@ -1958,20 +1948,17 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="3DPCB_4L-rescue">
-      <uri>C:\Users\chlso\GitHub\3DPCB-4LAYER\3DPCB_4L-rescue.lib</uri>
+    <library logical="lerchetech">
+      <uri>C:\Users\lerch\OneDrive\Dokumenter\GitHub\LercheTech_KiCAD\lerchetech.lib</uri>
     </library>
     <library logical="device">
       <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
     </library>
-    <library logical="conn">
-      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
-    </library>
-    <library logical="lerchetech">
-      <uri>C:\Users\chlso\GitHub\LercheTech_KiCAD\lerchetech.lib</uri>
+    <library logical="3DPCB_4L-rescue">
+      <uri>C:\Users\lerch\OneDrive\Dokumenter\GitHub\3DPCB-4LAYER\3DPCB_4L-rescue.lib</uri>
     </library>
     <library logical="3DPCB_4L-cache">
-      <uri>C:\Users\chlso\GitHub\3DPCB-4LAYER\3DPCB_4L-cache.lib</uri>
+      <uri>C:\Users\lerch\OneDrive\Dokumenter\GitHub\3DPCB-4LAYER\3DPCB_4L-cache.lib</uri>
     </library>
   </libraries>
   <nets>
